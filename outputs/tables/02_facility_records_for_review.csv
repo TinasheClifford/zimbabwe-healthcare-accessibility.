@@ -1,0 +1,36 @@
+source_excel_row,Country,source_province,source_name,source_type,source_ownership,Lat,Long,LL source,facility_id,province_clean,facility_name,facility_type,ownership,latitude,longitude,coordinate_valid,canonical_duplicate,status
+97512,Zimbabwe,Bulawayo,Dr. Shennan Clinic,Clinic,Local authority,,,,ZWE_MFL_097512,Bulawayo,Dr. Shennan Clinic,Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+97513,Zimbabwe,Bulawayo,E. F. watson Clinic,Clinic,Local authority,,,,ZWE_MFL_097513,Bulawayo,E. F. watson Clinic,Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+97742,Zimbabwe,Manicaland,Rumbidzai Rural Health Clinic,Rural Health Clinic,Local authority,,,,ZWE_MFL_097742,Manicaland,Rumbidzai Rural Health Clinic,Rural Health Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+97761,Zimbabwe,Manicaland,St. Peters Clinic,Clinic,FBO,,,,ZWE_MFL_097761,Manicaland,St. Peters Clinic,Clinic,FBO,,,False,False,missing_or_invalid_coordinates
+98209,Zimbabwe,Mashonaland East,Dewe Clinic,Clinic,Local authority,,,,ZWE_MFL_098209,Mashonaland East,Dewe Clinic,Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98210,Zimbabwe,Mashonaland East,Epworth Clinic,Clinic,FBO,,,,ZWE_MFL_098210,Mashonaland East,Epworth Clinic,Clinic,FBO,,,False,False,missing_or_invalid_coordinates
+98211,Zimbabwe,Mashonaland East,Port Health Clinic,Clinic,MoH,,,,ZWE_MFL_098211,Mashonaland East,Port Health Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98212,Zimbabwe,Mashonaland West,Dzivarasekwa Extension Clinic,Clinic,Local authority,,,,ZWE_MFL_098212,Mashonaland West,Dzivarasekwa Extension Clinic,Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98213,Zimbabwe,Mashonaland West,Helwin Clinic,Clinic,Local authority,,,,ZWE_MFL_098213,Mashonaland West,Helwin Clinic,Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98215,Zimbabwe,Mashonaland West,Tobacco Research B Clinic,Clinic,Local authority,,,,ZWE_MFL_098215,Mashonaland West,Tobacco Research B Clinic,Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98216,Zimbabwe,Mashonaland West,ZPS Clinic,Clinic,MoH,,,,ZWE_MFL_098216,Mashonaland West,ZPS Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98316,Zimbabwe,Masvingo,Mutimurefu Clinic,Clinic,MoH,,,,ZWE_MFL_098316,Masvingo,Mutimurefu Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98558,Zimbabwe,Matabeleland North,Imbizo Camp Clinic,Clinic,MoH,,,,ZWE_MFL_098558,Matabeleland North,Imbizo Camp Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98559,Zimbabwe,Matabeleland North,Majiji Rural Health Clinic,Rural Health Clinic,Local authority,,,,ZWE_MFL_098559,Matabeleland North,Majiji Rural Health Clinic,Rural Health Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98560,Zimbabwe,Matabeleland North,Sikhumi Clinic,Clinic,MoH,,,,ZWE_MFL_098560,Matabeleland North,Sikhumi Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98561,Zimbabwe,Matabeleland North,St. James Clinic,Clinic,FBO,,,,ZWE_MFL_098561,Matabeleland North,St. James Clinic,Clinic,FBO,,,False,False,missing_or_invalid_coordinates
+98562,Zimbabwe,Matabeleland North,T. G.  Silundika (Edu) Clinic,Clinic,MoH,,,,ZWE_MFL_098562,Matabeleland North,T. G. Silundika (Edu) Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98563,Zimbabwe,Matabeleland South,Bhezu Clinic,Clinic,Local authority,,,,ZWE_MFL_098563,Matabeleland South,Bhezu Clinic,Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98564,Zimbabwe,Matabeleland South,Ekukhanyeni Rural Health Clinic,Rural Health Clinic,MoH,,,,ZWE_MFL_098564,Matabeleland South,Ekukhanyeni Rural Health Clinic,Rural Health Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98565,Zimbabwe,Matabeleland South,J. M. Nkomo Clinic,Clinic,MoH,,,,ZWE_MFL_098565,Matabeleland South,J. M. Nkomo Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98566,Zimbabwe,Matabeleland South,J. Ziyaphapha Clinic,Clinic,MoH,,,,ZWE_MFL_098566,Matabeleland South,J. Ziyaphapha Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98567,Zimbabwe,Matabeleland South,Madlambu Rural Health Clinic,Rural Health Clinic,Local authority,,,,ZWE_MFL_098567,Matabeleland South,Madlambu Rural Health Clinic,Rural Health Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98569,Zimbabwe,Matabeleland South,Ntabenende Clinic,Clinic,MoH,,,,ZWE_MFL_098569,Matabeleland South,Ntabenende Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98570,Zimbabwe,Matabeleland South,Reps  (Educ) Clinic,Clinic,MoH,,,,ZWE_MFL_098570,Matabeleland South,Reps (Educ) Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98571,Zimbabwe,Matabeleland South,Saphola Clinic,Clinic,MoH,,,,ZWE_MFL_098571,Matabeleland South,Saphola Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98572,Zimbabwe,Matabeleland South,Sunzukwi Clinic,Clinic,MoH,,,,ZWE_MFL_098572,Matabeleland South,Sunzukwi Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98573,Zimbabwe,Midlands,Al Davies Clinic,Clinic,Local authority,,,,ZWE_MFL_098573,Midlands,Al Davies Clinic,Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98581,Zimbabwe,Midlands,Chenhunguru Rural Health Clinic,Rural Health Clinic,MoH,,,,ZWE_MFL_098581,Midlands,Chenhunguru Rural Health Clinic,Rural Health Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98596,Zimbabwe,Midlands,Dinjane Rural Health Clinic,Rural Health Clinic,Local authority,,,,ZWE_MFL_098596,Midlands,Dinjane Rural Health Clinic,Rural Health Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98600,Zimbabwe,Midlands,Fletcher High School Clinic,Clinic,MoH,,,,ZWE_MFL_098600,Midlands,Fletcher High School Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98669,Zimbabwe,Midlands,Mkoba Teachers College Clinic,Clinic,MoH,,,,ZWE_MFL_098669,Midlands,Mkoba Teachers College Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98671,Zimbabwe,Midlands,Mlezu Rural Health Clinic,Rural Health Clinic,MoH,,,,ZWE_MFL_098671,Midlands,Mlezu Rural Health Clinic,Rural Health Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98679,Zimbabwe,Midlands,MSU Clinic,Clinic,MoH,,,,ZWE_MFL_098679,Midlands,MSU Clinic,Clinic,MoH,,,False,False,missing_or_invalid_coordinates
+98728,Zimbabwe,Midlands,Tanana Rural Health Clinic,Rural Health Clinic,Local authority,,,,ZWE_MFL_098728,Midlands,Tanana Rural Health Clinic,Rural Health Clinic,Local authority,,,False,False,missing_or_invalid_coordinates
+98738,Zimbabwe,Midlands,Ward 1 Clinic,Clinic,Local authority,,,,ZWE_MFL_098738,Midlands,Ward 1 Clinic,Clinic,Local authority,,,False,False,missing_or_invalid_coordinates

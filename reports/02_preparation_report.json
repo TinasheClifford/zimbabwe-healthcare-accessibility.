@@ -1,0 +1,66 @@
+{
+  "author": "Tinashe Clifford Makandise",
+  "facility_audit": {
+    "original_rows": 1236,
+    "usable_in_country_locations": 1201,
+    "status_counts": {
+      "accepted": 1201,
+      "missing_or_invalid_coordinates": 35
+    },
+    "multiple_district_assignments": 0,
+    "province_disagreements": 2
+  },
+  "boundary_diagnostics": {
+    "country_area_km2": 390772.2900033928,
+    "country_not_covered_by_districts_km2": 0.0,
+    "district_union_outside_country_km2": 0.0,
+    "district_sum_minus_union_km2": 1.03759765625e-09,
+    "max_pair_overlap_km2": 0.0,
+    "max_district_outside_parent_km2": 0.0
+  },
+  "population_audit": {
+    "original_raster_population": 14862927.0006076,
+    "positive_cells": 479646,
+    "zero_population_cells": 0,
+    "nodata_cells": 286700,
+    "outside_country_centre_cells": 615,
+    "outside_country_centre_population": 11082.865601629019,
+    "inside_country_unmatched_cells": 0,
+    "inside_country_unmatched_population": 0.0,
+    "assigned_population": 14851844.135005971,
+    "inside_country_population": 14851844.135005971,
+    "multiple_district_cells": 0,
+    "multiple_district_cell_population": 0.0,
+    "reconciliation_difference": 0.0,
+    "outside_country_population_percent": 0.07456718048319788
+  },
+  "methods": {
+    "population_assignment": "positive native raster-cell centre; full count assigned to centre",
+    "district_border_tie": "lowest district code; flag retained",
+    "unmatched": "no snapping; retain audit and account separately",
+    "facility_missing_coordinates": "excluded from mapped analytical locations; source records retained",
+    "area_diagnostics_crs": "EPSG:6933",
+    "distance_analysis": "not yet performed"
+  },
+  "input_sha256": {
+    "ssa_public_health_facilities_2019.xlsx": "6ab31b0d2601e0cd53e6360c5f6f9b415b2f6e2895b7a687b35f2ddedc3950b1",
+    "zwe_ppp_2020_1km_Aggregated_UNadj.tif": "5152f3fcefdcd5986f7ef844d19a31f1489c7da01ed9169b8e00958a40d32866",
+    "zwe_admin0.geojson": "20a989ff85cbaf0f4b0c080bab441fad5c1f5061681adcf838833c422a5fe1a3",
+    "zwe_admin1.geojson": "164a962ef6e96330d769e06665009da3eee9434f9828f9c4a021a9012cc3ef6a",
+    "zwe_admin2.geojson": "0e0f5b8a1b95a77ece2a3007d9e0977d95ef5357d7d873fb898545d8cfd3d518"
+  },
+  "output_sha256": {
+    "facilities_prepared.geojson": "1eede9e3124964596ee55bc38c89dc1be1388a7db760c746025e7dece54844dd",
+    "country_prepared.geojson": "58327c5c969fc41cd4e9d11701add89cc972d1d1f7b6f92793e1fc1651258274",
+    "provinces_prepared.geojson": "87e328d62209b2e13615c14dbd0a719156377b5556b4744a7488d5dbfb328cac",
+    "districts_prepared.geojson": "5c76ceb30cd9e1ddceaffa0cfe99dbc4b693f3bb5ffcd6f428fdffeb1c1749af",
+    "population_cells_prepared.csv": "6f22454983adffe8e54e9d1e0230418bf397043a70d85478d367cf66c258e387"
+  },
+  "versions": {
+    "python": "3.12.14",
+    "geopandas": "1.2.0",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "rasterio": "1.5.2"
+  }
+}

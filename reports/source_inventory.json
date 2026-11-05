@@ -1,0 +1,29 @@
+[
+  {
+    "dataset": "Healthcare facilities",
+    "local_file": "data/raw/ssa_public_health_facilities_2019.xlsx",
+    "source_url": "https://api.figshare.com/v2/articles/7725374",
+    "download_url": "https://ndownloader.figshare.com/files/14379593",
+    "reference_period": "Historical compilation assembled 2012\u20132018; published 2019; individual country source years may differ",
+    "license": "CC0 (Figshare record); cite Maina et al. (2019)",
+    "status": "downloaded; original repository MD5 verified"
+  },
+  {
+    "dataset": "Population counts",
+    "local_file": "data/raw/zwe_ppp_2020_1km_Aggregated_UNadj.tif",
+    "source_url": "https://hub.worldpop.org/geodata/summary?id=38911",
+    "download_url": "https://data.worldpop.org/GIS/Population/Global_2000_2020_1km_UNadj/2020/ZWE/zwe_ppp_2020_1km_Aggregated_UNadj.tif",
+    "reference_period": "2020 modelled population, UN-adjusted",
+    "license": "CC BY 4.0; WorldPop recommended attribution",
+    "status": "downloaded"
+  },
+  {
+    "dataset": "Administrative boundaries",
+    "local_file": "data/raw/zwe_admin0.geojson; zwe_admin1.geojson; zwe_admin2.geojson; zwe_admin3.geojson; zwe_adminlines.geojson; zwe_adminpoints.geojson",
+    "source_url": "https://data.humdata.org/dataset/cod-ab-zwe",
+    "download_url": "https://data.humdata.org/dataset/f5c4f4e4-a3c8-4d12-891f-d28d74ce04d5/resource/8e6f53f6-1969-450f-8767-16b940a2c233/download/zwe_admin_boundaries.geojson.zip",
+    "reference_period": "Catalogue: source created 2018, reviewed January 2025; verify downloaded file",
+    "license": "Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO)",
+    "status": "user-supplied extracted GeoJSON files received; basic layer inspection complete; detailed topology pending Notebook 2"
+  }
+]

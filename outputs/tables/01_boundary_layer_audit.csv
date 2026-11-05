@@ -1,0 +1,7 @@
+layer,features,crs,geometry_types,missing_geometry,empty_geometry,invalid_geometry,missing_codes,duplicate_codes
+zwe_admin0,1,EPSG:4326,Polygon,0,0,0,0.0,0.0
+zwe_admin1,10,EPSG:4326,Polygon,0,0,0,0.0,0.0
+zwe_admin2,91,EPSG:4326,Polygon,0,0,0,0.0,0.0
+zwe_admin3,1961,EPSG:4326,Polygon,0,0,0,0.0,0.0
+zwe_adminlines,5789,EPSG:4326,LineString,0,0,0,,
+zwe_adminpoints,2063,EPSG:4326,Point,0,0,0,,

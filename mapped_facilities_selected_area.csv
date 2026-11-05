@@ -1,0 +1,1202 @@
+facility_id,facility_name,facility_type,ownership,latitude,longitude,adm2_pcode,adm2_name,adm1_name,province_disagreement
+ZWE_MFL_097510,Central Clinic,Clinic,Local authority,-20.1664,28.6169,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097511,Cowdray Park Clinic,Clinic,Local authority,-20.0816,28.515591,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097514,Emakandeni Clinic,Clinic,Local authority,-20.1139,28.5278,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097515,Entumbane Clinic,Clinic,Local authority,-20.1253,28.5439,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097516,Ingutsheni Central Hospital,Central Hospital,MoH,-20.182,28.577,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097517,Khami Road Clinic,Clinic,Local authority,-20.1528,28.4308,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097518,Lobengula Clinic,Clinic,Local authority,-20.1361,28.5172,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097519,Luveve Clinic,Clinic,Local authority,-20.0932,28.5151,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097520,Magwegwe Clinic,Clinic,Local authority,-20.1225,28.4956,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097521,Maqhawe Clinic,Clinic,Local authority,-20.1337,28.5259,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097522,Mpilo Central Hospital,Central Hospital,MoH,-20.1269,28.57,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097523,Mzilikazi Clinic,Clinic,Local authority,-20.1356,28.5689,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097524,Njube Clinic,Clinic,Local authority,-20.1361,28.5325,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097525,Nketa Clinic,Clinic,Local authority,-20.1975,28.5319,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097526,Nkulumane Clinic,Clinic,Local authority,-20.185,28.5169,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097527,Northern Surbubs Clinic,Clinic,Local authority,-20.127041,28.590449,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097528,Pelandaba Clinic,Clinic,Local authority,-20.1483,28.5211,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097529,Pumula South Clinic,Clinic,Local authority,-20.1444,28.4733,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097530,Tshabalala Clinic,Clinic,Local authority,-20.1789,28.5342,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097531,UBH Central Hospital,Central Hospital,MoH,-20.1666,28.6157,ZW1021,Bulawayo,Bulawayo,False
+ZWE_MFL_097532,Arcadia Clinic,Clinic,Local authority,-17.8433,31.0533,ZW1921,Harare,Harare,False
+ZWE_MFL_097533,Avondale Clinic,Clinic,Local authority,-17.80889,31.01778,ZW1921,Harare,Harare,False
+ZWE_MFL_097534,Bank Street Clinic,Clinic,Local authority,-17.836384,31.043709,ZW1921,Harare,Harare,False
+ZWE_MFL_097535,Belvedere Clinic,Clinic,Local authority,-17.8211,31.0181,ZW1921,Harare,Harare,False
+ZWE_MFL_097536,Borrowdale Clinic,Clinic,Local authority,-17.7567,31.1036,ZW1921,Harare,Harare,False
+ZWE_MFL_097537,Breaside Clinic,Clinic,Local authority,-17.8428,31.0642,ZW1921,Harare,Harare,False
+ZWE_MFL_097538,Chitungwiza Central Hospital,Central Hospital,MoH,-18.01744,31.0716400146,ZW1922,Chitungwiza,Harare,False
+ZWE_MFL_097539,Eastlea Clinic,Clinic,Local authority,-17.8244,31.0736,ZW1921,Harare,Harare,False
+ZWE_MFL_097540,Glen Norah Clinic,Clinic,Local authority,-17.9083,30.9728,ZW1921,Harare,Harare,False
+ZWE_MFL_097541,Glen View Clinic,Clinic,Local authority,-17.9112,30.9474,ZW1921,Harare,Harare,False
+ZWE_MFL_097542,Greendale Clinic,Clinic,Local authority,-17.8142,31.1272,ZW1921,Harare,Harare,False
+ZWE_MFL_097543,Harare Central Hospital,Central Hospital,MoH,-17.8611,31.0129,ZW1921,Harare,Harare,False
+ZWE_MFL_097544,Hatfield Clinic,Clinic,Local authority,-17.87571,31.09207,ZW1921,Harare,Harare,False
+ZWE_MFL_097545,Highfield Clinic,Clinic,Local authority,-17.8817,30.9819,ZW1921,Harare,Harare,False
+ZWE_MFL_097546,Mabelreign Clinic,Clinic,Local authority,-17.7859,30.9983,ZW1921,Harare,Harare,False
+ZWE_MFL_097547,Marlborough Clinic,Clinic,Local authority,-17.7468,31.0081,ZW1921,Harare,Harare,False
+ZWE_MFL_097548,Matapi Clinic,Clinic,Local authority,-17.8644,31.0329,ZW1921,Harare,Harare,False
+ZWE_MFL_097549,Mbare Clinic,Clinic,Local authority,-17.8644,31.0363,ZW1921,Harare,Harare,False
+ZWE_MFL_097550,Mt. Pleasant Clinic,Clinic,Local authority,-17.767233,31.047843,ZW1921,Harare,Harare,False
+ZWE_MFL_097551,Mufakose Clinic,Clinic,Local authority,-17.8667,30.9225,ZW1921,Harare,Harare,False
+ZWE_MFL_097552,Parirenyatwa Central Hospital,Central Hospital,MoH,-17.812083,31.042737,ZW1921,Harare,Harare,False
+ZWE_MFL_097553,Queen Elizabeth Clinic,Clinic,Local authority,-17.8542,31.0922,ZW1921,Harare,Harare,False
+ZWE_MFL_097554,Southerton Clinic,Clinic,Local authority,-17.86361,31.01917,ZW1921,Harare,Harare,False
+ZWE_MFL_097555,Sunningdale Clinic,Clinic,Local authority,-17.8678,31.0561,ZW1921,Harare,Harare,False
+ZWE_MFL_097556,Tafara Clinic,Clinic,Local authority,-17.8353,31.2111,ZW1921,Harare,Harare,False
+ZWE_MFL_097557,Waterfalls Clinic,Clinic,Local authority,-17.8812,31.04413,ZW1921,Harare,Harare,False
+ZWE_MFL_097558,Western Triangle Clinic,Clinic,Local authority,-17.884185,30.994177,ZW1921,Harare,Harare,False
+ZWE_MFL_097559,Anoldine Clinic,Clinic,FBO,-18.23539,32.2031402588,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097560,Avilla Rural Hospital,Rural Hospital,FBO,-17.46947,32.7869682312,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097561,Bakorenhema Rural Health Clinic,Rural Health Clinic,Local authority,-19.30542,32.3514404297,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097562,Bamba Rural Health Clinic,Rural Health Clinic,MoH,-18.20478,32.3062210083,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097563,Bangure Clinic,Clinic,Local authority,-19.53564,31.7732505798,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097564,Bazerly Rural Health Clinic,Rural Health Clinic,Local authority,-19.25,32.4833,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097565,Bere Rural Health Clinic,Rural Health Clinic,Local authority,-19.2547,31.2569,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097566,Betera Rural Health Clinic,Rural Health Clinic,MoH,-19.37372,32.0012207031,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097567,Birchenough Bridge Rural Hospital,Rural Hospital,MoH,-19.97181,32.3385314941,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097568,Birwiri Rural Hospital,Rural Hospital,MoH,-19.79031,32.6734390259,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097569,Bonda Rural Hospital,Rural Hospital,FBO,-18.8015,32.7137,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097570,Buhera Rural Hospital,Rural Hospital,MoH,-19.33897,31.4359207153,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097571,Bumba Rural Health Clinic,Rural Health Clinic,MoH,-19.65556,32.6358108521,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097572,Burma Valley Rural Health Clinic,Rural Health Clinic,Local authority,-19.20719,32.8068618774,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097573,Bwizi Rural Health Clinic,Rural Health Clinic,Local authority,-19.35569,32.4355812073,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097574,Chabata Clinic,Clinic,Local authority,-19.78603,32.1578102112,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097575,Chakohwa Rural Health Clinic,Rural Health Clinic,Local authority,-19.55397,32.5175590515,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097576,Changazi Rural Health Clinic,Rural Health Clinic,MoH,-19.93394,32.4725608826,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097577,Chapanduka Clinic,Clinic,Local authority,-19.6833,32.1667,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097578,Chapendeka Rural Health Clinic,Rural Health Clinic,MoH,-19.68356,32.1689414978,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097579,Chapwanya Clinic,Clinic,Local authority,-19.17197,31.3524398804,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097580,Chatindo Rural Health Clinic,Rural Health Clinic,Local authority,-17.3645,32.8388,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097581,Chayamiti Rural Health Clinic,Rural Health Clinic,MoH,-19.66983,32.554561615,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097582,Checheche Clinic,Clinic,Local authority,-20.03722,32.6100006104,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097583,Chiadzwa Rural Health Clinic,Rural Health Clinic,MoH,-19.61906,32.3373908997,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097584,Chiduku Clinic,Clinic,Local authority,-18.82058,31.9347496033,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097585,Chikanga Clinic,Clinic,Local authority,-18.96889,32.641078949,ZW1121,Mutare Urban,Manicaland,False
+ZWE_MFL_097586,Chikobvore Rural Health Clinic,Rural Health Clinic,MoH,-18.90203,32.1567192078,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097587,Chikore Clinic,Clinic,Local authority,-17.7814,32.2791,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097588,Chikore Rural Hospital,Rural Hospital,FBO,-20.4168,32.5082,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097589,Chikuhwa Clinic,Clinic,Local authority,-19.72056,32.9373283386,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097590,Chikukwa Rural Health Clinic,Rural Health Clinic,MoH,-19.72056,32.93733,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097591,Chikwakwa Rural Health Clinic,Rural Health Clinic,Local authority,-19.85436,32.5731391907,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097592,Chikwariro Rural Hospital,Rural Hospital,FBO,-19.33714,32.3067817688,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097593,Chimanimani Rural Hospital,Rural Hospital,MoH,-19.8,32.8667,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097594,Chimbudzi Clinic,Clinic,Local authority,-19.4528,31.7667,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097595,Chimusasa Clinic,Clinic,Local authority,-17.4333,32.9833,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097596,Chingamwe Clinic,Clinic,Local authority,-18.606484,32.651554,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097597,Chinhenga Rural Health Clinic,Rural Health Clinic,MoH,-18.03619,32.5024681091,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097598,Chinyadza Clinic,Clinic,FBO,-18.67194,32.022441864,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097599,Chinyamukwakwa Rural Health Clinic,Rural Health Clinic,MoH,-20.91722,32.3608283997,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097600,Chinyika I Rural Health Clinic,Rural Health Clinic,MoH,-18.1513,32.2223,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097601,Chinyika II Rural Health Clinic,Rural Health Clinic,MoH,-18.0461,32.563,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097602,Chinyudze Rural Health Clinic,Rural Health Clinic,MoH,-18.18653,32.2004699707,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097603,Chipangai Clinic,Clinic,Local authority,-20.2258,32.35,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097604,Chipfatsura Rural Health Clinic,Rural Health Clinic,Local authority,-19.17347,32.285358429,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097605,Chipinge Clinic,Clinic,Local authority,-20.2,32.6167,ZW1123,Chipinge Urban,Manicaland,False
+ZWE_MFL_097606,Chipinge District Hospital,District Hospital,MoH,-20.1883,32.6236,ZW1123,Chipinge Urban,Manicaland,False
+ZWE_MFL_097607,Chiriga Clinic,Clinic,Local authority,-20.2693,32.6714,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097608,Chirozva Clinic,Clinic,Local authority,-19.45672,32.0009384155,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097609,Chishingwi Rural Health Clinic,Rural Health Clinic,Local authority,-19.603,32.4055595398,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097610,Chisuma Clinic,Clinic,Local authority,-20.85,32.1833,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097611,Chitaka Rural Health Clinic,Rural Health Clinic,Local authority,-19.12181,32.4840316772,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097612,Chitakatira Rural Health Clinic,Rural Health Clinic,Local authority,-19.13406,32.6866111755,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097613,Chitora Rural Health Clinic,Rural Health Clinic,Local authority,-19.3167,32.5667,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097614,Chiwenga Clinic,Clinic,Local authority,-19.23839,31.9894199371,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097615,Chiwere Rural Health Clinic,Rural Health Clinic,MoH,-19.03914,32.2506408691,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097616,Chiweshe Clinic,Clinic,Local authority,-19.22269,31.8845596313,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097617,Daramombe Clinic,Clinic,FBO,-19.10703,31.3236904144,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097618,Dombo Rural Health Clinic,Rural Health Clinic,MoH,-18.35139,32.4380302429,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097619,Dora Rural Health Clinic,Rural Health Clinic,Local authority,-19.07036,32.5222206116,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097620,Dowa Clinic,Clinic,Local authority,-18.52369,31.802690506,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097621,Dumbamwe Clinic,Clinic,Local authority,-18.42167,32.3853111267,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097622,Elim Rural Hospital,Rural Hospital,FBO,-17.60311,32.7895584106,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097623,Era Mine Clinic,Clinic,Local authority,-18.23656,32.2717208862,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097624,Fern Valley Clinic,Clinic,Local authority,-19.05,32.65,ZW1121,Mutare Urban,Manicaland,False
+ZWE_MFL_097625,Florida Clinic,Clinic,Local authority,-18.97078,32.6524391174,ZW1121,Mutare Urban,Manicaland,False
+ZWE_MFL_097626,Fombe Rural Health Clinic,Rural Health Clinic,Local authority,-17.33472,32.9907493591,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097627,Gairezi Rural Health Clinic,Rural Health Clinic,MoH,-18.10139,32.9547195435,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097628,Garamwera Clinic,Clinic,Local authority,-19.20661,31.4021892548,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097629,Gatsi Clinic,Clinic,FBO,-18.52333,32.8178596497,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097630,Gavhanga Rural Health Clinic,Rural Health Clinic,MoH,-18.9458,32.4455,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097631,Gaza Clinic,Clinic,Local authority,-20.19194,32.6394386292,ZW1123,Chipinge Urban,Manicaland,False
+ZWE_MFL_097632,Gombe Clinic,Clinic,Local authority,-19.23786,31.5333595276,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097633,Gorubi Clinic,Clinic,MoH,-18.6885,32.2285,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097634,Gotekote Rural Health Clinic,Rural Health Clinic,MoH,-17.71917,32.6731910706,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097635,Gowakowa Rural Health Clinic,Rural Health Clinic,MoH,-18.08644,32.3340606689,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097636,Gudyanga Clinic,Clinic,Local authority,-19.86911,32.4042816162,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097637,Gumira Clinic,Clinic,Local authority,-20.2044,32.6334,ZW1123,Chipinge Urban,Manicaland,False
+ZWE_MFL_097638,Gunura Clinic,Clinic,Local authority,-19.87439,32.3069992065,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097639,Guta Rural Health Clinic,Rural Health Clinic,Local authority,-18.74136,32.6529388428,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097640,Guturare Rural Health Clinic,Rural Health Clinic,MoH,-18.9397,32.2233,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097641,Gwenzi Clinic,Clinic,FBO,-20.53,32.6624984741,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097642,Gwindingwi Rural Health Clinic,Rural Health Clinic,MoH,-19.2565,32.1725311279,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097643,Hauna Clinic,Clinic,Local authority,-18.508571,32.850897,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097644,Hauna District Hospital,District Hospital,MoH,-18.499,32.8491,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097645,Hauna Rural Health Clinic,Rural Health Clinic,Local authority,-18.49153,32.85197,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097646,Headlands Clinic,Clinic,Local authority,-18.28597,32.0398902893,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097647,Honde Clinic,Clinic,FBO,-18.60322,32.7697486877,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097648,Hwakata Clinic,Clinic,Local authority,-20.82556,32.4855613708,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097649,Jombe Clinic,Clinic,Local authority,-18.63772,32.702331543,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097650,Junction Clinic,Clinic,Local authority,-20.1589,32.7971,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097651,Kambudzi Clinic,Clinic,Local authority,-17.78936,32.8679695129,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097652,Katsenga Rural Health Clinic,Rural Health Clinic,MoH,-18.72456,32.0034713745,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097653,Kondo Clinic,Clinic,Local authority,-20.39806,32.38528,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097654,Kopera Rural Health Clinic,Rural Health Clinic,MoH,-20.32139,32.7700004578,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097655,Mabee Rural Health Clinic,Rural Health Clinic,MoH,-20.9,32.4833,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097656,Madhuku Clinic,Clinic,Local authority,-20.7203,32.3705,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097657,Madzimbashuro Rural Health Clinic,Rural Health Clinic,MoH,-19.43503,31.6563091278,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097658,Mahenye Rural Health Clinic,Rural Health Clinic,MoH,-21.25,32.392780304,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097659,Makoni Rural Hospital,Rural Hospital,MoH,-18.61997,32.3887786865,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097660,Mambwere Rural Health Clinic,Rural Health Clinic,Local authority,-19.28447,32.6351394653,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097661,Mandeya II Rural Health Clinic,Rural Health Clinic,Local authority,-18.4486,32.9631,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097662,Manzvire Clinic,Clinic,Local authority,-20.77556,32.3402786255,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097663,Mapara Rural Health Clinic,Rural Health Clinic,Local authority,-18.78369,32.6521911621,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097664,Maparadze Clinic,Clinic,Local authority,-21.074223771771,32.2771706365039,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097665,Maparura Rural Health Clinic,Rural Health Clinic,MoH,-18.00294,32.4051094055,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097666,Marange Rural Hospital,Rural Hospital,MoH,-19.25336,32.2742500305,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097667,Masasi Rural Health Clinic,Rural Health Clinic,Local authority,-19.43903,32.4243087769,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097668,Masvosva Rural Health Clinic,Rural Health Clinic,MoH,-18.70275,31.8569393158,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097669,Matanadhwe Clinic,Clinic,Local authority,-21.0045,32.203,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097670,Matize Rural Health Clinic,Rural Health Clinic,MoH,-17.57161,32.9238586426,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097671,Matotwe Rural Health Clinic,Rural Health Clinic,MoH,-18.52292,32.3669204712,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097672,Matsika Clinic,Clinic,Local authority,-18.70075,31.9526691437,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097673,Maurice Nyagumbo Clinic,Clinic,Local authority,-18.67436,32.3371086121,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097674,Mavhiza Rural Health Clinic,Rural Health Clinic,Local authority,-19.50536,32.2386894226,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097675,Mavhudzi Clinic,Clinic,MoH,-18.74053,32.1561393738,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097676,Mayo I Rural Health Clinic,Rural Health Clinic,MoH,-17.8333,32.2833,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097677,Mayo II Rural Health Clinic,Rural Health Clinic,MoH,-17.7575,32.4007,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097678,Mombeyarara Rural Health Clinic,Rural Health Clinic,MoH,-19.20428,31.6037807465,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097679,Moyoweshumba Rural Health Clinic,Rural Health Clinic,Local authority,-18.67472,32.6723594666,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097680,Msilizwi Rural Health Clinic,Rural Health Clinic,MoH,-20.190963,32.619724,ZW1123,Chipinge Urban,Manicaland,False
+ZWE_MFL_097681,Mt. Jenya Rural Health Clinic,Rural Health Clinic,Local authority,-18.754,32.502,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097682,Mt. Mellery Rural Hospital,Rural Hospital,FBO,-17.971098,32.72996,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097683,Mt. Selinda Rural Hospital,Rural Hospital,FBO,-20.42389,32.7030601501,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097684,Mt. Zuma Rural Health Clinic,Rural Health Clinic,MoH,-19.106,32.135,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097685,Mubvurungwa Clinic,Clinic,Local authority,-18.53472,31.9343605042,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097686,Muchadziya Rural Health Clinic,Rural Health Clinic,MoH,-20.01139,32.9486083984,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097687,Mudanda Clinic,Clinic,Local authority,-19.39111,31.7175598145,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097688,Mudavose Clinic,Clinic,Local authority,-19.3283,31.4327,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097689,Mukamba Clinic,Clinic,Local authority,-18.867,32.00271988,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097690,Mukwanda Rural Health Clinic,Rural Health Clinic,Local authority,-19.5166,32.35,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097691,Munyanyi Clinic,Clinic,Local authority,-19.15669,31.7346096039,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097692,Mupotedzi Rural Health Clinic,Rural Health Clinic,Local authority,-18.57139,32.8014717102,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097693,Murambinda District Hospital,District Hospital,FBO,-19.26678,31.6555595398,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097694,Muromo Rural Health Clinic,Rural Health Clinic,MoH,-19.38897,32.556388855,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097695,Murwira Rural Health Clinic,Rural Health Clinic,MoH,-19.5224,31.8113,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097696,Musani Clinic,Clinic,Local authority,-20.08361,32.4033317566,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097697,Mushunje Rural Health Clinic,Rural Health Clinic,Local authority,-19.16811,32.4408111572,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097698,Mustvangwa Clinic,Clinic,Local authority,-19.8016,32.8755,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097699,Mutambara District Hospital,District Hospital,FBO,-19.53492,32.6860313416,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097700,Mutanda Rural Health Clinic,Rural Health Clinic,Local authority,-19.25,32.4,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097701,Mutare Clinic,Clinic,Local authority,-18.9707,32.67086,ZW1121,Mutare Urban,Manicaland,False
+ZWE_MFL_097702,Mutare Provincial Hospital,Provincial Hospital,MoH,-18.97071,32.67086,ZW1121,Mutare Urban,Manicaland,False
+ZWE_MFL_097703,Mutasa Rural Health Clinic,Rural Health Clinic,Local authority,-18.6281,32.7573,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097704,Mutema Clinic,Clinic,Local authority,-20.1306,32.3657,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097705,Mutepfe Clinic,Clinic,Local authority,-19.76764,31.9686908722,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097706,Mutiusinazita Clinic,Clinic,Local authority,-19.72489,32.0673103333,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097707,Muzokomba Clinic,Clinic,Local authority,-19.58381,31.9716701508,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097708,Nerutanga Clinic,Clinic,Local authority,-19.28703,31.3503894806,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097709,Ngaone Clinic,Clinic,Local authority,-20.1778,32.6296,ZW1123,Chipinge Urban,Manicaland,False
+ZWE_MFL_097710,Ngarura Rural Health Clinic,Rural Health Clinic,Local authority,-18.58803,32.8715286255,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097711,Ngorima Clinic,Clinic,Local authority,-20.036,32.8476,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097712,Nyadowa Rural Health Clinic,Rural Health Clinic,Local authority,-17.75789,32.9217185974,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097713,Nyafaru Rural Health Clinic,Rural Health Clinic,Local authority,-18.18917,32.9311103821,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097714,Nyagundi Rural Health Clinic,Rural Health Clinic,MoH,-19.11756,32.3687210083,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097715,Nyahode Clinic,Clinic,MoH,-19.94106,32.822719574,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097716,Nyahove Rural Health Clinic,Rural Health Clinic,MoH,-18.2856,32.0391,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097717,Nyahukwe Rural Health Clinic,Rural Health Clinic,MoH,-18.46983,32.3223114014,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097718,Nyamaropa Rural Health Clinic,Rural Health Clinic,Local authority,-18.5094,32.6858,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097719,Nyamazura Rural Health Clinic,Rural Health Clinic,MoH,-18.88764,32.4168586731,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097720,Nyamidzi Clinic,Clinic,Local authority,-18.93989,32.0872192383,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097721,Nyamombe Clinic,Clinic,FBO,-17.75681,32.5583305359,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097722,Nyamukamani Rural Health Clinic,Rural Health Clinic,MoH,-18.09111,32.1720314026,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097723,Nyanga District Hospital,District Hospital,MoH,-18.22828,32.7575302124,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097724,Nyanyadzi Rural Hospital,Rural Hospital,MoH,-19.78694,32.4219207764,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097725,Nyarumvurwe Rural Health Clinic,Rural Health Clinic,MoH,-18.2235,32.6575012207,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097726,Nyashanu Clinic,Clinic,Local authority,-19.28339,31.5382804871,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097727,Nyatate Rural Health Clinic,Rural Health Clinic,Local authority,-18.01797,32.6720314026,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097728,Nyautare Rural Health Clinic,Rural Health Clinic,MoH,-17.3186,32.845,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097729,Nyazura Clinic,Clinic,Local authority,-18.7059,32.168,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097730,Nzvenga Rural Health Clinic,Rural Health Clinic,Local authority,-19.35089,32.3712501526,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097731,Odzi Rural Hospital,Rural Hospital,Local authority,-18.8667,32.4,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097732,Old Mutare Rural Hospital,Rural Hospital,FBO,-18.90747,32.5880317688,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097733,Paidamoyo Rural Health Clinic,Rural Health Clinic,MoH,-20.11056,32.8058280945,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097734,PSZ Clinic,Clinic,NGO,-19.799881,32.867091,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097735,Rambanapasi Clinic,Clinic,Local authority,-19.13994,31.654499054,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097736,Regina Coeli Rural Hospital,Rural Hospital,FBO,-17.86889,32.8849983215,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097737,Rimbi Clinic,Clinic,Local authority,-20.5475,32.3930587769,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097738,Ringanai Clinic,Clinic,Local authority,-18.5,32.4333,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097739,Rowa Rural Health Clinic,Rural Health Clinic,Local authority,-19.16856,32.6243591309,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097740,Ruchera Rural Health Clinic,Rural Health Clinic,MoH,-18.11878,32.5539703369,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097741,Rukweza Clinic,Clinic,Local authority,-18.8045,32.0837783813,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097743,Rupinda Rural Health Clinic,Rural Health Clinic,MoH,-18.63775,32.8565597534,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097744,Rusape District Hospital,District Hospital,MoH,-18.53892,32.1363601685,ZW1122,Rusape,Manicaland,False
+ZWE_MFL_097745,Rusitu Rural Hospital,Rural Hospital,FBO,-20.03361,32.8647193909,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097746,Sabvura Rural Health Clinic,Rural Health Clinic,Local authority,-18.933041,32.177238,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097747,Sachisuko Rural Health Clinic,Rural Health Clinic,Local authority,-18.6832,32.6324,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097748,Sadziwa Rural Health Clinic,Rural Health Clinic,Local authority,-18.50056,32.5582809448,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097749,Sagambe Rural Health Clinic,Rural Health Clinic,Local authority,-18.32481,33.0028610229,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097750,Sahumani Rural Health Clinic,Rural Health Clinic,Local authority,-18.55569,32.8202781677,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097751,Sakubva District Hospital,District Hospital,MoH,-18.98944,32.6515617371,ZW1121,Mutare Urban,Manicaland,False
+ZWE_MFL_097752,Sakupwanya Rural Health Clinic,Rural Health Clinic,Local authority,-18.60747,32.6556091309,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097753,Samanga Rural Health Clinic,Rural Health Clinic,Local authority,-18.53369,32.755279541,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097754,Sherukuru Rural Health Clinic,Rural Health Clinic,MoH,-18.64078,32.5363616943,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097755,Shinje Clinic,Clinic,Local authority,-19.7167,32.65,ZW1102,Chimanimani,Manicaland,False
+ZWE_MFL_097756,Smaldale Clinic,Clinic,Local authority,-20.4833,32.65,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097757,St. Andrews Rural Hospital,Rural Hospital,FBO,-18.944944,32.187154,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097758,St. Augustines Clinic,Clinic,FBO,-18.849,32.659,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097759,St. Barbaras Rural Hospital,Rural Hospital,FBO,-18.504,32.473,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097760,St. Micheals Rural Hospital,Rural Hospital,FBO,-18.569,32.021,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097762,St. Peters Rural Hospital,Rural Hospital,FBO,-20.788362,32.220426,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097763,St. Theresa Rural Hospital,Rural Hospital,FBO,-18.589,31.918,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097764,Tandi Clinic,Clinic,Local authority,-18.56839,32.0208892822,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097765,Tanganda Rural Health Clinic,Rural Health Clinic,MoH,-20.11056,32.3505592346,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097766,Tombo Rural Health Clinic,Rural Health Clinic,Local authority,-18.0175,32.8838882446,ZW1107,Nyanga,Manicaland,False
+ZWE_MFL_097767,Tongogara Rural Health Clinic,Rural Health Clinic,Local authority,-20.34806,32.306388855,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097768,Toriro Clinic,Clinic,Local authority,-18.7597,32.0791,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097769,Triashill Rural Hospital,Rural Hospital,FBO,-18.43531,32.4730300903,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097770,Tsanzaguru Clinic,Clinic,Local authority,-18.61947,32.1067810059,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097771,Tsonzo Rural Hospital,Rural Hospital,MoH,-18.68836,32.6032485962,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097772,Tuzuka Clinic,Clinic,Local authority,-20.522,32.4566,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097773,Vengere Clinic,Clinic,Local authority,-18.55675,32.1187782288,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097774,Vheneka Clinic,Clinic,Local authority,-20.93722,32.1538887024,ZW1103,Chipinge,Manicaland,False
+ZWE_MFL_097775,Weya Rural Hospital,Rural Hospital,MoH,-18.04158,32.1519699097,ZW1104,Makoni,Manicaland,False
+ZWE_MFL_097776,Zagama Rural Health Clinic,Rural Health Clinic,MoH,-19.55,32.1,ZW1101,Buhera,Manicaland,False
+ZWE_MFL_097777,Zamuchiya Clinic,Clinic,Local authority,-20.1928,32.64,ZW1123,Chipinge Urban,Manicaland,False
+ZWE_MFL_097778,Zimunya Rural Health Clinic,Rural Health Clinic,Local authority,-19.10036,32.6234207153,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097779,Zongororo Rural Health Clinic,Rural Health Clinic,Local authority,-18.615,32.7739,ZW1106,Mutasa,Manicaland,False
+ZWE_MFL_097780,Zumbare Rural Health Clinic,Rural Health Clinic,Local authority,-19.22053,32.1525802612,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097781,Zvipiripiri Rural Health Clinic,Rural Health Clinic,Local authority,-19.33794,32.191028595,ZW1105,Mutare,Manicaland,False
+ZWE_MFL_097782,Angwa Rural Health Clinic,Rural Health Clinic,Local authority,-16.10195,30.3080596924,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097783,Bakasa Rural Health Clinic,Rural Health Clinic,Local authority,-16.52667,30.692779541,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097784,Bandimba Clinic,Clinic,Local authority,-16.36914,31.85968,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097785,Bare Rural Health Clinic,Rural Health Clinic,Local authority,-16.87747,31.1262302399,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097786,Begownie Clinic,Clinic,Local authority,-17.3333,30.9166,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097787,Bepura Rural Health Clinic,Rural Health Clinic,Local authority,-16.85667,30.6725006104,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097788,Bickdale Rural Health Clinic,Rural Health Clinic,Local authority,-16.9533,30.7111,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097789,Bindura Provincial Hospital,Provincial Hospital,MoH,-17.29005,31.3287696838,ZW1221,Bindura Urban,Mashonaland Central,False
+ZWE_MFL_097790,Bindura University Clinic,Clinic,MoH,-17.32484,31.33306,ZW1221,Bindura Urban,Mashonaland Central,False
+ZWE_MFL_097791,Brandon Rural Health Clinic,Rural Health Clinic,Local authority,-16.9585,30.5952,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097792,Bungwe Rural Health Clinic,Rural Health Clinic,Local authority,-16.56635,32.0678215027,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097793,Bushu Clinic,Clinic,Local authority,-17.2065,31.5743,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097794,Bveka Rural Health Clinic,Rural Health Clinic,Local authority,-16.56939,31.7872505188,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097795,Bvokochora Rural Health Clinic,Rural Health Clinic,MoH,-16.57822,30.5855197906,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097796,Chadereka Rural Health Clinic,Rural Health Clinic,MoH,-16.167,31.2021694183,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097797,Chapoto Rural Health Clinic,Rural Health Clinic,Local authority,-15.70058,30.3976306915,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097798,Chawanda Rural Health Clinic,Rural Health Clinic,Local authority,-16.61703,31.6701507568,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097799,Chawarura Rural Health Clinic,Rural Health Clinic,MoH,-16.5185,31.1101703644,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097800,Chidakamwedzi Clinic,Clinic,Local authority,-16.7489,31.1294,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097801,Chidembo Clinic,Clinic,Local authority,-17.08352,31.566860199,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097802,Chidodo Rural Health Clinic,Rural Health Clinic,Local authority,-16.02513,31.0561695099,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097803,Chihuri Clinic,Clinic,Local authority,-16.87733,31.5505199432,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097804,Chikafa Rural Health Clinic,Rural Health Clinic,Local authority,-16.00798,30.560880661,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097805,Chimbu Clinic,Clinic,Local authority,-16.7333,31.35,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097806,Chimhanda District Hospital,District Hospital,MoH,-16.6313,32.1292,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097807,Chimhanda Rural Health Clinic,Rural Health Clinic,Local authority,-16.6344,32.1363,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097808,Chinehasha Rural Health Clinic,Rural Health Clinic,MoH,-16.92892,31.1901798248,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097809,Chipadze Clinic,Clinic,Local authority,-17.31758,31.3551502228,ZW1221,Bindura Urban,Mashonaland Central,False
+ZWE_MFL_097810,Chipindura Clinic,Clinic,MoH,-17.3,31.334,ZW1221,Bindura Urban,Mashonaland Central,False
+ZWE_MFL_097811,Chipuriro Rural Health Clinic,Rural Health Clinic,Local authority,-16.77972,30.7257194519,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097812,Chiriseri Rural Health Clinic,Rural Health Clinic,Local authority,-17.45422,31.1613502502,ZW1302,Goromonzi,Mashonaland East,True
+ZWE_MFL_097813,Chirunya Rural Health Clinic,Rural Health Clinic,Local authority,-16.34884,30.61864,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097814,Chishape Rural Health Clinic,Rural Health Clinic,MoH,-17.0609,31.654,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097815,Chitsungo Rural Hospital,Rural Hospital,FBO,-16.2799,30.4462,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097816,Chiveso Rural Health Clinic,Rural Health Clinic,MoH,-17.46283,31.3495693207,ZW1201,Bindura,Mashonaland Central,False
+ZWE_MFL_097817,Chiwarira Clinic,Clinic,Local authority,-17.15781,31.5718593597,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097818,Chiwariro Clinic,Clinic,Local authority,-17.291,31.3251,ZW1221,Bindura Urban,Mashonaland Central,False
+ZWE_MFL_097819,Christon Bank Rural Health Clinic,Rural Health Clinic,Local authority,-17.6095,31.0093708038,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097820,Concession District Hospital,District Hospital,MoH,-17.3833,30.95,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097821,Dambakurima Rural Health Clinic,Rural Health Clinic,MoH,-16.14613,31.08856,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097822,Dambo Rural Health Clinic,Rural Health Clinic,Local authority,-17.19515,31.0811195374,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097823,Danbary Clinic,Clinic,Local authority,-17.645,30.924,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097824,Davaer Clinic,Clinic,Local authority,-17.6166,31.0333,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097825,David Nelson Clinic,Clinic,Local authority,-16.7295,31.1166706085,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097826,Donje Clinic,Clinic,Local authority,-16.9492,30.95695,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097827,Dotito Rural Health Clinic,Rural Health Clinic,MoH,-16.56878,31.5902194977,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097828,Farm Health Scheme Clinic,Clinic,Local authority,-17.32,31.362,ZW1221,Bindura Urban,Mashonaland Central,False
+ZWE_MFL_097829,Farm Health Scheme Clinic,Clinic,Local authority,-16.76482,31.0795,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097830,Foothills Clinic,Clinic,Local authority,-17.2132,31.278049469,ZW1201,Bindura,Mashonaland Central,False
+ZWE_MFL_097831,Gonono Rural Health Clinic,Rural Health Clinic,Local authority,-16.08695,30.8333301544,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097832,Goora Rural Health Clinic,Rural Health Clinic,MoH,-16.91667,31.5166702271,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097833,Gota Rural Health Clinic,Rural Health Clinic,Local authority,-16.58639,30.6577796936,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097834,Guruve District Hospital,District Hospital,MoH,-16.67111,30.7022209167,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097835,Hatcliffe Rural Health Clinic,Rural Health Clinic,MoH,-17.3833,31.0,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097836,Home Eden Clinic,Clinic,Local authority,-17.6347,31.0505,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097837,Howard Rural Hospital,Rural Hospital,FBO,-17.56592,30.9943008423,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097838,Hoya Rural Health Clinic,Rural Health Clinic,MoH,-16.357,31.3026695251,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097839,Hwata Rural Health Clinic,Rural Health Clinic,Local authority,-16.32367,30.9599990845,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097840,Jingamvura Rural Health Clinic,Rural Health Clinic,Local authority,-16.83293,31.2014503479,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097841,Kachuta Rural Health Clinic,Rural Health Clinic,Local authority,-16.63361,30.5026493073,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097842,Kaitano Rural Health Clinic,Rural Health Clinic,Local authority,-16.31861,31.552520752,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097843,Kamutsenzere Rural Health Clinic,Rural Health Clinic,MoH,-16.38361,31.785610199,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097844,Karanda Rural Hospital,Rural Hospital,FBO,-16.65555,31.8395500183,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097845,Kemutamba Rural Health Clinic,Rural Health Clinic,Local authority,-16.63607,30.44222,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097846,Machaya Rural Health Clinic,Rural Health Clinic,MoH,-16.35067,31.1620006561,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097847,Madziwa Rural Hospital,Rural Hospital,MoH,-16.92558,31.5387802124,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097848,Mahuwe Rural Health Clinic,Rural Health Clinic,Local authority,-16.38389,30.7352790833,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097849,Makope Rural Health Clinic,Rural Health Clinic,Local authority,-17.02938,31.0606994629,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097850,Manga Rural Health Clinic,Rural Health Clinic,MoH,-16.889,31.25575,ZW1201,Bindura,Mashonaland Central,False
+ZWE_MFL_097851,Manhanga Rural Health Clinic,Rural Health Clinic,Local authority,-17.3874,31.3127,ZW1201,Bindura,Mashonaland Central,False
+ZWE_MFL_097852,Mary Mt Rural Hospital,Rural Hospital,FBO,-16.6667,32.4333,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097853,Mashumbi Pools Rural Health Clinic,Rural Health Clinic,MoH,-16.1589,30.5727,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097854,Masoka Rural Health Clinic,Rural Health Clinic,Local authority,-16.16667,30.1666698456,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097855,Masomo Rural Health Clinic,Rural Health Clinic,Local authority,-16.31323,30.8906707764,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097856,Mastvitsi Rural Health Clinic,Rural Health Clinic,Local authority,-16.671,30.618,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097857,Matope Clinic,Clinic,Local authority,-16.8,31.45,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097858,Mazowe Camp Clinic,Clinic,MoH,-16.741,32.281,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097859,Mazowe secondary Clinic,Clinic,FBO,-17.618,30.931,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097860,Mongomery Clinic,Clinic,Local authority,-17.0297,30.8486,ZW1209,Mvurwi,Mashonaland Central,False
+ZWE_MFL_097861,Msengezi Rural Health Clinic,Rural Health Clinic,MoH,-16.11073,31.1182498932,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097862,Mt. Darwin District Hospital,District Hospital,MoH,-16.778,31.589,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097863,Mugarakamwe Rural Health Clinic,Rural Health Clinic,Local authority,-16.86427,30.57957,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097864,Mukodzongi Rural Health Clinic,Rural Health Clinic,Local authority,-16.986,31.1643199921,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097865,Mukonde Rural Health Clinic,Rural Health Clinic,MoH,-16.61053,32.2987289429,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097866,Mukosa Rural Health Clinic,Rural Health Clinic,MoH,-16.65855,32.6561012268,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097867,Mukumbura Rural Health Clinic,Rural Health Clinic,MoH,-16.20028,31.6518993378,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097868,Mupandira Rural Health Clinic,Rural Health Clinic,Local authority,-17.459816,31.30719,ZW1201,Bindura,Mashonaland Central,False
+ZWE_MFL_097869,Mupfurudzi Rural Health Clinic,Rural Health Clinic,MoH,-16.9191,31.5571,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097870,Musengezi Rural Health Clinic,Rural Health Clinic,Local authority,-16.10246,31.1172,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097871,Mutungagore Rural Health Clinic,Rural Health Clinic,MoH,-16.60139,31.5227203369,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097872,Muzarabani Rural Health Clinic,Rural Health Clinic,MoH,-16.3925,30.8924999237,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097873,Mvurwi FHS Clinic,Clinic,Local authority,-17.031,30.855,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097874,Mvurwi Rural Hospital,Rural Hospital,MoH,-17.03112,30.855,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097875,Negomo Rural Health Clinic,Rural Health Clinic,MoH,-16.51056,30.7591705322,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097876,Nembire Rural Health Clinic,Rural Health Clinic,Local authority,-16.58956,31.5001506805,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097877,Nhawa Rural Health Clinic,Rural Health Clinic,MoH,-16.57892,32.1656188965,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097878,Nyakapupu Rural Health Clinic,Rural Health Clinic,Local authority,-16.75167,30.6280593872,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097879,Nyakudya Rural Health Clinic,Rural Health Clinic,MoH,-17.02013,31.136800766,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097880,Nyamahobgo Rural Health Clinic,Rural Health Clinic,MoH,-16.6484,31.8704,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097881,Nyamaropa Clinic,Clinic,Local authority,-17.0248,31.5356,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097882,Nyamaruro Clinic,Clinic,Local authority,-16.9515,31.41414,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097883,Nyamatikiti Clinic,Clinic,MoH,-16.73908,32.1097297668,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097884,Nyambudzi Rural Health Clinic,Rural Health Clinic,Local authority,-16.08729,30.5915,ZW1208,Mbire,Mashonaland Central,False
+ZWE_MFL_097885,Nyamhondoro Rural Health Clinic,Rural Health Clinic,MoH,-16.85139,30.7577800751,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097886,Nyava Rural Health Clinic,Rural Health Clinic,Local authority,-17.56392,31.3605194092,ZW1201,Bindura,Mashonaland Central,False
+ZWE_MFL_097887,Nzvimbo Rural Health Clinic,Rural Health Clinic,Local authority,-17.0807,31.0526008606,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097888,Pachanza Rural Health Clinic,Rural Health Clinic,Local authority,-16.56711,31.7713603973,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097889,Pfunyanguo Rural Health Clinic,Rural Health Clinic,MoH,-16.4677,31.9031,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097890,Rosa Rural Hospital,Rural Hospital,MoH,-17.134,31.0472507477,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097891,Rusambo Rural Health Clinic,Rural Health Clinic,Local authority,-16.62985,32.182849884,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097892,Rushinga Rural Health Clinic,Rural Health Clinic,MoH,-16.63225,32.0215301514,ZW1206,Rushinga,Mashonaland Central,False
+ZWE_MFL_097893,Rusununguko Rural Health Clinic,Rural Health Clinic,Local authority,-17.0614,31.28075027,ZW1201,Bindura,Mashonaland Central,False
+ZWE_MFL_097894,Ruyamuro Rural Health Clinic,Rural Health Clinic,Local authority,-16.71917,30.7952804565,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097895,Shamva District Hospital,District Hospital,MoH,-17.29208,31.5715293884,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097896,Shinje Rural Health Clinic,Rural Health Clinic,MoH,-16.6568,30.6886,ZW1203,Guruve,Mashonaland Central,False
+ZWE_MFL_097897,Shopo Clinic,Clinic,Local authority,-17.02617,31.19999,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097898,Shutu Rural Health Clinic,Rural Health Clinic,MoH,-17.07427,31.1391296387,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097899,St. Alberts District Hospital,District Hospital,FBO,-16.441,31.331,ZW1202,Centenary/ Muzarabani,Mashonaland Central,False
+ZWE_MFL_097900,Takawira Clinic,Clinic,Local authority,-17.02528,31.61624,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097901,Tsakare Rural Health Clinic,Rural Health Clinic,MoH,-16.82555,31.5561103821,ZW1205,Mount Darwin,Mashonaland Central,False
+ZWE_MFL_097902,Tsungubvi Rural Health Clinic,Rural Health Clinic,Local authority,-17.36563,31.056470871,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097903,Vonabo Clinic,Clinic,Local authority,-17.376,31.122,ZW1204,Mazowe,Mashonaland Central,False
+ZWE_MFL_097904,Wadzanayi Clinic,Clinic,Local authority,-16.978,31.6476,ZW1207,Shamva,Mashonaland Central,False
+ZWE_MFL_097905,Acton Reynods Rural Health Clinic,Rural Health Clinic,MoH,-18.35294,31.0385303497,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_097906,Beatrice Rural Hospital,Rural Hospital,MoH,-18.25661,30.8557796478,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_097907,Border Church Rural Health Clinic,Rural Health Clinic,MoH,-18.23686,31.3405609131,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_097908,Borera Clinic,Clinic,Local authority,-17.02083,31.9761104584,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097909,Bosha Rural Health Clinic,Rural Health Clinic,MoH,-17.50075,31.5530605316,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097910,Bromley Clinic,Clinic,Local authority,-17.5787,31.5138,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097911,Bvumbura Clinic,Clinic,Local authority,-19.13572,31.2738895416,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097912,Charakupa Clinic,Clinic,Local authority,-18.17086,31.3364391327,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_097913,Charehwa Clinic,Clinic,Local authority,-17.17356,32.1536102295,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097914,Chigondo Clinic,Clinic,Local authority,-18.85983,31.7197208405,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097915,Chihota Rural Hospital,Rural Hospital,MoH,-18.3896,31.365,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_097916,Chikumaiwa Clinic,Clinic,MoH,-19.05,31.9166,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097917,Chikwaka Rural Hospital,Rural Hospital,MoH,-17.55206,31.4858608246,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097918,Chikwizo Clinic,Clinic,Local authority,-17.20656,32.7895584106,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097919,Chimbwanda Rural Health Clinic,Rural Health Clinic,MoH,-18.40128,31.1501903534,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_097920,Chimukoko Clinic,Clinic,Local authority,-16.96742,32.50730896,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097921,Chinamhora Clinic,Clinic,Local authority,-17.57161,31.1845607758,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097922,Chindenga Clinic,Clinic,FBO,-17.23619,32.1051902771,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097923,Chinyika Clinic,Clinic,Local authority,-17.8262,31.3385,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097924,Chipfunde Clinic,Clinic,Local authority,-17.22472,31.9341697693,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097925,Chisvo Clinic,Clinic,Local authority,-16.95819,32.3582496643,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097926,Chitate Rural Health Clinic,Rural Health Clinic,MoH,-17.67478,31.8865299225,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097927,Chitimbe Clinic,Clinic,Local authority,-17.45139,31.7836093903,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097928,Chitowa I Clinic,Clinic,Local authority,-17.5476,31.89,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097929,Chitowa II Clinic,Clinic,Local authority,-17.6073,31.9219,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097930,Chitsungo Clinic,Clinic,Local authority,-16.93,32.0674,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097931,Chiunye Rural Health Clinic,Rural Health Clinic,MoH,-17.00475,32.2871398926,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097932,Chivhu Clinic,Clinic,Local authority,-19.01814,30.9027194977,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097933,Chivu Rural Hospital,Rural Hospital,MoH,-19.0211,30.8922,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097934,Craiglea Clinic,Clinic,Local authority,-17.96305,31.82746,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097935,Cranbone Clinic,Clinic,Local authority,-17.8946,31.2149,ZW1326,Ruwa,Mashonaland East,False
+ZWE_MFL_097936,Dandara Clinic,Clinic,Local authority,-17.50764,31.6860599518,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097937,Dendera Clinic,Clinic,Local authority,-16.95756,32.7207489014,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097938,Dindi Clinic,Clinic,FBO,-16.88,32.0877799988,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097939,Domboshava Clinic,Clinic,MoH,-17.60214,31.1387195587,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097940,Dombotombo Clinic,Clinic,Local authority,-18.18722,31.5670604706,ZW1321,Marondera Urban,Mashonaland East,False
+ZWE_MFL_097941,Dombwe Clinic,Clinic,Local authority,-17.7674,31.9776,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097942,Gandachibvuwa Rural Hospital,Rural Hospital,FBO,-19.0881,31.426,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097943,Gandani Clinic,Clinic,Local authority,-19.072,31.161,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097944,Garaba Clinic,Clinic,MoH,-18.7085,31.53463936,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097945,Garaba Rural Health Clinic,Rural Health Clinic,MoH,-18.7179,31.5384,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097946,Gokomere Clinic,Clinic,Local authority,-19.0313,31.3493,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097947,Goneso Rural Health Clinic,Rural Health Clinic,MoH,-18.89328,31.9012794495,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097948,Goromonzi High Clinic,Clinic,MoH,-17.848,31.398,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097949,Goso Clinic,Clinic,MoH,-17.55378,31.78155,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097950,Goto Rural Health Clinic,Rural Health Clinic,MoH,-18.72842,31.8067207336,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097951,Gotora Rural Health Clinic,Rural Health Clinic,MoH,-18.65151,31.45557,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097952,Gozi Rural Health Clinic,Rural Health Clinic,MoH,-17.18619,32.8670005798,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097953,Henry John Rheimer Clinic,Clinic,Local authority,-17.724,31.384,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097954,Hoyuyu I Rural Health Clinic,Rural Health Clinic,MoH,-17.5911,32.0448,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097955,Hoyuyu II Rural Health Clinic,Rural Health Clinic,MoH,-17.6127,32.0211,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097956,Hwedza District Hospital,District Hospital,MoH,-18.6173,31.5736,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097957,Idube Clinic,Clinic,MoH,-18.50209,31.52172,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097958,Igava Clinic,Clinic,Local authority,-18.46728,31.6241092682,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_097959,Jekwa Rural Health Clinic,Rural Health Clinic,MoH,-17.75797,32.0895614624,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097960,John Rekin Clinic,Clinic,Local authority,-17.81078,31.354699,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097961,Jonasi Clinic,Clinic,Local authority,-18.05411,31.1346702576,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_097962,Kadenge Rural Health Clinic,Rural Health Clinic,MoH,-17.8847,31.7796,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097963,Kadzere Clinic,Clinic,Local authority,-17.78822,31.7369995117,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097964,Kafura Rural Health Clinic,Rural Health Clinic,MoH,-16.84306,32.2527809143,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097965,Kapondoro Rural Health Clinic,Rural Health Clinic,MoH,-17.3738,32.4908,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097966,Kapotesa Clinic,Clinic,Local authority,-17.01956,32.7521896362,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097967,Karimbika Rural Health Clinic,Rural Health Clinic,MoH,-17.31306,32.0147209167,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097968,Katsukunya Rural Health Clinic,Rural Health Clinic,MoH,-17.40781,32.1546897888,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097969,Kawaza Clinic,Clinic,Local authority,-17.1771,32.2924,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097970,Kawere Clinic,Clinic,Local authority,-17.2215,32.365,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097971,Kondo Rural Health Clinic,Rural Health Clinic,MoH,-16.9021,32.6366,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097972,Kotwa Clinic,Clinic,Local authority,-17.0081,32.67282867,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097973,Kotwa District Hospital,District Hospital,MoH,-16.9962,32.6674,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097974,Kowo Clinic,Clinic,Local authority,-17.2166,32.2333,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097975,Kowoyo Clinic,Clinic,Local authority,-17.67219,31.4892501831,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097976,Kunaka Clinic,Clinic,Local authority,-18.07236,31.2219696045,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_097977,Kushinga Phikelela Clinic,Clinic,MoH,-18.127912,31.661774,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_097978,Kushinga Rural Health Clinic,Rural Health Clinic,MoH,-17.62114,32.0202789307,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097979,Lanark Clinic,Clinic,Local authority,-18.06819,30.9002494812,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_097980,Lanchashire Clinic,Clinic,Local authority,-19.1978,31.1435,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097981,Luisa Guidotti Rural Hospital,Rural Hospital,FBO,-17.394,32.2786,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097982,Lustleigh Clinic,Clinic,Local authority,-18.4209,31.4043,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_097983,Macheke Clinic,Clinic,Local authority,-18.15306,31.8556098938,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097984,Madamombe Clinic,Clinic,Local authority,-19.05,31.2833,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097985,Madamombe Rural Health Clinic,Rural Health Clinic,MoH,-17.4576,31.6496,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_097986,Makaha Rural Health Clinic,Rural Health Clinic,MoH,-17.28722,32.6240310669,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097987,Makanyazingwa Clinic,Clinic,Local authority,-18.20086,31.4016399384,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_097988,Makarara Clinic,Clinic,Local authority,-19.02697,31.834810257,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_097989,Makosa Rural Hospital,Rural Hospital,MoH,-17.26753,32.4716110229,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_097990,Makumbe District Hospital,District Hospital,MoH,-17.54042,31.2731895447,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_097991,Manyene/Chambara Clinic,Clinic,Local authority,-18.8368,31.0249,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097992,Manyika Clinic,Clinic,Local authority,-17.36028,31.8961105347,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097993,Maramba Clinic,Clinic,Local authority,-17.03667,31.9850006104,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097994,Marembera Rural Health Clinic,Rural Health Clinic,MoH,-17.3993,32.0337,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_097995,Marirangwe Clinic,Clinic,Local authority,-18.0882,30.8071,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_097996,Marondera Provincial Hospital,Provincial Hospital,MoH,-18.1853,31.5519,ZW1321,Marondera Urban,Mashonaland East,False
+ZWE_MFL_097997,Masarakufa Rural Health Clinic,Rural Health Clinic,MoH,-17.03969,32.5702781677,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_097998,Masasa Clinic,Clinic,Local authority,-18.8845,31.244,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_097999,Masasa Rural Health Clinic,Rural Health Clinic,MoH,-18.4375,31.1421,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_098000,Masenda Clinic,Clinic,Local authority,-17.10814,32.2544708252,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_098001,Mashambanhaka Clinic,Clinic,Local authority,-17.27,31.822,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_098002,Masikana Clinic,Clinic,Local authority,-18.35392,31.6866092682,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_098003,Matedza Clinic,Clinic,Local authority,-17.55014,32.4370803833,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_098004,Matututu Clinic,Clinic,Local authority,-17.4742,31.7296,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098005,Mbiru Clinic,Clinic,Local authority,-18.95808,31.2015800476,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098006,MRDC Clinic,Clinic,Local authority,-18.494,31.216,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_098007,Mt. St. Mary’s Rural Hospital,Rural Hospital,FBO,-18.689,31.686,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_098008,Muda Clinic,Clinic,Local authority,-18.29,31.019859314,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_098009,Mudzimurema Clinic,Clinic,Local authority,-18.3,31.0833,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_098010,Mufudziwakanaka Rural Health Clinic,Rural Health Clinic,MoH,-18.8415,31.6044406891,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098011,Munamba Rural Health Clinic,Rural Health Clinic,MoH,-17.89122,31.5907802582,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098012,Muonwe Rural Health Clinic,Rural Health Clinic,MoH,-17.52205,31.2535190582,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_098013,Murewa District Hospital,District Hospital,MoH,-17.65783,31.7876396179,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098014,Murzi Clinic,Clinic,Local authority,-19.199,31.057,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098015,Mushimbo Rural Health Clinic,Rural Health Clinic,MoH,-17.4323,32.3917,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_098016,Mushipe Clinic,Clinic,Local authority,-19.02072,31.6836395264,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098017,Muskwe Clinic,Clinic,Local authority,-17.40333,31.9763908386,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_098018,Musumba Clinic,Clinic,Local authority,-19.1512,31.5193,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098019,Mutawatawa District Hospital,District Hospital,MoH,-17.12139,31.9738903046,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_098020,Mutoko District Hospital,District Hospital,MoH,-17.42342,32.238609314,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_098021,Mutoro Clinic,Clinic,Local authority,-18.85592,31.0838298798,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098022,Mutukwa Clinic,Clinic,Local authority,-18.0167,31.6333,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_098023,Mwanza Rural Health Clinic,Rural Health Clinic,MoH,-17.76875,31.4868106842,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_098024,Mwerahari Clinic,Clinic,FBO,-19.05522,31.2366409302,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098025,Ngwerume Rural Health Clinic,Rural Health Clinic,MoH,-17.58456,31.69831,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098026,Nhakiwa Clinic,Clinic,Local authority,-17.37111,31.8008308411,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_098027,Nhangabvi Clinic,Clinic,Local authority,-18.8435,31.5136,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098028,Nharira Rural Hospital,Rural Hospital,MoH,-19.07433,31.1711902618,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098029,Nhowe Clinic,Clinic,FBO,-17.87206,31.934469223,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098030,Nyadire Resettlement Rural Health Clinic,Rural Health Clinic,MoH,-17.49227,31.96282,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_098031,Nyadire Rural Hospital,Rural Hospital,FBO,-17.2242,32.2025,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_098032,Nyahuku Clinic,Clinic,Local authority,-16.81739,32.888168335,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_098033,Nyakasoro Clinic,Clinic,Local authority,-16.9025,32.1919403076,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_098034,Nyamanyoro Rural Health Clinic,Rural Health Clinic,MoH,-17.1166,32.2,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_098035,Nyamapanda Clinic,Clinic,Local authority,-16.96828,32.8657188416,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_098036,Nyamatawa Clinic,Clinic,Local authority,-17.20389,32.6553115845,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_098037,Nyameni Clinic,Clinic,Local authority,-18.20611,31.5414390564,ZW1321,Marondera Urban,Mashonaland East,False
+ZWE_MFL_098038,Nyamhere Rural Health Clinic,Rural Health Clinic,MoH,-18.81919,31.0037498474,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098039,Nyamukoho Clinic,Clinic,Local authority,-17.07097,32.3185005188,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_098040,Nyamutumbu Clinic,Clinic,Local authority,-17.62108,31.61743927,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098041,Nyamuzizi Rural Health Clinic,Rural Health Clinic,MoH,-17.63819,32.3560295105,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_098042,Nyamuzuwe Rural Hospital,Rural Hospital,MoH,-17.25403,32.2541885376,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_098043,Nyanzou Clinic,Clinic,Local authority,-16.78028,32.3047218323,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_098044,Nyembanzvere Clinic,Clinic,Local authority,-18.21594,31.13047,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_098045,Nzira Clinic,Clinic,Local authority,-17.66817,32.1371116638,ZW1307,Mutoko,Mashonaland East,False
+ZWE_MFL_098046,Pokoteke Clinic,Clinic,Local authority,-19.1006,31.1194,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098047,Range Clinic,Clinic,MoH,-19.02097,31.0006408691,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098048,Ringa Rural Health Clinic,Rural Health Clinic,MoH,-18.48839,30.9504394531,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_098049,Rusike Clinic,Clinic,MoH,-17.87261,31.5182209015,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_098050,Rusununguko Clinic,Clinic,MoH,-17.8982,31.2411,ZW1326,Ruwa,Mashonaland East,False
+ZWE_MFL_098051,Rutanhire Clinic,Clinic,Local authority,-18.8,31.4166,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098052,Rutope Rural Health Clinic,Rural Health Clinic,Local authority,-17.55588,31.5655498505,ZW1302,Goromonzi,Mashonaland East,False
+ZWE_MFL_098053,Sadza District Hospital,District Hospital,MoH,-18.83706,31.4079704285,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098054,Sengezi Rural Health Clinic,Rural Health Clinic,MoH,-18.74408,31.4871101379,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_098055,Shambamuto Clinic,Clinic,Local authority,-17.87231,31.6393108368,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098056,Shinga Clinic,Clinic,Local authority,-17.00806,32.4394989014,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_098057,Shumba Clinic,Clinic,Local authority,-18.9215,31.5771,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098058,Skimpton Clinic,Clinic,MoH,-18.6635,31.4362,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_098059,Sowa Rural Health Clinic,Rural Health Clinic,MoH,-16.999,32.1385,ZW1309,Uzumba Maramba Pfungwe,Mashonaland East,False
+ZWE_MFL_098060,St. Paul’s Rural Hospital,Rural Hospital,FBO,-17.746,31.59,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098061,St. Pius Clinic,Clinic,Local authority,-16.75703,32.8059692383,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_098062,Suswe Clinic,Clinic,Local authority,-17.17456,32.4053916931,ZW1305,Mudzi,Mashonaland East,False
+ZWE_MFL_098063,Unyetu Clinic,Clinic,Local authority,-18.97331,31.3009700775,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098064,Virginia Clinic,Clinic,Local authority,-17.8704,32.1062,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098065,Waddilove Clinic,Clinic,FBO,-18.2601,31.3824,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_098066,Waterloo Clinic,Clinic,Local authority,-17.88836,31.9340000153,ZW1306,Murehwa,Mashonaland East,False
+ZWE_MFL_098067,Wazvaremhaka Clinic,Clinic,Local authority,-18.6904,30.9472,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098068,Wenimbi Clinic,Clinic,MoH,-18.2667,31.6333,ZW1304,Marondera,Mashonaland East,False
+ZWE_MFL_098069,Wishire Clinic,Clinic,Local authority,-18.6667,31.1667,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098070,Zhakata Clinic,Clinic,Local authority,-18.3572,31.0845,ZW1308,Seke,Mashonaland East,False
+ZWE_MFL_098071,Zvamatohwe Rural Health Clinic,Rural Health Clinic,MoH,-18.8308,31.394,ZW1301,Chikomba,Mashonaland East,False
+ZWE_MFL_098072,Zvidhuri Clinic,Clinic,Local authority,-18.96144,31.7229404449,ZW1303,Hwedza,Mashonaland East,False
+ZWE_MFL_098073,Ada Sisi Rural Health Clinic,Rural Health Clinic,Local authority,-16.89056,30.4202804565,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098074,Alaska Clinic,Clinic,MoH,-17.37389,30.0674991608,ZW1421,Chinhoyi,Mashonaland West,False
+ZWE_MFL_098075,Aryshire Clinic,Clinic,Local authority,-17.03944,30.4386100769,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098076,Banket District Hospital,District Hospital,MoH,-17.38333,30.3958301544,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098077,Blackmovel Clinic,Clinic,Local authority,-17.9487,29.8952,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098078,Brunswick Clinic,Clinic,Local authority,-18.22281,30.04442,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098079,Bururu Clinic,Clinic,Local authority,-18.69722,30.4905605316,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098080,Chalala Rural Health Clinic,Rural Health Clinic,Local authority,-16.84167,28.3002796173,ZW1404,Kariba,Mashonaland West,False
+ZWE_MFL_098081,Chegutu Clinic,Clinic,Local authority,-18.1286,30.14944077,ZW1423,Chegutu Urban,Mashonaland West,False
+ZWE_MFL_098082,Chegutu District Hospital,District Hospital,MoH,-18.12083,30.14194,ZW1423,Chegutu Urban,Mashonaland West,False
+ZWE_MFL_098083,Chemukute Clinic,Clinic,Local authority,-18.3524,29.9112,ZW1403,Kadoma Urban,Mashonaland West,False
+ZWE_MFL_098084,Chenjiri Clinic,Clinic,Local authority,-17.86083,29.4094390869,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098085,Chidamoyo Rural Hospital,Rural Hospital,FBO,-17.14833,29.1919403076,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098086,Chikangwe Clinic,Clinic,Local authority,-16.7904,29.7247,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098087,Chikara Clinic,Clinic,Local authority,-18.47028,30.7000007629,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098088,Chikonohono Clinic,Clinic,Local authority,-17.39,30.1944408417,ZW1421,Chinhoyi,Mashonaland West,False
+ZWE_MFL_098089,Chinengundu Clinic,Clinic,Local authority,-18.2887,30.5725,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098090,Chingondo Clinic,Clinic,Local authority,-18.44847,30.35557,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098091,Chinhere Clinic,Clinic,Local authority,-17.21556,29.4369392395,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098092,Chinhoyi Clinic,Clinic,Local authority,-17.3856,30.1818,ZW1421,Chinhoyi,Mashonaland West,False
+ZWE_MFL_098093,Chinhoyi Provincial Hospital,Provincial Hospital,MoH,-17.36222,30.20889,ZW1421,Chinhoyi,Mashonaland West,False
+ZWE_MFL_098094,Chirau Clinic,Clinic,Local authority,-17.68167,30.1241703033,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098095,Chirikiti Clinic,Clinic,Local authority,-17.97611,29.4205608368,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098096,Chirundu Rural Health Clinic,Rural Health Clinic,MoH,-16.04389,28.8605594635,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098097,Chivende Rural Health Clinic,Rural Health Clinic,MoH,-17.31583,29.349439621,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098098,Chivero Clinic,Clinic,Local authority,-18.17944,30.6041698456,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098099,Chivhere Rural Health Clinic,Rural Health Clinic,MoH,-17.66528,30.0305595398,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098100,Chundu Clinic,Clinic,Local authority,-16.39278,29.6424999237,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098101,Darwedale Rural Hospital,Rural Hospital,MoH,-17.7167,30.55,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098102,Dete Rural Health Clinic,Rural Health Clinic,Local authority,-16.501,29.942,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098103,Doma Clinic,Clinic,Local authority,-16.75889,30.2422199249,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098104,Donaine Rural Health Clinic,Rural Health Clinic,MoH,-18.5184,29.6368,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098105,Dondoshava Rural Health Clinic,Rural Health Clinic,MoH,-18.68278,30.5969390869,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098106,Father O’Hea Rural Hospital,Rural Hospital,FBO,-17.801,30.386,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098107,Gache Gache Rural Health Clinic,Rural Health Clinic,MoH,-16.6703,28.9518,ZW1404,Kariba,Mashonaland West,False
+ZWE_MFL_098108,Gavhunga Rural Health Clinic,Rural Health Clinic,Local authority,-18.72362,30.5599,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098109,Geja Rural Health Clinic,Rural Health Clinic,MoH,-17.9656,29.9001,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098110,Godzi Clinic,Clinic,Local authority,-17.61778,29.5222206116,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098111,Gora Rural Health Clinic,Rural Health Clinic,MoH,-18.42417,30.7299995422,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098112,Green Valley Clinic,Clinic,MoH,-16.68228,30.15505,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098113,Gudubu Rural Health Clinic,Rural Health Clinic,MoH,-16.9668,30.0807,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098114,Gwebi Rural Health Clinic,Rural Health Clinic,MoH,-17.67694,30.8583297729,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098115,Hesketh Clinic,Clinic,Local authority,-16.86944,29.5377807617,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098116,Hombwe Clinic,Clinic,Local authority,-17.69417,29.7791690826,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098117,Hurungwe Rural Hospital,Rural Hospital,MoH,-16.5,29.5,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098118,Ingezi Clinic,Clinic,Local authority,-18.3764,29.864,ZW1403,Kadoma Urban,Mashonaland West,False
+ZWE_MFL_098119,Jari Clinic,Clinic,Local authority,-17.73194,30.0336093903,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098120,Jompani Rural Health Clinic,Rural Health Clinic,MoH,-18.06917,29.4486103058,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098121,Jondale Rural Health Clinic,Rural Health Clinic,MoH,-18.55,30.4333,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098122,Kadoma District Hospital,District Hospital,MoH,-18.3333,29.9153,ZW1403,Kadoma Urban,Mashonaland West,False
+ZWE_MFL_098123,Kanyati Rural Health Clinic,Rural Health Clinic,MoH,-16.91528,28.9952793121,ZW1404,Kariba,Mashonaland West,False
+ZWE_MFL_098124,Kapfunde Clinic,Clinic,Local authority,-17.06583,29.4083309174,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098125,Kariba District Hospital,District Hospital,MoH,-16.52028,28.7916698456,ZW1424,Kariba Urban,Mashonaland West,False
+ZWE_MFL_098126,Karoi District Hospital,District Hospital,MoH,-16.81528,29.6877803802,ZW1426,Karoi,Mashonaland West,False
+ZWE_MFL_098127,Karoi Static Clinic,Clinic,Local authority,-16.826,29.6163,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098128,Kasimure Rural Health Clinic,Rural Health Clinic,MoH,-17.0333,29.8833,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098129,Katanga Utano Rural Health Clinic,Rural Health Clinic,Local authority,-17.874,30.676,ZW1425,Norton,Mashonaland West,False
+ZWE_MFL_098130,Kazangarare Clinic,Clinic,Local authority,-16.55917,29.835559845,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098131,Kenzamba Clinic,Clinic,MoH,-17.47306,29.6049995422,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098132,Kosana Clinic,Clinic,Local authority,-16.66722,30.2138900757,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098133,Kutama Clinic,Clinic,Local authority,-17.73944,30.4200000763,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098134,Kuwadzana Clinic,Clinic,Local authority,-17.37639,30.3947200775,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098135,Lanroy Clinic,Clinic,MoH,-16.7591,29.4725,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098136,Lismore Clinic,Clinic,Local authority,-18.0126,29.9874,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098137,Madzorera Clinic,Clinic,Local authority,-17.8204,30.2206,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098138,Mafindifindi Clinic,Clinic,Local authority,-18.74611,30.514169693,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098139,Mafuti Clinic,Clinic,Local authority,-18.1276,30.1823,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098140,Manyewe Clinic,Clinic,Local authority,-18.60722,30.523059845,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098141,Manyoni Rural Health Clinic,Rural Health Clinic,MoH,-18.8,30.5167,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098142,Mapinga Clinic,Clinic,MoH,-17.3609,30.1701,ZW1421,Chinhoyi,Mashonaland West,False
+ZWE_MFL_098143,Marongora Clinic,Clinic,MoH,-16.22889,29.1625003815,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098144,Masanga Rural Health Clinic,Rural Health Clinic,MoH,-16.73611,29.2299995422,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098145,Mashongwe Clinic,Clinic,Local authority,-16.44056,29.5416698456,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098146,Masiyarwa Clinic,Clinic,Local authority,-17.81111,30.3299999237,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098147,Matorangera Clinic,Clinic,Local authority,-17.56833,30.1119403839,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098148,Mbuyanehanda Rural Health Clinic,Rural Health Clinic,MoH,-17.92139,30.2158298492,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098149,Mhangura Christian Rural Hospital,Rural Hospital,FBO,-17.3796,30.0649,ZW1421,Chinhoyi,Mashonaland West,False
+ZWE_MFL_098150,Mhondoro North Clinic,Clinic,Local authority,-18.16944,30.6938896179,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098151,Mhondoro Rural Hospital,Rural Hospital,MoH,-18.31833,30.5886096954,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098152,Mola Clinic,Clinic,MoH,-16.92611,28.2986106873,ZW1404,Kariba,Mashonaland West,False
+ZWE_MFL_098153,Monera Rural Health Clinic,Rural Health Clinic,MoH,-18.11389,30.7319393158,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098154,Mpumbu Clinic,Clinic,Local authority,-17.7093,30.5499,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098155,Msapakaruma Clinic,Clinic,Local authority,-16.5408,28.873,ZW1404,Kariba,Mashonaland West,False
+ZWE_MFL_098156,Mt. Hampden Clinic,Clinic,Local authority,-17.704,30.897,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098157,Mukarati Clinic,Clinic,Local authority,-18.55667,30.4891700745,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098158,Mukohwe Clinic,Clinic,Local authority,-17.81028,29.8108291626,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098159,Mupawose Clinic,Clinic,Local authority,-18.48056,30.5025005341,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098160,Murambwa Clinic,Clinic,Local authority,-18.58333,30.7216701508,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098161,Murereka Rural Health Clinic,Rural Health Clinic,MoH,-17.27556,30.0263900757,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098162,Musinami Rural Health Clinic,Rural Health Clinic,MoH,-18.30306,30.4988899231,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098163,Mutorashanga Rural Hospital,Rural Hospital,Local authority,-17.14667,30.6763896942,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098164,Muuyu Clinic,Clinic,Local authority,-17.94722,29.4919395447,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098165,Muzvezve Rural Health Clinic,Rural Health Clinic,MoH,-18.54444,30.5825004578,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098166,Mwami Rural Hospital,Rural Hospital,MoH,-16.67167,29.7761096954,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098167,Negande Clinic,Clinic,MoH,-17.19278,28.241109848,ZW1404,Kariba,Mashonaland West,False
+ZWE_MFL_098168,Ngezi Rural Hospital,Rural Hospital,MoH,-18.65417,30.6324996948,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098169,Norton Selous Rural Hospital,Rural Hospital,Local authority,-17.8833,30.7,ZW1425,Norton,Mashonaland West,False
+ZWE_MFL_098170,Nyabango Rural Health Clinic,Rural Health Clinic,MoH,-17.85306,29.5272197723,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098171,Nyabira Clinic,Clinic,Local authority,-17.6667,30.8,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098172,Nyama Rural Health Clinic,Rural Health Clinic,Local authority,-16.40694,29.7672195435,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098173,Nyamakate Clinic,Clinic,Local authority,-16.3552,29.4542,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098174,Nyamatani Rural Health Clinic,Rural Health Clinic,MoH,-18.19917,29.5347194672,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098175,Nyamhunga Clinic,Clinic,Local authority,-16.8333,29.7666,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098176,Nyamugomba Clinic,Clinic,MoH,-17.327,30.1422,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098177,Nyangoma Clinic,Clinic,Local authority,-16.86639,29.9266700745,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098178,Nyaunde Clinic,Clinic,MoH,-17.732,29.435,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098179,Obva Clinic,Clinic,Local authority,-17.53444,29.5063896179,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098180,Ordof Clinic,Clinic,Local authority,-18.2741,29.8632,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098181,Patchway Clinic,Clinic,Local authority,-18.2333,29.8,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098182,Pfupajena Rural Health Clinic,Rural Health Clinic,Local authority,-18.12444,30.1358299255,ZW1423,Chegutu Urban,Mashonaland West,False
+ZWE_MFL_098183,Raffingora Rural Hospital,Rural Hospital,MoH,-17.03694,30.4305591583,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098184,Rimuka Clinic,Clinic,Local authority,-18.35,29.8833,ZW1403,Kadoma Urban,Mashonaland West,False
+ZWE_MFL_098185,River Ranch Clinic,Clinic,MoH,-16.99737,29.99041,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098186,Runene Clinic,Clinic,Local authority,-16.889,30.1618,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098187,Rwizi Clinic,Clinic,Local authority,-18.44833,30.6305599213,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098188,Sandringham Clinic,Clinic,Local authority,-18.08361,30.6616706848,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098189,Sanyati Clinic,Clinic,Local authority,-17.95,29.3,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098190,Sanyati Rural Hospital,Rural Hospital,FBO,-18.0131,29.2907,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098191,Selous Clinic,Clinic,Local authority,-18.06861,30.4486103058,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098192,Shackelton Clinic,Clinic,Local authority,-17.1734,29.9771,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098193,Siakobvu Rural Hospital,Rural Hospital,MoH,-17.13111,28.3641700745,ZW1404,Kariba,Mashonaland West,False
+ZWE_MFL_098194,St Michaels Rural Hospital,Rural Hospital,FBO,-18.5597,30.6847,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098195,Tengwe Clinic,Clinic,Local authority,-17.1667,29.45,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098196,Trelawney Clinic,Clinic,Local authority,-17.54139,30.4588909149,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098197,Turf Estate Clinic,Clinic,Local authority,-18.678,30.277,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098198,Twintops Clinic,Clinic,Local authority,-18.3963,29.9525,ZW1403,Kadoma Urban,Mashonaland West,False
+ZWE_MFL_098199,Umboe Clinic,Clinic,Local authority,-17.0475,30.1833305359,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098200,Vere Clinic,Clinic,MoH,-18.0896,29.8451,ZW1428,Sanyati,Mashonaland West,False
+ZWE_MFL_098201,Warverly Clinic,Clinic,Local authority,-18.7814,30.5356,ZW1427,Mhondoro-Ngezi,Mashonaland West,False
+ZWE_MFL_098202,Watyoka Clinic,Clinic,Local authority,-18.32444,30.6863899231,ZW1401,Chegutu,Mashonaland West,False
+ZWE_MFL_098203,Zebra Downs Clinic,Clinic,MoH,-16.85,29.8333,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098204,Ziam Clinic,Clinic,MoH,-17.6476,30.4891,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098205,Zowa Clinic,Clinic,Local authority,-17.805,30.0497207642,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098206,Zumbara Rural Health Clinic,Rural Health Clinic,MoH,-17.67361,29.8813896179,ZW1405,Makonde,Mashonaland West,False
+ZWE_MFL_098207,Zvimba Rural Hospital,Rural Hospital,MoH,-17.69917,30.198890686,ZW1406,Zvimba,Mashonaland West,False
+ZWE_MFL_098208,Zvipani Rural Health Clinic,Rural Health Clinic,MoH,-16.98306,29.2102794647,ZW1402,Hurungwe,Mashonaland West,False
+ZWE_MFL_098214,Mahombekombe Clinic,Clinic,Local authority,-16.52611,28.7580604553,ZW1404,Kariba,Mashonaland West,False
+ZWE_MFL_098217,Alvord Clinic,Clinic,MoH,-20.0793,30.8189,ZW1821,Masvingo Urban,Masvingo,False
+ZWE_MFL_098218,Bere Clinic,Clinic,Local authority,-20.0337,30.47186089,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098219,Berejena Clinic,Clinic,FBO,-20.63389,30.5896091461,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098220,Bikita Rural Hospital,Rural Hospital,MoH,-20.06703,31.606470108,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098221,Bondolfi Clinic,Clinic,FBO,-20.28386,30.7505607605,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098222,Bota Rural Health Clinic,Rural Health Clinic,Local authority,-20.62272,31.4073104858,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098223,Boterere Clinic,Clinic,Local authority,-21.23095,30.26423,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098224,Bvukururu Rural Health Clinic,Rural Health Clinic,Local authority,-20.10544,31.4387207031,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098225,Chambuta Rural Health Clinic,Rural Health Clinic,MoH,-21.25369,31.804889679,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098226,Charumbira Rural Health Clinic,Rural Health Clinic,Local authority,-20.29011,30.8563899994,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098227,Chatikobo Clinic,Clinic,Local authority,-20.43461,31.1541404724,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098228,Cheshuro Rural Health Clinic,Rural Health Clinic,Local authority,-19.6455,31.1462,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098229,Chibwedziva Clinic,Clinic,Local authority,-21.3452,31.778,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098230,Chifedza Rural Health Clinic,Rural Health Clinic,Local authority,-20.45081,30.5581092834,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098231,Chigwikwi Rural Health Clinic,Rural Health Clinic,MoH,-20.15394,30.2004699707,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098232,Chikombedzi Rural Hospital,Rural Hospital,FBO,-21.67494,31.3393096924,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098233,Chikuku Rural Health Clinic,Rural Health Clinic,MoH,-20.0005,31.868560791,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098234,Chilonga Rural Health Clinic,Rural Health Clinic,MoH,-21.22336,31.6558609009,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098235,Chimbudzi Rural Health Clinic,Rural Health Clinic,MoH,-20.8824,30.5076,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098236,Chimombe Rural Health Clinic,Rural Health Clinic,MoH,-19.67189,31.6061401367,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098237,Chingele Clinic,Clinic,FBO,-21.41761,31.6189403534,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098238,Chinyabako Clinic,Clinic,Local authority,-20.30689,31.5558300018,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098239,Chinyika Rural Hospital,Rural Hospital,MoH,-19.6673,31.5452,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098240,Chipinda Rural Health Clinic,Rural Health Clinic,MoH,-20.06892,31.340719223,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098241,Chipiwa Clinic,Clinic,Local authority,-20.836,31.7912807465,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098242,Chiredzana Clinic,Clinic,Local authority,-20.56889,31.6708908081,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098243,Chiredzi District Hospital,District Hospital,MoH,-21.036,31.6732196808,ZW1822,Chiredzi Urban,Masvingo,False
+ZWE_MFL_098244,Chirindi Rural Health Clinic,Rural Health Clinic,MoH,-21.11611,30.1800003052,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098245,Chirorwe Clinic,Clinic,MoH,-19.88528,31.9180297852,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098246,Chitando Rural Hospital,Rural Hospital,MoH,-19.90722,31.202419281,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098247,Chitasa Clinic,Clinic,Local authority,-20.20817,31.8545303345,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098248,Chitsa Clinic,Clinic,Local authority,-21.1333,32.1167,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098249,Chitsa Rural Health Clinic,Rural Health Clinic,Local authority,-19.5197,31.5388,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098250,Chivi Clinic,Clinic,FBO,-20.3368,30.5603,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098251,Chivi District Hospital,District Hospital,MoH,-20.3073,30.5102,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098252,Chivi Rural Hospital,Rural Hospital,MoH,-20.5654,30.5463,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098253,Chiwore Rural Health Clinic,Rural Health Clinic,Local authority,-19.63397,30.8393096924,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098254,Chizumba Rural Health Clinic,Rural Health Clinic,MoH,-21.13972,30.5725002289,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098255,Chizvirizvi Rural Health Clinic,Rural Health Clinic,MoH,-20.98369,32.0193901062,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098256,Damarakanaka Clinic,Clinic,FBO,-21.33969,31.4732494354,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098257,Davata Rural Health Clinic,Rural Health Clinic,MoH,-22.26981,31.233499527,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098258,Davira Rural Health Clinic,Rural Health Clinic,Local authority,-20.47203,30.4356403351,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098259,Denhere Rural Health Clinic,Rural Health Clinic,Local authority,-19.2617,31.1873,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098260,Dewure I Rural Health Clinic,Rural Health Clinic,MoH,-20.0,32.3333,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098261,Dewure II Rural Health Clinic,Rural Health Clinic,MoH,-20.002,32.3322,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098262,Dewure Rural Health Clinic,Rural Health Clinic,Local authority,-19.7501,31.2626,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098263,Dunisa Clinic,Clinic,Local authority,-21.0209,31.4571,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098264,Fube Clinic,Clinic,Local authority,-20.3341,31.6772,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098265,Gangare Clinic,Clinic,Local authority,-19.9153,31.81698,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098266,Gava Clinic,Clinic,Local authority,-20.53792,31.80962,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098267,Gezani Rural Health Clinic,Rural Health Clinic,MoH,-22.10286,31.1555309296,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098268,Gundura Clinic,Clinic,Local authority,-19.8731,30.52416992,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098269,Gurajena Rural Hospital,Rural Hospital,MoH,-19.77056,30.9031391144,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098270,Gutu Rural Hospital,Rural Hospital,MoH,-19.5532,31.1622,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098271,Guwa Clinic,Clinic,Local authority,-20.62497,31.0547504425,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098272,Harava Rural Health Clinic,Rural Health Clinic,MoH,-20.40028,31.27368927,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098273,Hozvi Clinic,Clinic,Local authority,-20.05172,31.5372505188,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098274,Jerera Clinic,Clinic,Local authority,-20.42467,31.4513893127,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098275,Jichidza Clinic,Clinic,Local authority,-20.2667,31.2401,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098276,Lundi Clinic,Clinic,FBO,-20.9,30.7833,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098277,Mageza Clinic,Clinic,Local authority,-20.3274,31.16789,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098278,Magombedze Rural Health Clinic,Rural Health Clinic,Local authority,-19.75803,31.3502197266,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098279,Majada Rural Health Clinic,Rural Health Clinic,MoH,-19.8418,31.3922,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098280,Makande Clinic,Clinic,Local authority,-21.45,31.3666,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098281,Malipati Rural Health Clinic,Rural Health Clinic,MoH,-22.07142,31.4201908112,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098282,Mapanzure Clinic,Clinic,Local authority,-20.4051,30.8651,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098283,Maranda Clinic,Clinic,MoH,-21.1543,30.2508,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098284,Maranda Rural Hospital,Rural Hospital,FBO,-21.1458,30.31583023,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098285,Marozva Rural Health Clinic,Rural Health Clinic,Local authority,-20.00053,31.5209999084,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098286,Mashoko Rural Hospital,Rural Hospital,FBO,-20.50519,31.750579834,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098287,Masvingo Provincial Hospital,Provincial Hospital,MoH,-20.07272,30.8391399384,ZW1821,Masvingo Urban,Masvingo,False
+ZWE_MFL_098288,Masvingo Teachers Clinic,Clinic,MoH,-20.044,30.821,ZW1821,Masvingo Urban,Masvingo,False
+ZWE_MFL_098289,Masvingo Tech Clinic,Clinic,MoH,-20.073,30.827,ZW1821,Masvingo Urban,Masvingo,False
+ZWE_MFL_098290,Matizha Rural Health Clinic,Rural Health Clinic,MoH,-19.47356,30.96875,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098291,Mazetese Clinic,Clinic,Local authority,-21.04639,30.3052806854,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098292,Mazuru Rural Health Clinic,Rural Health Clinic,Local authority,-19.5916,31.6491,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098293,Mhandamabwe Rural Health Clinic,Rural Health Clinic,MoH,-20.11747,30.3716106415,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098294,Mhlanguleni Rural Health Clinic,Rural Health Clinic,MoH,-21.5,31.4667,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098295,Mkanga Rural Health Clinic,Rural Health Clinic,MoH,-20.43703,31.7211399078,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098296,Mlelezi Clinic,Clinic,Local authority,-21.4012,30.0498,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098297,Morgenister District Hospital,District Hospital,FBO,-20.3072,30.9312,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098298,Mucheke Clinic,Clinic,Local authority,-20.08344,30.819360733,ZW1821,Masvingo Urban,Masvingo,False
+ZWE_MFL_098299,Mukaro Clinic,Clinic,FBO,-19.75686,31.1578903198,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098300,Mukore Rural Health Clinic,Rural Health Clinic,MoH,-20.14081,31.84224,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098301,Mukosi Clinic,Clinic,MoH,-20.53867,30.8897800446,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098302,Mungezi Rural Health Clinic,Rural Health Clinic,Local authority,-19.91393,31.52096,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098303,Munyikwa Rural Health Clinic,Rural Health Clinic,Local authority,-19.72236,31.8052196503,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098304,Murinye Clinic,Clinic,Local authority,-20.37325,31.0537796021,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098305,Murove Clinic,Clinic,Local authority,-21.05917,30.4244403839,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098306,Mushandike Clinic,Clinic,MoH,-20.20614,30.7186393738,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098307,Mushava Clinic,Clinic,Local authority,-21.07639,30.5838909149,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098308,Mushaviri Rural Health Clinic,Rural Health Clinic,MoH,-19.72333,31.1009197235,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098309,Mushaya Clinic,Clinic,Local authority,-20.60228,31.2859706879,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098310,Musiso Rural Hospital,Rural Hospital,FBO,-20.43994,31.4399394989,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098311,Musvosvi Clinic,Clinic,MoH,-20.7027,31.0721,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098312,Mutema Rural Health Clinic,Rural Health Clinic,MoH,-19.8819,30.9885,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098313,Mutero Clinic,Clinic,FBO,-19.63433,31.4380302429,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098314,Muteyo Rural Health Clinic,Rural Health Clinic,MoH,-20.93611,32.1204414368,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098315,Mutikizizi Clinic,Clinic,Local authority,-20.20992,31.71084,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098317,Mwenezi Clinic,Clinic,Local authority,-21.41417,30.7000007629,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098318,Ndanga Clinic,Clinic,Local authority,-20.4068,31.3404,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098319,Ndanga District Hospital,District Hospital,MoH,-20.1773,31.325,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098320,Negovano Rural Health Clinic,Rural Health Clinic,Local authority,-20.12917,31.72709,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098321,Nehanda Clinic,Clinic,MoH,-20.82833,30.6027793884,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098322,Nemamwa Rural Health Clinic,Rural Health Clinic,MoH,-20.3,30.8666,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098323,Nemashakwe Clinic,Clinic,Local authority,-19.83439,31.6840591431,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098324,Nemauku Rural Health Clinic,Rural Health Clinic,MoH,-20.2775,31.3627,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098325,Neshuro District Hospital,District Hospital,MoH,-20.94083,30.6466693878,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098326,Ngundu Rural Health Clinic,Rural Health Clinic,MoH,-20.80253,30.8026409149,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098327,Nhema Clinic,Clinic,Local authority,-20.2539,31.5899,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098328,Nyahombe Rural Health Clinic,Rural Health Clinic,MoH,-20.82406,30.9888896942,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098329,Nyajena Rural Hospital,Rural Hospital,MoH,-20.60147,31.1673297882,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098330,Nyakunhuwa Clinic,Clinic,Local authority,-20.3693,31.2269,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098331,Nyangambe Rural Health Clinic,Rural Health Clinic,MoH,-20.68347,31.7523097992,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098332,Nyazvidzi Rural Health Clinic,Rural Health Clinic,Local authority,-19.40494,31.3673591614,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098333,Nyika Rural Health Clinic,Rural Health Clinic,MoH,-20.00586,31.5888595581,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098334,Nyikavanhu Rural Health Clinic,Rural Health Clinic,MoH,-20.8442,31.2223,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098335,Odzi Rural Health Clinic,Rural Health Clinic,Local authority,-20.4186,31.8836,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098336,Old Boli Rural Health Clinic,Rural Health Clinic,MoH,-21.42189,31.4508895874,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098337,Pore-pore Clinic,Clinic,Local authority,-21.0221,31.4461,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098338,Razi Rural Health Clinic,Rural Health Clinic,MoH,-20.71986,30.6542205811,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098339,Rujeko Clinic,Clinic,Local authority,-20.08433,30.837469101,ZW1821,Masvingo Urban,Masvingo,False
+ZWE_MFL_098340,Rukowo Clinic,Clinic,Local authority,-20.5166,30.75,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098341,Runyararo Clinic,Clinic,Local authority,-20.10292,30.8233604431,ZW1821,Masvingo Urban,Masvingo,False
+ZWE_MFL_098342,Rupangwana Clinic,Clinic,Local authority,-20.7634,31.8851,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098343,Rutandare Clinic,Clinic,Local authority,-22.10658,31.3044395447,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098344,Rutenga Clinic,Clinic,MoH,-21.23778,30.7294406891,ZW1806,Mwenezi,Masvingo,False
+ZWE_MFL_098345,Samu Rural Health Clinic,Rural Health Clinic,MoH,-22.23522,31.3744392395,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098346,Serima Clinic,Clinic,FBO,-19.51861,30.8836898804,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098347,Shindi Rural Health Clinic,Rural Health Clinic,Local authority,-20.87186,30.8503608704,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098348,Shonganiso Clinic,Clinic,FBO,-20.43675,31.0854701996,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098349,Silveira Rural Hospital,Rural Hospital,FBO,-20.02347,31.6867809296,ZW1801,Bikita,Masvingo,False
+ZWE_MFL_098350,Siyawareva Clinic,Clinic,Local authority,-20.43864,31.4861907959,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098351,Soli Source Clinic,Clinic,MoH,-19.4687,31.2222,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098352,St Joseph Clinic,Clinic,FBO,-20.82314,32.1207809448,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098353,St. Jospeth Clinic,Clinic,Local authority,-20.818,32.12,ZW1802,Chiredzi,Masvingo,False
+ZWE_MFL_098354,Stanmore Clinic,Clinic,MoH,-20.0236,31.0277,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098355,Summerton Rural Health Clinic,Rural Health Clinic,MoH,-19.97103,30.7031898499,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098356,Svuure Rural Health Clinic,Rural Health Clinic,MoH,-20.5568,31.5446,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098357,Takavarasha Rural Health Clinic,Rural Health Clinic,MoH,-20.33397,30.3073101044,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098358,Tirizi Clinic,Clinic,Local authority,-19.75394,31.4502792358,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098359,Utete Clinic,Clinic,Local authority,-20.03928,30.2065792084,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098360,Veza Clinic,Clinic,Local authority,-20.38519,31.3171100616,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098361,Vuranda Rural Health Clinic,Rural Health Clinic,Local authority,-20.0436,30.251,ZW1803,Chivi,Masvingo,False
+ZWE_MFL_098362,Zano Clinic,Clinic,Local authority,-20.2025,31.1218891144,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098363,Zibwowa Rural Health Clinic,Rural Health Clinic,MoH,-20.45111,31.5537204742,ZW1807,Zaka,Masvingo,False
+ZWE_MFL_098364,Zimuti BC Clinic,Clinic,Local authority,-19.8555,30.8586,ZW1805,Masvingo,Masvingo,False
+ZWE_MFL_098365,Zimuto Clinic,Clinic,FBO,-20.06789,30.8543300629,ZW1821,Masvingo Urban,Masvingo,False
+ZWE_MFL_098366,Zinhata Clinic,Clinic,Local authority,-19.81789,31.5864696503,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098367,Zvavahera Rural Health Clinic,Rural Health Clinic,MoH,-19.57472,31.3556098938,ZW1804,Gutu,Masvingo,False
+ZWE_MFL_098368,Balanda Rural Health Clinic,Rural Health Clinic,Local authority,-19.493033,28.58072,ZW1502,Bubi,Matabeleland North,False
+ZWE_MFL_098369,Binga District Hospital,District Hospital,MoH,-17.63944,27.326669693,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098370,Bubude Rural Health Clinic,Rural Health Clinic,Local authority,-20.1,27.8119392395,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098371,Casyman (Turk) Rural Health Clinic,Rural Health Clinic,MoH,-17.1153,27.9937,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098372,Chinengo Rural Health Clinic,Rural Health Clinic,MoH,-17.19472,28.0750007629,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098373,Chinotimba Clinic,Clinic,Local authority,-17.94528,25.8258304596,ZW1522,Victoria Falls,Matabeleland North,False
+ZWE_MFL_098374,Chisuma Rural Health Clinic,Rural Health Clinic,MoH,-18.017,25.962,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098375,Chunga Rural Health Clinic,Rural Health Clinic,MoH,-17.1465,28.1034,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098376,Dakamela Rural Hospital,Rural Hospital,MoH,-18.79722,28.6666698456,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098377,Dandanda Rural Health Clinic,Rural Health Clinic,MoH,-18.44889,27.8691692352,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098378,Dete Clinic,Clinic,Local authority,-18.6167,26.8667,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098379,Dinde Clinic,Clinic,Local authority,-18.38,26.7374992371,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098380,Dlamini Rural Health Clinic,Rural Health Clinic,Local authority,-19.4938,27.399,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098381,Empumalanga Clinic,Clinic,Local authority,-18.34972,26.5008296967,ZW1521,Hwange Urban,Matabeleland North,False
+ZWE_MFL_098382,Fanisoni Rural Health Clinic,Rural Health Clinic,Local authority,-18.633,28.8549,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098383,Fatima Rural Health Clinic,Rural Health Clinic,Local authority,-18.74072,27.414,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098384,Fingo Clinic,Clinic,Local authority,-19.9675,28.8941707611,ZW1507,Umguza,Matabeleland North,False
+ZWE_MFL_098385,Gomoza Rural Health Clinic,Rural Health Clinic,Local authority,-18.84139,28.2236099243,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098386,Guwe Rural Health Clinic,Rural Health Clinic,Local authority,-19.21444,28.9677791595,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098387,Gwayi Clinic,Clinic,Local authority,-18.61111,27.1863899231,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098388,Gwelutshena Rural Health Clinic,Rural Health Clinic,MoH,-18.66306,28.7088909149,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098389,Igusi Clinic,Clinic,MoH,-19.66111,28.0741691589,ZW1507,Umguza,Matabeleland North,False
+ZWE_MFL_098390,Inyathi District Hospital,District Hospital,MoH,-19.685,28.8561096191,ZW1502,Bubi,Matabeleland North,False
+ZWE_MFL_098391,Jambezi Rural Health Clinic,Rural Health Clinic,MoH,-18.05222,26.2275009155,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098392,Jimila Rural Health Clinic,Rural Health Clinic,Local authority,-19.49333,27.738609314,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098393,Jotsholo Rural Health Clinic,Rural Health Clinic,MoH,-18.73056,27.5583305359,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098394,Kamativi Rural Health Clinic,Rural Health Clinic,FBO,-18.3242,27.0516,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098395,Kanyambizi Rural Health Clinic,Rural Health Clinic,MoH,-18.0167,26.3,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098396,Kanyandavu Clinic,Clinic,MoH,-18.30444,27.9777793884,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098397,Kapane Rural Health Clinic,Rural Health Clinic,Local authority,-19.26056,27.5174999237,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098398,Kariangwe Rural Hospital,Rural Hospital,FBO,-17.96972,27.5349998474,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098399,Lubimbi Rural Health Clinic,Rural Health Clinic,MoH,-18.4867,27.3043,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098400,Lukala Rural Health Clinic,Rural Health Clinic,MoH,-19.26389,28.4122200012,ZW1502,Bubi,Matabeleland North,False
+ZWE_MFL_098401,Lukosi Rural Hospital,Rural Hospital,MoH,-18.36056,26.6277809143,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098402,Lukunguni Rural Hospital,Rural Hospital,FBO,-18.04444,26.2283306122,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098403,Lupaka Rural Health Clinic,Rural Health Clinic,MoH,-18.78333,27.9036102295,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098404,Lupane Rural Health Clinic,Rural Health Clinic,MoH,-18.93528,27.7719402313,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098405,Lupote Clinic,Clinic,Local authority,-18.51278,26.9641704559,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098406,Lusuli Rural Health Clinic,Rural Health Clinic,MoH,-18.0683,27.86222076,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098407,Mabale Clinic,Clinic,Local authority,-18.5606,27.138764,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098408,Madlangombe Rural Health Clinic,Rural Health Clinic,Local authority,-19.777,27.511,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098409,Makaza Rural Health Clinic,Rural Health Clinic,MoH,-19.9333,27.65,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098410,Makwandara Rural Health Clinic,Rural Health Clinic,MoH,-18.31722,27.2005596161,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098411,Mateme Rural Health Clinic,Rural Health Clinic,FBO,-18.665,28.9351,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098412,Mbembesi Clinic,Clinic,MoH,-19.9891,28.9267,ZW1507,Umguza,Matabeleland North,False
+ZWE_MFL_098413,Mbembeswana Rural Health Clinic,Rural Health Clinic,Local authority,-18.1108,27.6093,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098414,Mbuma Rural Hospital,Rural Hospital,FBO,-18.94889,28.4416694641,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098415,Mdlankunzi Clinic,Clinic,Local authority,-18.49389,27.7519397736,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098416,Mdutshana Rural Health Clinic,Rural Health Clinic,MoH,-18.1116,27.8901,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098417,Mlagisa Rural Health Clinic,Rural Health Clinic,MoH,-19.15111,27.6674995422,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098418,Mpanedziba Rural Health Clinic,Rural Health Clinic,Local authority,-19.462,27.5731,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098419,Mtshayeli Rural Health Clinic,Rural Health Clinic,MoH,-18.35889,27.0886096954,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098420,Muchesu Rural Health Clinic,Rural Health Clinic,MoH,-17.94778,27.6891708374,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098421,Mwemba Rural Health Clinic,Rural Health Clinic,MoH,-18.18333,26.5605602264,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098422,Ndlovu Clinic,Clinic,Local authority,-18.10083,25.9838905334,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098423,Nesinwe Rural Health Clinic,Rural Health Clinic,Local authority,-18.6946,28.3943,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098424,Ngwaladi Rural Health Clinic,Rural Health Clinic,MoH,-18.57667,28.3797206879,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098425,Nkayi District Hospital,District Hospital,MoH,-19.00056,28.8913898468,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098426,Nkunzi Rural Health Clinic,Rural Health Clinic,Local authority,-20.10056,27.8886108398,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098427,Ntabazinduna Clinic,Clinic,Local authority,-19.97944,28.8455600739,ZW1507,Umguza,Matabeleland North,False
+ZWE_MFL_098428,Nyamandlovu District Hospital,District Hospital,MoH,-19.85889,28.2655601501,ZW1507,Umguza,Matabeleland North,False
+ZWE_MFL_098429,Pashu Rural Health Clinic,Rural Health Clinic,Local authority,-18.20806,27.400560379,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098430,Phimula Rural Hospital,Rural Hospital,FBO,-19.5886,27.0949,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098431,Pumula Clinic,Clinic,Local authority,-19.59306,27.0913906097,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098432,Sebhumane Rural Health Clinic,Rural Health Clinic,Local authority,-18.7035,28.4705,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098433,Sesemba Rural Health Clinic,Rural Health Clinic,Local authority,-18.9558,28.7456,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098434,Siabuwa Rural Hospital,Rural Hospital,MoH,-17.47472,28.0438899994,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098435,Siasumbu Rural Health Clinic,Rural Health Clinic,MoH,-17.990927,27.204575,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098436,Siganda Rural Health Clinic,Rural Health Clinic,Local authority,-17.6083,27.6743,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098437,Siketnte Rural Health Clinic,Rural Health Clinic,Local authority,-19.797,27.357,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098438,Sikhobokobo Rural Health Clinic,Rural Health Clinic,Local authority,-18.7953,28.4585,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098439,Simangani Clinic,Clinic,Local authority,-18.11028,26.7241706848,ZW1503,Hwange,Matabeleland North,False
+ZWE_MFL_098440,Simatelele Rural Health Clinic,Rural Health Clinic,MoH,-17.78883,27.25738,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098441,Sinangonde Rural Health Clinic,Rural Health Clinic,MoH,-18.366,27.8201,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098442,Sinasengue Rural Health Clinic,Rural Health Clinic,MoH,-17.5335,27.8989,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098443,Sipepa Rural Hospital,Rural Hospital,MoH,-19.28667,27.6550006866,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098444,Sivalo Rural Health Clinic,Rural Health Clinic,MoH,-18.74306,28.3513908386,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098445,Sodaka Rural Health Clinic,Rural Health Clinic,MoH,-19.39889,27.0841693878,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098446,St. Lukes Lupane (Designated) District/Provincial Hospital,District/Provincial Hospital,FBO,-19.10972,27.9686107635,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098447,St. Pauls Rural Hospital,Rural Hospital,Local authority,-19.02028,28.1138896942,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098448,Tinde Rural Health Clinic,Rural Health Clinic,FBO,-18.26125,27.18206,ZW1501,Binga,Matabeleland North,False
+ZWE_MFL_098449,Tsholotsho District Hospital,District Hospital,MoH,-19.77278,27.755279541,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098450,Tsholotsho Urban Clinic,Clinic,Local authority,-19.7556,27.7651,ZW1506,Tsholotsho,Matabeleland North,False
+ZWE_MFL_098451,Umuntu Rural Health Clinic,Rural Health Clinic,MoH,-20.0059,28.4359,ZW1507,Umguza,Matabeleland North,False
+ZWE_MFL_098452,Victoria Falls District Hospital,District Hospital,MoH,-17.94389,25.8261108398,ZW1522,Victoria Falls,Matabeleland North,False
+ZWE_MFL_098453,Zenka Rural Health Clinic,Rural Health Clinic,MoH,-19.07,28.773059845,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098454,Zinyangeni Rural Health Clinic,Rural Health Clinic,Local authority,-19.07778,28.9880599976,ZW1505,Nkayi,Matabeleland North,False
+ZWE_MFL_098455,Avoca Rural Hospital,Rural Hospital,MoH,-20.83492,29.5055599213,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098456,Bango Clinic,Clinic,MoH,-21.25769,28.13474,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098457,Bazha Clinic,Clinic,FBO,-20.60611,28.3350601196,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098458,Beitbridge District Hospital,District Hospital,MoH,-22.20458,29.9876098633,ZW1622,Beitbridge Urban,Matabeleland South,False
+ZWE_MFL_098459,Beula-Seula Rural Health Clinic,Rural Health Clinic,MoH,-21.48506,28.4061393738,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098460,Buvuma Clinic,Clinic,Local authority,-21.46747,29.2044696808,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098461,Chamunangana Clinic,Clinic,Local authority,-21.60719,29.601940155,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098462,Chikwarakwara Rural Health Clinic,Rural Health Clinic,MoH,-22.31725,31.0912494659,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098463,Chisvingo Clinic,Clinic,Local authority,-22.1743,30.0051,ZW1622,Beitbridge Urban,Matabeleland South,False
+ZWE_MFL_098464,Chituripasi Rural Health Clinic,Rural Health Clinic,MoH,-22.20064,30.787530899,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098465,Dingamuzi Clinic,Clinic,Local authority,-20.499,27.811,ZW1623,Plumtree,Matabeleland South,False
+ZWE_MFL_098466,Dite Rural Health Clinic,Rural Health Clinic,MoH,-22.22214,30.3900299072,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098467,Dombodema Rural Health Clinic,Rural Health Clinic,Local authority,-20.40417,27.6222190857,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098468,Dulilavadzimu Clinic,Clinic,Local authority,-22.211,29.976,ZW1622,Beitbridge Urban,Matabeleland South,False
+ZWE_MFL_098469,Dwala Clinic,Clinic,MoH,-21.08346,29.71504,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098470,Embakwe Rural Hospital,Rural Hospital,FBO,-20.77917,27.8211097717,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098471,Epandeni Clinic,Clinic,FBO,-20.71,27.905,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098472,Esibomvu Clinic,Clinic,Local authority,-20.3971,28.8917,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098473,Esigodini District Hospital,District Hospital,MoH,-20.28347,28.9367809296,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098474,Filabusi District Hospital,District Hospital,MoH,-20.54033,29.2866706848,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098475,Gulathi Rural Health Clinic,Rural Health Clinic,MoH,-20.4487,28.6247,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098476,Gungwe Rural Health Clinic,Rural Health Clinic,MoH,-21.45617,28.8873100281,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098477,Gwanda Provincial Hospital,Provincial Hospital,MoH,-20.9333,29.0,ZW1621,Gwanda Urban,Matabeleland South,False
+ZWE_MFL_098478,Gwatemba Rural Health Clinic,Rural Health Clinic,MoH,-20.40542,29.6905002594,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098479,Habane Clinic,Clinic,Local authority,-20.2922,28.9392,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098480,Hlekweni Clinic,Clinic,Local authority,-20.25333,28.49899,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098481,Homestead Rural Health Clinic,Rural Health Clinic,MoH,-21.25589,28.5538597107,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098482,Huwana Rural Health Clinic,Rural Health Clinic,MoH,-19.89528,27.4655609131,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098483,Ingwizi Clinic,Clinic,MoH,-21.11917,27.8708305359,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098484,Insiza Rural Health Clinic,Rural Health Clinic,MoH,-20.9277,29.3488,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098485,Irisvale Clinic,Clinic,MoH,-20.52311,29.0853099823,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098486,Kafusi Clinic,Clinic,Local authority,-21.60386,28.7722206116,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098487,Kezi Rural Hospital,Rural Hospital,MoH,-20.91947,28.4580307007,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098488,Kombo Clinic,Clinic,MoH,-19.85475,29.04724,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098489,Kumbudzi Rural Health Clinic,Rural Health Clinic,MoH,-20.6333,28.9,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098490,Lady Barring Rural Hospital,Rural Hospital,MoH,-20.3998,28.1437,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098491,Lady stanely Rural Hospital,Rural Hospital,MoH,-20.2598,28.2755,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098492,Lushongwe Clinic,Clinic,MoH,-21.01852,28.78025,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098493,Mabuze Rural Health Clinic,Rural Health Clinic,MoH,-20.93906,29.4529209137,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098494,Madabe Clinic,Clinic,Local authority,-20.81444,27.7533302307,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098495,Majini Rural Health Clinic,Rural Health Clinic,MoH,-21.50331,29.6906700134,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098496,Makakabule Clinic,Clinic,Local authority,-22.13792,29.9368095398,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098497,Makulela Rural Health Clinic,Rural Health Clinic,MoH,-19.9333,27.2333,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098498,Makwe Rural Health Clinic,Rural Health Clinic,MoH,-20.96919,28.7563896179,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098499,Mambale Clinic,Clinic,Local authority,-21.47833,28.2847194672,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098500,Manama Rural Hospital,Rural Hospital,FBO,-21.57014,28.9911403656,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098501,Maphisa District Hospital,District Hospital,MoH,-21.07378,28.4743595123,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098502,Marula Clinic,Clinic,Local authority,-20.4725,28.0936107635,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098503,Masendu Clinic,Clinic,Local authority,-20.1312,27.5343,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098504,Masera Clinic,Clinic,Local authority,-21.93431,29.5865001678,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098505,Mashaba Clinic,Clinic,Local authority,-21.66825,28.9503898621,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098506,Matjinge Clinic,Clinic,MoH,-20.3264,27.7538,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098507,Matopo Clinic,Clinic,Local authority,-20.47,28.722,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098508,Matopo Rural Hospital,Rural Hospital,MoH,-20.42,28.49,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098509,Mawabeni Clinic,Clinic,Local authority,-20.40653,28.9851398468,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098510,Mazunga Clinic,Clinic,Local authority,-21.7345,29.86923,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098511,Mbembeswana Clinic,Clinic,Local authority,-21.0333,28.2667,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098512,Mbizingwe Rural Health Clinic,Rural Health Clinic,MoH,-20.40375,28.818939209,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098513,Mhlamhlandlela Clinic,Clinic,Local authority,-20.4488,28.8966,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098514,Montrose Clinic,Clinic,MoH,-20.1768,29.1537,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098515,Mpalawani Clinic,Clinic,MoH,-20.491,29.4589,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098516,Mpisini Clinic,Clinic,Local authority,-20.20814,29.10956,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098517,Mtshabezi Rural Hospital,Rural Hospital,FBO,-20.70111,28.9069194794,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098518,Mzimuni Clinic,Clinic,Local authority,-20.65025,29.1355800629,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098519,Natasi Rural Health Clinic,Rural Health Clinic,MoH,-20.7462,28.6389,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098520,Ndiweni Clinic,Clinic,Local authority,-20.36611,27.7508296967,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098521,Nhawali Clinic,Clinic,MoH,-20.7736,29.1403,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098522,Nhlangano Clinic,Clinic,Local authority,-20.20519,28.7724399567,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098523,Nkankezi Rural Health Clinic,Rural Health Clinic,MoH,-20.48781,29.4237804413,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098524,Nottingham Rural Health Clinic,Rural Health Clinic,MoH,-22.12217,29.63697052,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098525,Nswazi Clinic,Clinic,Local authority,-20.5667,28.9833,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098526,Nswazi Rural Health Clinic,Rural Health Clinic,MoH,-20.3701,28.3183,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098527,Ntalale Clinic,Clinic,Local authority,-21.35731,28.8860797882,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098528,Ntshamate Clinic,Clinic,Local authority,-20.1878,28.887,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098529,Nyamime Rural Health Clinic,Rural Health Clinic,MoH,-20.90644,29.3043899536,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098530,Phakama Clinic,Clinic,Local authority,-21.0018,29.2196,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098531,Plumtree District Hospital,District Hospital,MoH,-20.49667,27.808889389,ZW1623,Plumtree,Matabeleland South,False
+ZWE_MFL_098532,Sanale Rural Health Clinic,Rural Health Clinic,MoH,-20.68947,29.5551700592,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098533,Sankonjana Rural Health Clinic,Rural Health Clinic,MoH,-21.40547,28.7002792358,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098534,Selonga Clinic,Clinic,Local authority,-21.3277,28.8135,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098535,Sengezane Clinic,Clinic,Local authority,-20.9466,28.9995,ZW1621,Gwanda Urban,Matabeleland South,False
+ZWE_MFL_098536,Shabwe Rural Health Clinic,Rural Health Clinic,MoH,-22.10489,30.2227802277,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098537,Shangani Rural Hospital,Rural Hospital,MoH,-19.68997,29.2248897552,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098538,Shashe Clinic,Clinic,Local authority,-22.10292,29.3224391937,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098539,Shashi Clinic,Clinic,Local authority,-22.2333,30.7167,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098540,Sikhathini Rural Health Clinic,Rural Health Clinic,Local authority,-20.3529,27.8994,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098541,Simbumbumbu Rural Health Clinic,Rural Health Clinic,MoH,-20.75217,28.757610321,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098542,Singwambizi Clinic,Clinic,Local authority,-20.93315,29.54654,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098543,Singwango Clinic,Clinic,Local authority,-20.78678,29.317609787,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098544,Sitezi Clinic,Clinic,Local authority,-20.8191,28.8037,ZW1604,Gwanda,Matabeleland South,False
+ZWE_MFL_098545,Solusi Clinic,Clinic,FBO,-20.19278,28.1602802277,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098546,St Annes Rural Hospital,Rural Hospital,FBO,-21.1706,28.0335,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098547,St. Joseph Rural Hospital,Rural Hospital,FBO,-21.256,28.275,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098548,Swereki Clinic,Clinic,Local authority,-21.87125,29.4038600922,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098549,Tongwe Clinic,Clinic,Local authority,-21.9099,30.019,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098550,Tshelanyemba Rural Hospital,Rural Hospital,FBO,-21.35383,28.48802948,ZW1606,Matobo,Matabeleland South,False
+ZWE_MFL_098551,Tshitshi Clinic,Clinic,Local authority,-21.00333,27.7480602264,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098552,Village 13 Rural Health Clinic,Rural Health Clinic,MoH,-20.39056,27.5238895416,ZW1602,Bulilima,Matabeleland South,False
+ZWE_MFL_098553,Wanezi Rural Hospital,Rural Hospital,FBO,-20.57447,29.5855293274,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098554,Zezani Clinic,Clinic,Local authority,-21.6167,29.5,ZW1601,Beitbridge,Matabeleland South,False
+ZWE_MFL_098555,Zhulube Clinic,Clinic,Local authority,-20.64019,29.2900600433,ZW1605,Insiza,Matabeleland South,False
+ZWE_MFL_098556,Zimbili Clinic,Clinic,MoH,-20.0226,28.989,ZW1607,Umzingwane,Matabeleland South,False
+ZWE_MFL_098557,Dongamuzi Rural Health Clinic,Rural Health Clinic,MoH,-18.40378,27.44719,ZW1504,Lupane,Matabeleland North,False
+ZWE_MFL_098568,Mayobodo Clinic,Clinic,MoH,-21.3633,28.15155,ZW1603,Mangwe,Matabeleland South,False
+ZWE_MFL_098574,Amaveni Clinic,Clinic,Local authority,-18.92453,29.78466,ZW1722,Kwekwe Urban,Midlands,False
+ZWE_MFL_098575,Banga Rural Health Clinic,Rural Health Clinic,MoH,-19.97475,30.2696895599,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098576,Bonda Rural Health Clinic,Rural Health Clinic,Local authority,-20.8516,30.4438,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098577,Chabwira Rural Health Clinic,Rural Health Clinic,Local authority,-20.67058,30.239440918,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098578,Chaka Rural Health Clinic,Rural Health Clinic,MoH,-19.53636,30.6891403198,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098579,Chemahororo Rural Health Clinic,Rural Health Clinic,Local authority,-18.21611,29.1127796173,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098580,Chengwena Rural Health Clinic,Rural Health Clinic,Local authority,-19.80483,30.5532207489,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098582,Cheziya Clinic,Clinic,Local authority,-17.9505,28.2114,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098583,Chidembeko Rural Health Clinic,Rural Health Clinic,MoH,-20.7249,29.8984,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098584,Chikato Rural Health Clinic,Rural Health Clinic,MoH,-19.81733,30.3025302887,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098585,Chikwingwizha Rural Health Clinic,Rural Health Clinic,FBO,-19.5555,29.9564208984,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098586,Child Welfare Clinic,Clinic,Local authority,-19.46832,29.83183,ZW1721,Gweru Urban,Midlands,False
+ZWE_MFL_098587,Chingezi Rural Health Clinic,Rural Health Clinic,Local authority,-20.72236,29.7866096497,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098588,Chireya Rural Hospital,Rural Hospital,FBO,-17.54417,28.5988903046,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098589,Chitave Clinic,Clinic,Local authority,-18.19778,28.4511108398,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098590,Chiundura Rural Health Clinic,Rural Health Clinic,Local authority,-19.23689,29.9526100159,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098591,Chizhou Rural Health Clinic,Rural Health Clinic,MoH,-19.55183,30.5044708252,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098592,Connemara Clinic,Clinic,MoH,-19.20722,29.8199691772,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098593,Dambridge Clinic,Clinic,Local authority,-19.104,29.126,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098594,Denda Clinic,Clinic,FBO,-17.78917,28.8202800751,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098595,Denhere Clinic,Clinic,MoH,-18.706,29.1143,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098597,Donjuan Clinic,Clinic,Local authority,-18.9207,29.8089,ZW1722,Kwekwe Urban,Midlands,False
+ZWE_MFL_098598,Donsa Rural Health Clinic,Rural Health Clinic,MoH,-18.76897,28.9063091278,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098599,Driefontein Rural Hospital,Rural Hospital,FBO,-19.41889,30.7071094513,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098601,Gawa Clinic,Clinic,Local authority,-18.26167,28.7338905334,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098602,Gokwe South District Hospital,District Hospital,MoH,-18.21139,28.925,ZW1729,Gokwe South Urban,Midlands,False
+ZWE_MFL_098603,Gomola Rural Health Clinic,Rural Health Clinic,Local authority,-18.76839,29.4524707794,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098604,Goredema Clinic,Clinic,Local authority,-17.85194,28.8969402313,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098605,Gudo Rural Health Clinic,Rural Health Clinic,Local authority,-20.39072,30.219329834,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098606,Gumunyu Clinic,Clinic,Local authority,-17.40972,28.9052791595,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098607,Gunde Rural Health Clinic,Rural Health Clinic,MoH,-19.18781,30.0027809143,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098608,Gundura Rural Health Clinic,Rural Health Clinic,Local authority,-19.8667,30.0667,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098609,Guramatunhu Rural Health Clinic,Rural Health Clinic,Local authority,-19.63519,30.4875602722,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098610,Gwanyika Clinic,Clinic,MoH,-18.26278,29.2416706085,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098611,Gwanza Clinic,Clinic,MoH,-19.78753,30.3890304565,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098612,Gwarava Rural Health Clinic,Rural Health Clinic,Local authority,-20.95372,30.0684700012,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098613,Gweru Provincial Hospital,Provincial Hospital,MoH,-19.45,29.8167,ZW1721,Gweru Urban,Midlands,False
+ZWE_MFL_098614,Hama Rural Health Clinic,Rural Health Clinic,Local authority,-19.85431,30.6245002747,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098615,Hanke Clinic,Clinic,FBO,-19.65592,30.167640686,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098616,Holy Cross Rural Health Clinic,Rural Health Clinic,FBO,-19.56742,30.5909404755,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098617,Huchu Rural Health Clinic,Rural Health Clinic,Local authority,-17.98611,28.5324993134,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098618,Imbahuru Rural Health Clinic,Rural Health Clinic,Local authority,-20.86708,30.1020793915,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098619,Ingezi Rural Health Clinic,Rural Health Clinic,Local authority,-20.5896,30.326,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098620,Ivene Clinic,Clinic,Local authority,-19.49625,29.8007,ZW1721,Gweru Urban,Midlands,False
+ZWE_MFL_098621,Jackson Rural Health Clinic,Rural Health Clinic,Local authority,-19.10408,29.2500591278,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098622,Jeka Rural Hospital,Rural Hospital,MoH,-20.85536,29.9341392517,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098623,Jiri Rural Health Clinic,Rural Health Clinic,Local authority,-18.345,28.2574996948,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098624,Jobolinko Rural Health Clinic,Rural Health Clinic,Local authority,-19.68503,30.287109375,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098625,Kabanga Clinic,Clinic,Local authority,-19.1395,30.0734405518,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098626,Kadzidirire Rural Health Clinic,Rural Health Clinic,MoH,-17.50028,28.9383296967,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098627,Kahobo Rural Health Clinic,Rural Health Clinic,Local authority,-17.7375,28.7633304596,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098628,Kana Rural Hospital,Rural Hospital,FBO,-18.55583,28.5158290863,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098629,Kotokwe Rural Health Clinic,Rural Health Clinic,Local authority,-20.98397,29.5889701843,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098630,Krima Rural Health Clinic,Rural Health Clinic,Local authority,-18.45028,29.3719406128,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098631,Kuwirirana Rural Health Clinic,Rural Health Clinic,Local authority,-17.9075,29.0302791595,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098632,Kwekwe District Hospital,District Hospital,MoH,-18.93572,29.8237495422,ZW1722,Kwekwe Urban,Midlands,False
+ZWE_MFL_098633,Lalapanzi Rural Health Clinic,Rural Health Clinic,Local authority,-19.33514,30.1853103638,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098634,Lower Gweru Clinic,Clinic,FBO,-19.38747,29.5404205322,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098635,Lundi Rural Hospital,Rural Hospital,MoH,-20.2167,30.1667,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098636,Lybwood Rural Health Clinic,Rural Health Clinic,MoH,-19.4,30.5167,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098637,Mabasa Rural Health Clinic,Rural Health Clinic,Local authority,-20.15469,30.0866909027,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098638,Maboleni Rural Health Clinic,Rural Health Clinic,Local authority,-19.29136,29.43983078,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098639,Madhikane Rural Health Clinic,Rural Health Clinic,Local authority,-19.272,29.308,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098640,Madzivazvido Rural Health Clinic,Rural Health Clinic,MoH,-17.6333,28.5167,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098641,Magwande Rural Health Clinic,Rural Health Clinic,MoH,-19.373,29.427,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098642,Makepesi Rural Health Clinic,Rural Health Clinic,Local authority,-19.38919,29.5688304901,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098643,Maketo Rural Health Clinic,Rural Health Clinic,MoH,-20.20569,29.9344406128,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098644,Makuwerere Rural Health Clinic,Rural Health Clinic,Local authority,-20.98544,30.2363605499,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098645,Malisa Josepha Rural Health Clinic,Rural Health Clinic,Local authority,-18.9211,29.0015,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098646,Malisa Zhombe Rural Health Clinic,Rural Health Clinic,Local authority,-18.9272,28.9953,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098647,Mangidhi Rural Health Clinic,Rural Health Clinic,Local authority,-17.7212,29.0049,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098648,Manoti Rural Health Clinic,Rural Health Clinic,Local authority,-18.45833,28.3794403076,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098649,Mapanzure Rural Health Clinic,Rural Health Clinic,Local authority,-20.1161,29.9171,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098650,Marishongwe Rural Health Clinic,Rural Health Clinic,MoH,-19.87072,30.019329071,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098651,Masase Rural Hospital,Rural Hospital,FBO,-20.98667,29.6669998169,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098652,Mashame Rural Health Clinic,Rural Health Clinic,Local authority,-17.2725,28.7975006104,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098653,Masuka Rural Health Clinic,Rural Health Clinic,Local authority,-18.00333,28.4025001526,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098654,Masvori Clinic,Clinic,MoH,-19.21278,30.0599994659,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098655,Mataga Rural Health Clinic,Rural Health Clinic,MoH,-20.84119,30.1904201508,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098656,Matenda Rural Health Clinic,Rural Health Clinic,MoH,-20.00344,30.0565299988,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098657,Mateta Rural Health Clinic,Rural Health Clinic,MoH,-18.3925,28.5330600739,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098658,Matibi Rural Hospital,Rural Hospital,FBO,-20.75028,30.4861106873,ZW1806,Mwenezi,Masvingo,True
+ZWE_MFL_098659,Mavorowondo Rural Health Clinic,Rural Health Clinic,MoH,-20.6955,29.9494,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098660,Mayoca Rural Health Clinic,Rural Health Clinic,Local authority,-18.7319,29.5608,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098661,Mazebe Rural Health Clinic,Rural Health Clinic,MoH,-18.93542,29.0063,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098662,Mazibisa Rural Health Clinic,Rural Health Clinic,MoH,-19.8555,30.2564201355,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098663,Maziofa Rural Health Clinic,Rural Health Clinic,Local authority,-20.6906,29.9379,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098664,Mberengwa Rural Hospital,Rural Hospital,MoH,-20.48881,29.9198093414,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098665,Mbiza A Clinic,Clinic,Local authority,-19.0249,29.7706,ZW1723,Redcliff,Midlands,False
+ZWE_MFL_098666,Mbizo B Clinic,Clinic,Local authority,-18.9051,29.8498,ZW1722,Kwekwe Urban,Midlands,False
+ZWE_MFL_098667,Mkoba 1 Clinic,Clinic,Local authority,-19.46726,29.76658,ZW1721,Gweru Urban,Midlands,False
+ZWE_MFL_098668,Mkoba Rural Health Clinic,Rural Health Clinic,Local authority,-17.7057,29.047,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098670,Mlezu Clinic,Clinic,MoH,-19.1,29.8333,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098672,Mnene District Hospital,District Hospital,FBO,-20.62342,30.0538101196,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098673,Monomutapa Clinic,Clinic,Local authority,-19.44489,29.80173,ZW1721,Gweru Urban,Midlands,False
+ZWE_MFL_098674,Mpinda Clinic,Clinic,Local authority,-19.15281,29.2516098022,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098675,Mpongane Rural Health Clinic,Rural Health Clinic,Local authority,-20.7162,30.4067,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098676,Mposi Rural Health Clinic,Rural Health Clinic,Local authority,-20.82161,30.0220603943,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098677,Msala Rural Health Clinic,Rural Health Clinic,Local authority,-18.465,28.0452804565,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098678,Msilahobe Rural Health Clinic,Rural Health Clinic,MoH,-19.1903,29.1144,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098680,Mtange Rural Health Clinic,Rural Health Clinic,FBO,-17.6789,29.0399,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098681,Mtora Rural Hospital,Rural Hospital,FBO,-17.72083,29.0069408417,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098682,Muketi Rural Health Clinic,Rural Health Clinic,Local authority,-21.00736,30.1403102875,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098683,Murongwe Rural Health Clinic,Rural Health Clinic,MoH,-20.60161,30.25756073,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098684,Murowa Rural Health Clinic,Rural Health Clinic,Local authority,-20.53392,30.3869400024,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098685,Musadzi Rural Health Clinic,Rural Health Clinic,MoH,-17.4833,29.0333,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098686,Musita Rural Health Clinic,Rural Health Clinic,Local authority,-17.84361,28.5786094666,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098687,Musume Rural Hospital,Rural Hospital,FBO,-20.92289,30.2390594482,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098688,Mutambi Rural Health Clinic,Rural Health Clinic,Local authority,-20.468,30.286,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098689,Muvonde Rural Hospital,Rural Hospital,FBO,-19.417,30.71,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098690,Mvuma District Hospital,District Hospital,MoH,-19.29036,30.520860672,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098691,Mwanezi Rural Health Clinic,Rural Health Clinic,MoH,-20.7533,29.6979,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098692,Negobe Rural Health Clinic,Rural Health Clinic,Local authority,-20.68572,30.3549194336,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098693,Nenyunga Rural Health Clinic,Rural Health Clinic,FBO,-17.44139,28.2530593872,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098694,Ngungubane Rural Health Clinic,Rural Health Clinic,Local authority,-20.7715,30.444,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098695,Nhema Rural Health Clinic,Rural Health Clinic,Local authority,-19.6191,30.22019005,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098696,Nkululeko Clinic,Clinic,MoH,-19.20103,29.6528091431,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098697,Norah Rural Health Clinic,Rural Health Clinic,MoH,-17.51306,29.1677799225,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098698,Ntabahlope Rural Health Clinic,Rural Health Clinic,Local authority,-19.15,29.4,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098699,Ntabane Clinic,Clinic,Local authority,-18.8199,29.3373,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098700,Nyamhunga Rural Health Clinic,Rural Health Clinic,MoH,-18.347,29.467,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098701,Nyanje Rural Health Clinic,Rural Health Clinic,Local authority,-18.554,28.802,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098702,Nyautonge Rural Health Clinic,Rural Health Clinic,MoH,-19.6908,30.6922,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098703,Nyoni Rural Health Clinic,Rural Health Clinic,MoH,-18.96747,29.3375606537,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098704,Pakame Clinic,Clinic,FBO,-19.93808,30.0408306122,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098705,Princess Margaret Rose Clinic,Clinic,Local authority,-19.055081,29.603471,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098706,Rockford Clinic,Clinic,Local authority,-19.75194,30.3081092834,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098707,Rubatsiro Rural Health Clinic,Rural Health Clinic,Local authority,-17.77472,29.0938892365,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098708,Rutendo Clinic,Clinic,Local authority,-19.0084,29.77346,ZW1723,Redcliff,Midlands,False
+ZWE_MFL_098709,Sai Rural Health Clinic,Rural Health Clinic,Local authority,-18.25861,28.3286094666,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098710,Samambwa Clinic,Clinic,Local authority,-18.33406,29.4524707794,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098711,Sasane Rural Health Clinic,Rural Health Clinic,FBO,-17.4833,28.5167,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098712,Sebakwe Clinic,Clinic,Local authority,-18.98881,30.1225605011,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098713,Senga Clinic,Clinic,Local authority,-19.5167,29.8333,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098714,Sengwazi Clinic,Clinic,Local authority,-18.5833,29.4333,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098715,Sherwood Clinic,Clinic,Local authority,-18.82453,29.806219101,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098716,Shurugwi District Hospital,District Hospital,MoH,-19.67286,30.0011692047,ZW1728,Shurugwi Town,Midlands,False
+ZWE_MFL_098717,Sidakeni Clinic,Clinic,Local authority,-18.43989,29.4683895111,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098718,Silobela Rural Hospital,Rural Hospital,MoH,-19.00511,29.3045806885,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098719,Simana Clinic,Clinic,Local authority,-18.92169,29.1192798615,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098720,Simshembo Rural Health Clinic,Rural Health Clinic,MoH,-17.6833,28.2167,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098721,Siyahokwe Rural Health Clinic,Rural Health Clinic,Local authority,-19.68994,30.5043106079,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098722,Somabhula Rural Health Clinic,Rural Health Clinic,Local authority,-19.7,29.6667,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098723,St. Patricks Clinic,Clinic,FBO,-19.224,29.907,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098724,St. Theresa Rural Hospital,Rural Hospital,FBO,-19.716,30.638,ZW1701,Chirumhanzu,Midlands,False
+ZWE_MFL_098725,Svisvi Rural Health Clinic,Rural Health Clinic,Local authority,-18.06028,28.7775001526,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098726,Svita Rural Health Clinic,Rural Health Clinic,Local authority,-20.58678,30.1359405518,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098727,Tana Rural Health Clinic,Rural Health Clinic,MoH,-19.88975,30.3057498932,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098729,Tokwe Rural Health Clinic,Rural Health Clinic,MoH,-19.8914,30.372,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098730,Tongwe Rural Health Clinic,Rural Health Clinic,Local authority,-18.077,29.111,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098731,Totonga Clinic,Clinic,Local authority,-19.42968,29.82668,ZW1721,Gweru Urban,Midlands,False
+ZWE_MFL_098732,Tsungai Rural Health Clinic,Rural Health Clinic,MoH,-17.61306,29.1424999237,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098733,Vukuzenzele Rural Health Clinic,Rural Health Clinic,MoH,-20.26669,29.8721408844,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098734,Vumba Rural Health Clinic,Rural Health Clinic,Local authority,-17.76407,28.18426,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098735,Vungu Rural Health Clinic,Rural Health Clinic,Local authority,-19.40322,29.4722805023,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098736,Vungwi Rural Health Clinic,Rural Health Clinic,Local authority,-20.4696,30.1752,ZW1708,Zvishavane,Midlands,False
+ZWE_MFL_098737,Vurasha Rural Health Clinic,Rural Health Clinic,MoH,-20.93614,30.3840293884,ZW1706,Mberengwa,Midlands,False
+ZWE_MFL_098739,Whawha Clinic,Clinic,MoH,-19.3667,30.0167,ZW1704,Gweru,Midlands,False
+ZWE_MFL_098740,Zhamba Rural Health Clinic,Rural Health Clinic,Local authority,-18.225,28.0611095428,ZW1703,Gokwe South,Midlands,False
+ZWE_MFL_098741,Zhomba Rural Health Clinic,Rural Health Clinic,MoH,-17.44139,28.3130607605,ZW1702,Gokwe North,Midlands,False
+ZWE_MFL_098742,Zhombe Rural Hospital,Rural Hospital,FBO,-18.70336,29.3849391937,ZW1705,Kwekwe,Midlands,False
+ZWE_MFL_098743,Zvamabande Rural Health Clinic,Rural Health Clinic,MoH,-19.80181,30.1359405518,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098744,Zvarota Rural Health Clinic,Rural Health Clinic,MoH,-19.5565,30.2211704254,ZW1707,Shurugwi,Midlands,False
+ZWE_MFL_098745,Zvishavane District Hospital,District Hospital,MoH,-20.30581,30.0523891449,ZW1725,Zvishavane Urban,Midlands,False

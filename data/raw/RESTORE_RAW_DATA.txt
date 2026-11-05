@@ -1,0 +1,1 @@
+To reproduce notebooks, copy data/raw from the Stage 1 package, then run Notebooks 1–5. The app already has complete prepared inputs in data/app.

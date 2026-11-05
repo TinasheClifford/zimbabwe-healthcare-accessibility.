@@ -1,0 +1,21 @@
+{
+  "author": "Tinashe Clifford Makandise",
+  "mapped_facilities": 1201,
+  "districts": 91,
+  "population_denominator": 14851844.135005971,
+  "facilities_per_10000": 0.8086537867504472,
+  "unassigned_facilities": 0,
+  "unassigned_population": 0.0,
+  "input_sha256": {
+    "facilities_prepared.geojson": "1eede9e3124964596ee55bc38c89dc1be1388a7db760c746025e7dece54844dd",
+    "districts_prepared.geojson": "5c76ceb30cd9e1ddceaffa0cfe99dbc4b693f3bb5ffcd6f428fdffeb1c1749af",
+    "provinces_prepared.geojson": "87e328d62209b2e13615c14dbd0a719156377b5556b4744a7488d5dbfb328cac",
+    "population_cells_prepared.csv": "6f22454983adffe8e54e9d1e0230418bf397043a70d85478d367cf66c258e387"
+  },
+  "analysis": "descriptive only; no accessibility distances",
+  "output_files": [
+    "outputs/tables/03_district_descriptive_summary.csv",
+    "outputs/tables/03_province_descriptive_summary.csv",
+    "data/processed/districts_descriptive_indicators.geojson"
+  ]
+}

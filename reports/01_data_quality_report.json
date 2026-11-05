@@ -1,0 +1,140 @@
+{
+  "facility_audit": {
+    "zimbabwe_records": 1236,
+    "usable_global_coordinate_pairs": 1201,
+    "missing_either_coordinate": 35,
+    "nonmissing_invalid_global_coordinates": 0,
+    "outside_broad_screen_with_usable_coordinates": 0,
+    "exact_duplicate_rows": 0,
+    "rows_sharing_coordinate_pair": 0
+  },
+  "population_raster": {
+    "crs": "EPSG:4326",
+    "width": 938,
+    "height": 817,
+    "resolution_degrees": [
+      0.0083333333,
+      0.0083333333
+    ],
+    "bounds": [
+      25.240416568504628,
+      -22.408749692472906,
+      33.057083203904625,
+      -15.600416386372906
+    ],
+    "nodata": -99999.0,
+    "valid_cells": 479646,
+    "masked_cells": 286700,
+    "positive_cells": 479646,
+    "negative_valid_cells": 0,
+    "population_sum_before_clipping": 14862927.0006076
+  },
+  "boundary_layers_available": true,
+  "boundary_audit": [
+    {
+      "layer": "zwe_admin0",
+      "features": 1,
+      "crs": "EPSG:4326",
+      "geometry_types": "Polygon",
+      "missing_geometry": 0,
+      "empty_geometry": 0,
+      "invalid_geometry": 0,
+      "missing_codes": 0,
+      "duplicate_codes": 0
+    },
+    {
+      "layer": "zwe_admin1",
+      "features": 10,
+      "crs": "EPSG:4326",
+      "geometry_types": "Polygon",
+      "missing_geometry": 0,
+      "empty_geometry": 0,
+      "invalid_geometry": 0,
+      "missing_codes": 0,
+      "duplicate_codes": 0
+    },
+    {
+      "layer": "zwe_admin2",
+      "features": 91,
+      "crs": "EPSG:4326",
+      "geometry_types": "Polygon",
+      "missing_geometry": 0,
+      "empty_geometry": 0,
+      "invalid_geometry": 0,
+      "missing_codes": 0,
+      "duplicate_codes": 0
+    },
+    {
+      "layer": "zwe_admin3",
+      "features": 1961,
+      "crs": "EPSG:4326",
+      "geometry_types": "Polygon",
+      "missing_geometry": 0,
+      "empty_geometry": 0,
+      "invalid_geometry": 0,
+      "missing_codes": 0,
+      "duplicate_codes": 0
+    },
+    {
+      "layer": "zwe_adminlines",
+      "features": 5789,
+      "crs": "EPSG:4326",
+      "geometry_types": "LineString",
+      "missing_geometry": 0,
+      "empty_geometry": 0,
+      "invalid_geometry": 0
+    },
+    {
+      "layer": "zwe_adminpoints",
+      "features": 2063,
+      "crs": "EPSG:4326",
+      "geometry_types": "Point",
+      "missing_geometry": 0,
+      "empty_geometry": 0,
+      "invalid_geometry": 0
+    }
+  ],
+  "boundary_spatial_validation": "basic inspection complete; topology and containment pending Notebook 2",
+  "versions": {
+    "python": "3.12.14",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "rasterio": "1.5.2",
+    "openpyxl": "3.1.5"
+  },
+  "source_files": {
+    "ssa_public_health_facilities_2019.xlsx": {
+      "bytes": 5495174,
+      "sha256": "6ab31b0d2601e0cd53e6360c5f6f9b415b2f6e2895b7a687b35f2ddedc3950b1"
+    },
+    "zwe_ppp_2020_1km_Aggregated_UNadj.tif": {
+      "bytes": 2127638,
+      "sha256": "5152f3fcefdcd5986f7ef844d19a31f1489c7da01ed9169b8e00958a40d32866"
+    },
+    "zwe_admin0.geojson": {
+      "bytes": 1772528,
+      "sha256": "20a989ff85cbaf0f4b0c080bab441fad5c1f5061681adcf838833c422a5fe1a3"
+    },
+    "zwe_admin1.geojson": {
+      "bytes": 7218353,
+      "sha256": "164a962ef6e96330d769e06665009da3eee9434f9828f9c4a021a9012cc3ef6a"
+    },
+    "zwe_admin2.geojson": {
+      "bytes": 17351268,
+      "sha256": "0e0f5b8a1b95a77ece2a3007d9e0977d95ef5357d7d873fb898545d8cfd3d518"
+    },
+    "zwe_admin3.geojson": {
+      "bytes": 80590796,
+      "sha256": "a5eceb3a9a1d536878acab1b9ff69712719354693d17298fd73fcdf0f1e56998"
+    },
+    "zwe_adminlines.geojson": {
+      "bytes": 41980233,
+      "sha256": "358e14e8ae6e4d036b287b8f49dce789bee0bcc36453b20a23766d55b843e57b"
+    },
+    "zwe_adminpoints.geojson": {
+      "bytes": 1877418,
+      "sha256": "9fdbc0b30d7983069b7b10d2e1cea7115632146aa16f5f3724a42f7e5c93f704"
+    }
+  },
+  "analysis_status": "inspection only; no accessibility metrics calculated"
+}

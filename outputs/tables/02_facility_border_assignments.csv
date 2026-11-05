@@ -1,0 +1,1 @@
+source_excel_row,Country,source_province,source_name,source_type,source_ownership,Lat,Long,LL source,facility_id,province_clean,facility_name,facility_type,ownership,latitude,longitude,coordinate_valid,canonical_duplicate,status,inside_country,index_right,adm2_name,adm2_pcode,adm1_name,adm1_pcode,district_match_count,multiple_district_matches,province_disagreement

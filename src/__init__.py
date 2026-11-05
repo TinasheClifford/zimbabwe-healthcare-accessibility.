@@ -1,0 +1,1 @@
+"""Healthcare accessibility dashboard support."""

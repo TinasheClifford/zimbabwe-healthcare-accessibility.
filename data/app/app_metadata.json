@@ -1,0 +1,66 @@
+{
+  "author": "Tinashe Clifford Makandise",
+  "title": "Zimbabwe Healthcare Accessibility Explorer",
+  "status": "validated computational exports; app not yet built",
+  "distance_method": "WGS84 ellipsoidal geodesic from native population-cell centre to nearest prepared in-country facility",
+  "facility_count": 1201,
+  "population_cells": 479031,
+  "districts": 91,
+  "population_denominator": 14851844.135005971,
+  "thresholds_km": [
+    5,
+    10,
+    20
+  ],
+  "beyond_rule": "strictly greater than threshold",
+  "facility_filter_semantics": "Display only; all indicators refer to the full prepared facility set",
+  "display_simplification_metres": 25,
+  "display_area_change_max_percent": 0.22690147384255804,
+  "cell_position_envelope_radius_km": 0.9307832137008171,
+  "validation": {
+    "exhaustive_sample_cells": 150,
+    "max_sample_error_m": 7.275957614183426e-12,
+    "cell_round_trip": "passed",
+    "district_national_reconciliation": "passed"
+  },
+  "limitations": [
+    "Historical facility compilation and 2020 modelled population; not a current operational register.",
+    "Incomplete provider coverage, including 35 source records without coordinates; no capacity or quality assessment.",
+    "Population placed at approximately 1 km native-cell centres; within-cell envelope covers only positional approximation.",
+    "Facilities outside Zimbabwe excluded; international-border distances may be overstated.",
+    "Geodesic distances are not road distances or travel times; thresholds are illustrative, not official standards.",
+    "Display boundary simplification affects only appearance; use original prepared geometry for analytical assignment."
+  ],
+  "sources": [
+    {
+      "name": "Maina et al. (2019) facility data",
+      "url": "https://doi.org/10.6084/m9.figshare.7725374",
+      "license": "CC0 in Figshare data record; cite study https://doi.org/10.1038/s41597-019-0142-2"
+    },
+    {
+      "name": "WorldPop Zimbabwe 2020 1 km UN-adjusted counts",
+      "url": "https://hub.worldpop.org/geodata/summary?id=38911",
+      "license": "CC BY 4.0; WorldPop/CIESIN attribution"
+    },
+    {
+      "name": "OCHA/HDX Zimbabwe COD-AB boundaries",
+      "url": "https://data.humdata.org/dataset/cod-ab-zwe",
+      "license": "CC BY-IGO; source catalogue"
+    }
+  ],
+  "input_sha256": {
+    "facilities_prepared.geojson": "1eede9e3124964596ee55bc38c89dc1be1388a7db760c746025e7dece54844dd",
+    "districts_prepared.geojson": "5c76ceb30cd9e1ddceaffa0cfe99dbc4b693f3bb5ffcd6f428fdffeb1c1749af",
+    "population_cells_prepared.csv": "6f22454983adffe8e54e9d1e0230418bf397043a70d85478d367cf66c258e387",
+    "population_accessibility.csv": "04fc4f7e478965a8831f964ed4ae73f04f7db25309b5018937f40611907e7666",
+    "district_accessibility.geojson": "b1158f8eed7725945477fd708aa9a00617d8efbc1124ca493754b1e9a9e6e796"
+  },
+  "app_files_sha256": {
+    "districts_display.geojson": "657c4f54545d6c50d7b1c4e4216ab10d9b3a900d2510b0fbb50ae97a224357a9",
+    "district_summary.csv": "d36c1a212fef6208f4cd2bcca55896d6329a0726c5e010d747a23f6a3cf72a16",
+    "facilities.geojson": "a76bd6763416b35a5aec3b79f7b041e01cd0e5207e2307b4088cf8ee395ca3e5",
+    "population_accessibility.csv.gz": "47daeeb6f7d39c6a463f30d173fc60ac87ba35804bdf80bb4f3fe86f16a0e118",
+    "national_metrics.json": "14fa8232597a417930d77825262a7059e4f15fda604a3c4e04136ca662d9b0b0",
+    "position_sensitivity.csv": "ee49e2a279681cbdcf1f88228f3753c43e184fed363eb01e2c22c3ac90bd433e"
+  }
+}

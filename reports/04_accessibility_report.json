@@ -1,0 +1,48 @@
+{
+  "author": "Tinashe Clifford Makandise",
+  "method": "WGS84 ellipsoidal geodesic nearest facility; exact candidate refinement using ECEF chord lower bound",
+  "thresholds_km": [
+    5,
+    10,
+    20
+  ],
+  "beyond_rule": "distance strictly greater than threshold",
+  "population_quantile": "inverse weighted empirical CDF, no interpolation",
+  "facility_scope": "all prepared in-country locations; no same-district restriction",
+  "national_metrics": {
+    "population_denominator": 14851844.135005971,
+    "population_cells": 479031,
+    "mapped_facilities": 1201,
+    "weighted_mean_distance_km": 6.425183259124973,
+    "weighted_median_distance_km": 4.936762167810263,
+    "weighted_p90_distance_km": 12.872425371207287,
+    "maximum_cell_centre_distance_km": 109.06550552270043,
+    "nearest_other_district_population_percent": 16.311938222548946,
+    "population_beyond_5km": 7351043.3251219075,
+    "percent_beyond_5km": 49.49582865467469,
+    "population_beyond_10km": 2726223.5291820206,
+    "percent_beyond_10km": 18.35612806329067,
+    "population_beyond_20km": 430946.9898651019,
+    "percent_beyond_20km": 2.9016395940309847
+  },
+  "unassigned_district_population": 0.0,
+  "numerical_sample_size": 40,
+  "max_sample_error_m": 9.094947017729282e-13,
+  "candidate_count_mean": 1.00001043773785,
+  "candidate_count_max": 2,
+  "input_sha256": {
+    "facilities_prepared.geojson": "1eede9e3124964596ee55bc38c89dc1be1388a7db760c746025e7dece54844dd",
+    "districts_prepared.geojson": "5c76ceb30cd9e1ddceaffa0cfe99dbc4b693f3bb5ffcd6f428fdffeb1c1749af",
+    "population_cells_prepared.csv": "6f22454983adffe8e54e9d1e0230418bf397043a70d85478d367cf66c258e387"
+  },
+  "output_sha256": {
+    "population_accessibility.csv": "04fc4f7e478965a8831f964ed4ae73f04f7db25309b5018937f40611907e7666",
+    "district_accessibility.geojson": "b1158f8eed7725945477fd708aa9a00617d8efbc1124ca493754b1e9a9e6e796"
+  },
+  "versions": {
+    "python": "3.12.14",
+    "scipy": "1.17.0",
+    "geopandas": "1.2.0",
+    "pandas": "2.2.3"
+  }
+}

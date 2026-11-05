@@ -1,0 +1,39 @@
+{
+  "validation": {
+    "exhaustive_sample_cells": 150,
+    "max_sample_error_m": 7.275957614183426e-12,
+    "cell_round_trip": "passed",
+    "district_national_reconciliation": "passed"
+  },
+  "positional_sensitivity": [
+    {
+      "threshold_km": 5,
+      "conservative_minimum_percent_beyond": 41.99664074722544,
+      "centre_based_percent_beyond": 49.49582865467469,
+      "conservative_maximum_percent_beyond": 57.63893251426816,
+      "population_in_positional_ambiguity_band": 2323168.7923840545
+    },
+    {
+      "threshold_km": 10,
+      "conservative_minimum_percent_beyond": 15.005578542407072,
+      "centre_based_percent_beyond": 18.35612806329067,
+      "conservative_maximum_percent_beyond": 22.38953555453943,
+      "population_in_positional_ambiguity_band": 1096653.7864377424
+    },
+    {
+      "threshold_km": 20,
+      "conservative_minimum_percent_beyond": 2.5432245918810015,
+      "centre_based_percent_beyond": 2.9016395940309847,
+      "conservative_maximum_percent_beyond": 3.3257664948573282,
+      "population_in_positional_ambiguity_band": 116221.90372115374
+    }
+  ],
+  "cell_displacement_bound_km": 0.9307832137008171,
+  "input_sha256": {
+    "facilities_prepared.geojson": "1eede9e3124964596ee55bc38c89dc1be1388a7db760c746025e7dece54844dd",
+    "districts_prepared.geojson": "5c76ceb30cd9e1ddceaffa0cfe99dbc4b693f3bb5ffcd6f428fdffeb1c1749af",
+    "population_cells_prepared.csv": "6f22454983adffe8e54e9d1e0230418bf397043a70d85478d367cf66c258e387",
+    "population_accessibility.csv": "04fc4f7e478965a8831f964ed4ae73f04f7db25309b5018937f40611907e7666",
+    "district_accessibility.geojson": "b1158f8eed7725945477fd708aa9a00617d8efbc1124ca493754b1e9a9e6e796"
+  }
+}

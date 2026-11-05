@@ -1,0 +1,1237 @@
+source_excel_row,Country,Admin1,Facility name,Facility type,Ownership,Lat,Long,LL source,latitude_numeric,longitude_numeric,usable_global_coordinates,within_broad_screen
+97510,Zimbabwe,Bulawayo,Central Clinic,Clinic,Local authority,-20.1664,28.6169,Geonames,-20.1664,28.6169,True,True
+97511,Zimbabwe,Bulawayo,Cowdray Park Clinic,Clinic,Local authority,-20.0816,28.515591,Google Earth,-20.0816,28.515591,True,True
+97512,Zimbabwe,Bulawayo,Dr. Shennan Clinic,Clinic,Local authority,,,,,,False,False
+97513,Zimbabwe,Bulawayo,E. F. watson Clinic,Clinic,Local authority,,,,,,False,False
+97514,Zimbabwe,Bulawayo,Emakandeni Clinic,Clinic,Local authority,-20.1139,28.5278,Geonames,-20.1139,28.5278,True,True
+97515,Zimbabwe,Bulawayo,Entumbane Clinic,Clinic,Local authority,-20.1253,28.5439,Geonames,-20.1253,28.5439,True,True
+97516,Zimbabwe,Bulawayo,Ingutsheni Central Hospital,Central Hospital,MoH,-20.182,28.577,Google Earth,-20.182,28.577,True,True
+97517,Zimbabwe,Bulawayo,Khami Road Clinic,Clinic,Local authority,-20.1528,28.4308,Geonames,-20.1528,28.4308,True,True
+97518,Zimbabwe,Bulawayo,Lobengula Clinic,Clinic,Local authority,-20.1361,28.5172,Geonames,-20.1361,28.5172,True,True
+97519,Zimbabwe,Bulawayo,Luveve Clinic,Clinic,Local authority,-20.0932,28.5151,Geonames,-20.0932,28.5151,True,True
+97520,Zimbabwe,Bulawayo,Magwegwe Clinic,Clinic,Local authority,-20.1225,28.4956,Geonames,-20.1225,28.4956,True,True
+97521,Zimbabwe,Bulawayo,Maqhawe Clinic,Clinic,Local authority,-20.1337,28.5259,Google Earth,-20.1337,28.5259,True,True
+97522,Zimbabwe,Bulawayo,Mpilo Central Hospital,Central Hospital,MoH,-20.1269,28.57,Geonames,-20.1269,28.57,True,True
+97523,Zimbabwe,Bulawayo,Mzilikazi Clinic,Clinic,Local authority,-20.1356,28.5689,Geonames,-20.1356,28.5689,True,True
+97524,Zimbabwe,Bulawayo,Njube Clinic,Clinic,Local authority,-20.1361,28.5325,Geonames,-20.1361,28.5325,True,True
+97525,Zimbabwe,Bulawayo,Nketa Clinic,Clinic,Local authority,-20.1975,28.5319,Geonames,-20.1975,28.5319,True,True
+97526,Zimbabwe,Bulawayo,Nkulumane Clinic,Clinic,Local authority,-20.185,28.5169,Geonames,-20.185,28.5169,True,True
+97527,Zimbabwe,Bulawayo,Northern Surbubs Clinic,Clinic,Local authority,-20.127041,28.590449,Google Earth,-20.127041,28.590449,True,True
+97528,Zimbabwe,Bulawayo,Pelandaba Clinic,Clinic,Local authority,-20.1483,28.5211,Geonames,-20.1483,28.5211,True,True
+97529,Zimbabwe,Bulawayo,Pumula South Clinic,Clinic,Local authority,-20.1444,28.4733,Geonames,-20.1444,28.4733,True,True
+97530,Zimbabwe,Bulawayo,Tshabalala Clinic,Clinic,Local authority,-20.1789,28.5342,Geonames,-20.1789,28.5342,True,True
+97531,Zimbabwe,Bulawayo,UBH Central Hospital,Central Hospital,MoH,-20.1666,28.6157,Google Earth,-20.1666,28.6157,True,True
+97532,Zimbabwe,Harare,Arcadia Clinic,Clinic,Local authority,-17.8433,31.0533,Geonames,-17.8433,31.0533,True,True
+97533,Zimbabwe,Harare,Avondale Clinic,Clinic,Local authority,-17.80889,31.01778,Geonames,-17.80889,31.01778,True,True
+97534,Zimbabwe,Harare,Bank Street Clinic,Clinic,Local authority,-17.836384,31.043709,Google Earth,-17.836384,31.043709,True,True
+97535,Zimbabwe,Harare,Belvedere Clinic,Clinic,Local authority,-17.8211,31.0181,Geonames,-17.8211,31.0181,True,True
+97536,Zimbabwe,Harare,Borrowdale Clinic,Clinic,Local authority,-17.7567,31.1036,Geonames,-17.7567,31.1036,True,True
+97537,Zimbabwe,Harare,Breaside Clinic,Clinic,Local authority,-17.8428,31.0642,Geonames,-17.8428,31.0642,True,True
+97538,Zimbabwe,Harare,Chitungwiza Central Hospital,Central Hospital,MoH,-18.01744,31.0716400146,GPS,-18.01744,31.0716400146,True,True
+97539,Zimbabwe,Harare,Eastlea Clinic,Clinic,Local authority,-17.8244,31.0736,Geonames,-17.8244,31.0736,True,True
+97540,Zimbabwe,Harare,Glen Norah Clinic,Clinic,Local authority,-17.9083,30.9728,Geonames,-17.9083,30.9728,True,True
+97541,Zimbabwe,Harare,Glen View Clinic,Clinic,Local authority,-17.9112,30.9474,GPS,-17.9112,30.9474,True,True
+97542,Zimbabwe,Harare,Greendale Clinic,Clinic,Local authority,-17.8142,31.1272,Geonames,-17.8142,31.1272,True,True
+97543,Zimbabwe,Harare,Harare Central Hospital,Central Hospital,MoH,-17.8611,31.0129,Google Earth,-17.8611,31.0129,True,True
+97544,Zimbabwe,Harare,Hatfield Clinic,Clinic,Local authority,-17.87571,31.09207,Geonames,-17.87571,31.09207,True,True
+97545,Zimbabwe,Harare,Highfield Clinic,Clinic,Local authority,-17.8817,30.9819,GPS,-17.8817,30.9819,True,True
+97546,Zimbabwe,Harare,Mabelreign Clinic,Clinic,Local authority,-17.7859,30.9983,Geonames,-17.7859,30.9983,True,True
+97547,Zimbabwe,Harare,Marlborough Clinic,Clinic,Local authority,-17.7468,31.0081,Geonames,-17.7468,31.0081,True,True
+97548,Zimbabwe,Harare,Matapi Clinic,Clinic,Local authority,-17.8644,31.0329,GPS,-17.8644,31.0329,True,True
+97549,Zimbabwe,Harare,Mbare Clinic,Clinic,Local authority,-17.8644,31.0363,Google Earth,-17.8644,31.0363,True,True
+97550,Zimbabwe,Harare,Mt. Pleasant Clinic,Clinic,Local authority,-17.767233,31.047843,Google Earth,-17.767233,31.047843,True,True
+97551,Zimbabwe,Harare,Mufakose Clinic,Clinic,Local authority,-17.8667,30.9225,Geonames,-17.8667,30.9225,True,True
+97552,Zimbabwe,Harare,Parirenyatwa Central Hospital,Central Hospital,MoH,-17.812083,31.042737,Google Earth,-17.812083,31.042737,True,True
+97553,Zimbabwe,Harare,Queen Elizabeth Clinic,Clinic,Local authority,-17.8542,31.0922,Geonames,-17.8542,31.0922,True,True
+97554,Zimbabwe,Harare,Southerton Clinic,Clinic,Local authority,-17.86361,31.01917,Geonames,-17.86361,31.01917,True,True
+97555,Zimbabwe,Harare,Sunningdale Clinic,Clinic,Local authority,-17.8678,31.0561,Geonames,-17.8678,31.0561,True,True
+97556,Zimbabwe,Harare,Tafara Clinic,Clinic,Local authority,-17.8353,31.2111,Geonames,-17.8353,31.2111,True,True
+97557,Zimbabwe,Harare,Waterfalls Clinic,Clinic,Local authority,-17.8812,31.04413,Geonames,-17.8812,31.04413,True,True
+97558,Zimbabwe,Harare,Western Triangle Clinic,Clinic,Local authority,-17.884185,30.994177,GPS,-17.884185,30.994177,True,True
+97559,Zimbabwe,Manicaland,Anoldine Clinic,Clinic,FBO,-18.23539,32.2031402588,GPS,-18.23539,32.2031402588,True,True
+97560,Zimbabwe,Manicaland,Avilla Rural Hospital,Rural Hospital,FBO,-17.46947,32.7869682312,GPS,-17.46947,32.7869682312,True,True
+97561,Zimbabwe,Manicaland,Bakorenhema Rural Health Clinic,Rural Health Clinic,Local authority,-19.30542,32.3514404297,GPS,-19.30542,32.3514404297,True,True
+97562,Zimbabwe,Manicaland,Bamba Rural Health Clinic,Rural Health Clinic,MoH,-18.20478,32.3062210083,GPS,-18.20478,32.3062210083,True,True
+97563,Zimbabwe,Manicaland,Bangure Clinic,Clinic,Local authority,-19.53564,31.7732505798,GPS,-19.53564,31.7732505798,True,True
+97564,Zimbabwe,Manicaland,Bazerly Rural Health Clinic,Rural Health Clinic,Local authority,-19.25,32.4833,Geonames,-19.25,32.4833,True,True
+97565,Zimbabwe,Manicaland,Bere Rural Health Clinic,Rural Health Clinic,Local authority,-19.2547,31.2569,GPS,-19.2547,31.2569,True,True
+97566,Zimbabwe,Manicaland,Betera Rural Health Clinic,Rural Health Clinic,MoH,-19.37372,32.0012207031,GPS,-19.37372,32.0012207031,True,True
+97567,Zimbabwe,Manicaland,Birchenough Bridge Rural Hospital,Rural Hospital,MoH,-19.97181,32.3385314941,GPS,-19.97181,32.3385314941,True,True
+97568,Zimbabwe,Manicaland,Birwiri Rural Hospital,Rural Hospital,MoH,-19.79031,32.6734390259,GPS,-19.79031,32.6734390259,True,True
+97569,Zimbabwe,Manicaland,Bonda Rural Hospital,Rural Hospital,FBO,-18.8015,32.7137,GPS,-18.8015,32.7137,True,True
+97570,Zimbabwe,Manicaland,Buhera Rural Hospital,Rural Hospital,MoH,-19.33897,31.4359207153,GPS,-19.33897,31.4359207153,True,True
+97571,Zimbabwe,Manicaland,Bumba Rural Health Clinic,Rural Health Clinic,MoH,-19.65556,32.6358108521,GPS,-19.65556,32.6358108521,True,True
+97572,Zimbabwe,Manicaland,Burma Valley Rural Health Clinic,Rural Health Clinic,Local authority,-19.20719,32.8068618774,GPS,-19.20719,32.8068618774,True,True
+97573,Zimbabwe,Manicaland,Bwizi Rural Health Clinic,Rural Health Clinic,Local authority,-19.35569,32.4355812073,GPS,-19.35569,32.4355812073,True,True
+97574,Zimbabwe,Manicaland,Chabata Clinic,Clinic,Local authority,-19.78603,32.1578102112,GPS,-19.78603,32.1578102112,True,True
+97575,Zimbabwe,Manicaland,Chakohwa Rural Health Clinic,Rural Health Clinic,Local authority,-19.55397,32.5175590515,GPS,-19.55397,32.5175590515,True,True
+97576,Zimbabwe,Manicaland,Changazi Rural Health Clinic,Rural Health Clinic,MoH,-19.93394,32.4725608826,GPS,-19.93394,32.4725608826,True,True
+97577,Zimbabwe,Manicaland,Chapanduka Clinic,Clinic,Local authority,-19.6833,32.1667,Geonames,-19.6833,32.1667,True,True
+97578,Zimbabwe,Manicaland,Chapendeka Rural Health Clinic,Rural Health Clinic,MoH,-19.68356,32.1689414978,GPS,-19.68356,32.1689414978,True,True
+97579,Zimbabwe,Manicaland,Chapwanya Clinic,Clinic,Local authority,-19.17197,31.3524398804,GPS,-19.17197,31.3524398804,True,True
+97580,Zimbabwe,Manicaland,Chatindo Rural Health Clinic,Rural Health Clinic,Local authority,-17.3645,32.8388,Geonames,-17.3645,32.8388,True,True
+97581,Zimbabwe,Manicaland,Chayamiti Rural Health Clinic,Rural Health Clinic,MoH,-19.66983,32.554561615,GPS,-19.66983,32.554561615,True,True
+97582,Zimbabwe,Manicaland,Checheche Clinic,Clinic,Local authority,-20.03722,32.6100006104,GPS,-20.03722,32.6100006104,True,True
+97583,Zimbabwe,Manicaland,Chiadzwa Rural Health Clinic,Rural Health Clinic,MoH,-19.61906,32.3373908997,GPS,-19.61906,32.3373908997,True,True
+97584,Zimbabwe,Manicaland,Chiduku Clinic,Clinic,Local authority,-18.82058,31.9347496033,GPS,-18.82058,31.9347496033,True,True
+97585,Zimbabwe,Manicaland,Chikanga Clinic,Clinic,Local authority,-18.96889,32.641078949,GPS,-18.96889,32.641078949,True,True
+97586,Zimbabwe,Manicaland,Chikobvore Rural Health Clinic,Rural Health Clinic,MoH,-18.90203,32.1567192078,GPS,-18.90203,32.1567192078,True,True
+97587,Zimbabwe,Manicaland,Chikore Clinic,Clinic,Local authority,-17.7814,32.2791,GPS,-17.7814,32.2791,True,True
+97588,Zimbabwe,Manicaland,Chikore Rural Hospital,Rural Hospital,FBO,-20.4168,32.5082,GPS,-20.4168,32.5082,True,True
+97589,Zimbabwe,Manicaland,Chikuhwa Clinic,Clinic,Local authority,-19.72056,32.9373283386,GPS,-19.72056,32.9373283386,True,True
+97590,Zimbabwe,Manicaland,Chikukwa Rural Health Clinic,Rural Health Clinic,MoH,-19.72056,32.93733,GPS,-19.72056,32.93733,True,True
+97591,Zimbabwe,Manicaland,Chikwakwa Rural Health Clinic,Rural Health Clinic,Local authority,-19.85436,32.5731391907,GPS,-19.85436,32.5731391907,True,True
+97592,Zimbabwe,Manicaland,Chikwariro Rural Hospital,Rural Hospital,FBO,-19.33714,32.3067817688,GPS,-19.33714,32.3067817688,True,True
+97593,Zimbabwe,Manicaland,Chimanimani Rural Hospital,Rural Hospital,MoH,-19.8,32.8667,Geonames,-19.8,32.8667,True,True
+97594,Zimbabwe,Manicaland,Chimbudzi Clinic,Clinic,Local authority,-19.4528,31.7667,GPS,-19.4528,31.7667,True,True
+97595,Zimbabwe,Manicaland,Chimusasa Clinic,Clinic,Local authority,-17.4333,32.9833,Geonames,-17.4333,32.9833,True,True
+97596,Zimbabwe,Manicaland,Chingamwe Clinic,Clinic,Local authority,-18.606484,32.651554,GPS,-18.606484,32.651554,True,True
+97597,Zimbabwe,Manicaland,Chinhenga Rural Health Clinic,Rural Health Clinic,MoH,-18.03619,32.5024681091,GPS,-18.03619,32.5024681091,True,True
+97598,Zimbabwe,Manicaland,Chinyadza Clinic,Clinic,FBO,-18.67194,32.022441864,GPS,-18.67194,32.022441864,True,True
+97599,Zimbabwe,Manicaland,Chinyamukwakwa Rural Health Clinic,Rural Health Clinic,MoH,-20.91722,32.3608283997,GPS,-20.91722,32.3608283997,True,True
+97600,Zimbabwe,Manicaland,Chinyika I Rural Health Clinic,Rural Health Clinic,MoH,-18.1513,32.2223,Geonames,-18.1513,32.2223,True,True
+97601,Zimbabwe,Manicaland,Chinyika II Rural Health Clinic,Rural Health Clinic,MoH,-18.0461,32.563,Geonames,-18.0461,32.563,True,True
+97602,Zimbabwe,Manicaland,Chinyudze Rural Health Clinic,Rural Health Clinic,MoH,-18.18653,32.2004699707,GPS,-18.18653,32.2004699707,True,True
+97603,Zimbabwe,Manicaland,Chipangai Clinic,Clinic,Local authority,-20.2258,32.35,Geonames,-20.2258,32.35,True,True
+97604,Zimbabwe,Manicaland,Chipfatsura Rural Health Clinic,Rural Health Clinic,Local authority,-19.17347,32.285358429,GPS,-19.17347,32.285358429,True,True
+97605,Zimbabwe,Manicaland,Chipinge Clinic,Clinic,Local authority,-20.2,32.6167,GPS,-20.2,32.6167,True,True
+97606,Zimbabwe,Manicaland,Chipinge District Hospital,District Hospital,MoH,-20.1883,32.6236,GPS,-20.1883,32.6236,True,True
+97607,Zimbabwe,Manicaland,Chiriga Clinic,Clinic,Local authority,-20.2693,32.6714,Geonames,-20.2693,32.6714,True,True
+97608,Zimbabwe,Manicaland,Chirozva Clinic,Clinic,Local authority,-19.45672,32.0009384155,GPS,-19.45672,32.0009384155,True,True
+97609,Zimbabwe,Manicaland,Chishingwi Rural Health Clinic,Rural Health Clinic,Local authority,-19.603,32.4055595398,GPS,-19.603,32.4055595398,True,True
+97610,Zimbabwe,Manicaland,Chisuma Clinic,Clinic,Local authority,-20.85,32.1833,GPS,-20.85,32.1833,True,True
+97611,Zimbabwe,Manicaland,Chitaka Rural Health Clinic,Rural Health Clinic,Local authority,-19.12181,32.4840316772,GPS,-19.12181,32.4840316772,True,True
+97612,Zimbabwe,Manicaland,Chitakatira Rural Health Clinic,Rural Health Clinic,Local authority,-19.13406,32.6866111755,GPS,-19.13406,32.6866111755,True,True
+97613,Zimbabwe,Manicaland,Chitora Rural Health Clinic,Rural Health Clinic,Local authority,-19.3167,32.5667,GPS,-19.3167,32.5667,True,True
+97614,Zimbabwe,Manicaland,Chiwenga Clinic,Clinic,Local authority,-19.23839,31.9894199371,GPS,-19.23839,31.9894199371,True,True
+97615,Zimbabwe,Manicaland,Chiwere Rural Health Clinic,Rural Health Clinic,MoH,-19.03914,32.2506408691,GPS,-19.03914,32.2506408691,True,True
+97616,Zimbabwe,Manicaland,Chiweshe Clinic,Clinic,Local authority,-19.22269,31.8845596313,GPS,-19.22269,31.8845596313,True,True
+97617,Zimbabwe,Manicaland,Daramombe Clinic,Clinic,FBO,-19.10703,31.3236904144,GPS,-19.10703,31.3236904144,True,True
+97618,Zimbabwe,Manicaland,Dombo Rural Health Clinic,Rural Health Clinic,MoH,-18.35139,32.4380302429,GPS,-18.35139,32.4380302429,True,True
+97619,Zimbabwe,Manicaland,Dora Rural Health Clinic,Rural Health Clinic,Local authority,-19.07036,32.5222206116,GPS,-19.07036,32.5222206116,True,True
+97620,Zimbabwe,Manicaland,Dowa Clinic,Clinic,Local authority,-18.52369,31.802690506,GPS,-18.52369,31.802690506,True,True
+97621,Zimbabwe,Manicaland,Dumbamwe Clinic,Clinic,Local authority,-18.42167,32.3853111267,GPS,-18.42167,32.3853111267,True,True
+97622,Zimbabwe,Manicaland,Elim Rural Hospital,Rural Hospital,FBO,-17.60311,32.7895584106,GPS,-17.60311,32.7895584106,True,True
+97623,Zimbabwe,Manicaland,Era Mine Clinic,Clinic,Local authority,-18.23656,32.2717208862,GPS,-18.23656,32.2717208862,True,True
+97624,Zimbabwe,Manicaland,Fern Valley Clinic,Clinic,Local authority,-19.05,32.65,Geonames,-19.05,32.65,True,True
+97625,Zimbabwe,Manicaland,Florida Clinic,Clinic,Local authority,-18.97078,32.6524391174,GPS,-18.97078,32.6524391174,True,True
+97626,Zimbabwe,Manicaland,Fombe Rural Health Clinic,Rural Health Clinic,Local authority,-17.33472,32.9907493591,GPS,-17.33472,32.9907493591,True,True
+97627,Zimbabwe,Manicaland,Gairezi Rural Health Clinic,Rural Health Clinic,MoH,-18.10139,32.9547195435,GPS,-18.10139,32.9547195435,True,True
+97628,Zimbabwe,Manicaland,Garamwera Clinic,Clinic,Local authority,-19.20661,31.4021892548,GPS,-19.20661,31.4021892548,True,True
+97629,Zimbabwe,Manicaland,Gatsi Clinic,Clinic,FBO,-18.52333,32.8178596497,GPS,-18.52333,32.8178596497,True,True
+97630,Zimbabwe,Manicaland,Gavhanga Rural Health Clinic,Rural Health Clinic,MoH,-18.9458,32.4455,GPS,-18.9458,32.4455,True,True
+97631,Zimbabwe,Manicaland,Gaza Clinic,Clinic,Local authority,-20.19194,32.6394386292,GPS,-20.19194,32.6394386292,True,True
+97632,Zimbabwe,Manicaland,Gombe Clinic,Clinic,Local authority,-19.23786,31.5333595276,GPS,-19.23786,31.5333595276,True,True
+97633,Zimbabwe,Manicaland,Gorubi Clinic,Clinic,MoH,-18.6885,32.2285,Geonames,-18.6885,32.2285,True,True
+97634,Zimbabwe,Manicaland,Gotekote Rural Health Clinic,Rural Health Clinic,MoH,-17.71917,32.6731910706,GPS,-17.71917,32.6731910706,True,True
+97635,Zimbabwe,Manicaland,Gowakowa Rural Health Clinic,Rural Health Clinic,MoH,-18.08644,32.3340606689,GPS,-18.08644,32.3340606689,True,True
+97636,Zimbabwe,Manicaland,Gudyanga Clinic,Clinic,Local authority,-19.86911,32.4042816162,GPS,-19.86911,32.4042816162,True,True
+97637,Zimbabwe,Manicaland,Gumira Clinic,Clinic,Local authority,-20.2044,32.6334,GPS,-20.2044,32.6334,True,True
+97638,Zimbabwe,Manicaland,Gunura Clinic,Clinic,Local authority,-19.87439,32.3069992065,GPS,-19.87439,32.3069992065,True,True
+97639,Zimbabwe,Manicaland,Guta Rural Health Clinic,Rural Health Clinic,Local authority,-18.74136,32.6529388428,GPS,-18.74136,32.6529388428,True,True
+97640,Zimbabwe,Manicaland,Guturare Rural Health Clinic,Rural Health Clinic,MoH,-18.9397,32.2233,GPS,-18.9397,32.2233,True,True
+97641,Zimbabwe,Manicaland,Gwenzi Clinic,Clinic,FBO,-20.53,32.6624984741,GPS,-20.53,32.6624984741,True,True
+97642,Zimbabwe,Manicaland,Gwindingwi Rural Health Clinic,Rural Health Clinic,MoH,-19.2565,32.1725311279,GPS,-19.2565,32.1725311279,True,True
+97643,Zimbabwe,Manicaland,Hauna Clinic,Clinic,Local authority,-18.508571,32.850897,GPS,-18.508571,32.850897,True,True
+97644,Zimbabwe,Manicaland,Hauna District Hospital,District Hospital,MoH,-18.499,32.8491,GPS,-18.499,32.8491,True,True
+97645,Zimbabwe,Manicaland,Hauna Rural Health Clinic,Rural Health Clinic,Local authority,-18.49153,32.85197,GPS,-18.49153,32.85197,True,True
+97646,Zimbabwe,Manicaland,Headlands Clinic,Clinic,Local authority,-18.28597,32.0398902893,GPS,-18.28597,32.0398902893,True,True
+97647,Zimbabwe,Manicaland,Honde Clinic,Clinic,FBO,-18.60322,32.7697486877,GPS,-18.60322,32.7697486877,True,True
+97648,Zimbabwe,Manicaland,Hwakata Clinic,Clinic,Local authority,-20.82556,32.4855613708,GPS,-20.82556,32.4855613708,True,True
+97649,Zimbabwe,Manicaland,Jombe Clinic,Clinic,Local authority,-18.63772,32.702331543,GPS,-18.63772,32.702331543,True,True
+97650,Zimbabwe,Manicaland,Junction Clinic,Clinic,Local authority,-20.1589,32.7971,Geonames,-20.1589,32.7971,True,True
+97651,Zimbabwe,Manicaland,Kambudzi Clinic,Clinic,Local authority,-17.78936,32.8679695129,GPS,-17.78936,32.8679695129,True,True
+97652,Zimbabwe,Manicaland,Katsenga Rural Health Clinic,Rural Health Clinic,MoH,-18.72456,32.0034713745,GPS,-18.72456,32.0034713745,True,True
+97653,Zimbabwe,Manicaland,Kondo Clinic,Clinic,Local authority,-20.39806,32.38528,GPS,-20.39806,32.38528,True,True
+97654,Zimbabwe,Manicaland,Kopera Rural Health Clinic,Rural Health Clinic,MoH,-20.32139,32.7700004578,GPS,-20.32139,32.7700004578,True,True
+97655,Zimbabwe,Manicaland,Mabee Rural Health Clinic,Rural Health Clinic,MoH,-20.9,32.4833,GPS,-20.9,32.4833,True,True
+97656,Zimbabwe,Manicaland,Madhuku Clinic,Clinic,Local authority,-20.7203,32.3705,Geonames,-20.7203,32.3705,True,True
+97657,Zimbabwe,Manicaland,Madzimbashuro Rural Health Clinic,Rural Health Clinic,MoH,-19.43503,31.6563091278,GPS,-19.43503,31.6563091278,True,True
+97658,Zimbabwe,Manicaland,Mahenye Rural Health Clinic,Rural Health Clinic,MoH,-21.25,32.392780304,GPS,-21.25,32.392780304,True,True
+97659,Zimbabwe,Manicaland,Makoni Rural Hospital,Rural Hospital,MoH,-18.61997,32.3887786865,GPS,-18.61997,32.3887786865,True,True
+97660,Zimbabwe,Manicaland,Mambwere Rural Health Clinic,Rural Health Clinic,Local authority,-19.28447,32.6351394653,GPS,-19.28447,32.6351394653,True,True
+97661,Zimbabwe,Manicaland,Mandeya II Rural Health Clinic,Rural Health Clinic,Local authority,-18.4486,32.9631,Geonames,-18.4486,32.9631,True,True
+97662,Zimbabwe,Manicaland,Manzvire Clinic,Clinic,Local authority,-20.77556,32.3402786255,GPS,-20.77556,32.3402786255,True,True
+97663,Zimbabwe,Manicaland,Mapara Rural Health Clinic,Rural Health Clinic,Local authority,-18.78369,32.6521911621,GPS,-18.78369,32.6521911621,True,True
+97664,Zimbabwe,Manicaland,Maparadze Clinic,Clinic,Local authority,-21.074223771771,32.2771706365039,GPS,-21.074223771771,32.2771706365039,True,True
+97665,Zimbabwe,Manicaland,Maparura Rural Health Clinic,Rural Health Clinic,MoH,-18.00294,32.4051094055,GPS,-18.00294,32.4051094055,True,True
+97666,Zimbabwe,Manicaland,Marange Rural Hospital,Rural Hospital,MoH,-19.25336,32.2742500305,GPS,-19.25336,32.2742500305,True,True
+97667,Zimbabwe,Manicaland,Masasi Rural Health Clinic,Rural Health Clinic,Local authority,-19.43903,32.4243087769,GPS,-19.43903,32.4243087769,True,True
+97668,Zimbabwe,Manicaland,Masvosva Rural Health Clinic,Rural Health Clinic,MoH,-18.70275,31.8569393158,GPS,-18.70275,31.8569393158,True,True
+97669,Zimbabwe,Manicaland,Matanadhwe Clinic,Clinic,Local authority,-21.0045,32.203,GPS,-21.0045,32.203,True,True
+97670,Zimbabwe,Manicaland,Matize Rural Health Clinic,Rural Health Clinic,MoH,-17.57161,32.9238586426,GPS,-17.57161,32.9238586426,True,True
+97671,Zimbabwe,Manicaland,Matotwe Rural Health Clinic,Rural Health Clinic,MoH,-18.52292,32.3669204712,GPS,-18.52292,32.3669204712,True,True
+97672,Zimbabwe,Manicaland,Matsika Clinic,Clinic,Local authority,-18.70075,31.9526691437,GPS,-18.70075,31.9526691437,True,True
+97673,Zimbabwe,Manicaland,Maurice Nyagumbo Clinic,Clinic,Local authority,-18.67436,32.3371086121,GPS,-18.67436,32.3371086121,True,True
+97674,Zimbabwe,Manicaland,Mavhiza Rural Health Clinic,Rural Health Clinic,Local authority,-19.50536,32.2386894226,GPS,-19.50536,32.2386894226,True,True
+97675,Zimbabwe,Manicaland,Mavhudzi Clinic,Clinic,MoH,-18.74053,32.1561393738,GPS,-18.74053,32.1561393738,True,True
+97676,Zimbabwe,Manicaland,Mayo I Rural Health Clinic,Rural Health Clinic,MoH,-17.8333,32.2833,Geonames,-17.8333,32.2833,True,True
+97677,Zimbabwe,Manicaland,Mayo II Rural Health Clinic,Rural Health Clinic,MoH,-17.7575,32.4007,Geonames,-17.7575,32.4007,True,True
+97678,Zimbabwe,Manicaland,Mombeyarara Rural Health Clinic,Rural Health Clinic,MoH,-19.20428,31.6037807465,GPS,-19.20428,31.6037807465,True,True
+97679,Zimbabwe,Manicaland,Moyoweshumba Rural Health Clinic,Rural Health Clinic,Local authority,-18.67472,32.6723594666,GPS,-18.67472,32.6723594666,True,True
+97680,Zimbabwe,Manicaland,Msilizwi Rural Health Clinic,Rural Health Clinic,MoH,-20.190963,32.619724,GPS,-20.190963,32.619724,True,True
+97681,Zimbabwe,Manicaland,Mt. Jenya Rural Health Clinic,Rural Health Clinic,Local authority,-18.754,32.502,GPS,-18.754,32.502,True,True
+97682,Zimbabwe,Manicaland,Mt. Mellery Rural Hospital,Rural Hospital,FBO,-17.971098,32.72996,Google Earth,-17.971098,32.72996,True,True
+97683,Zimbabwe,Manicaland,Mt. Selinda Rural Hospital,Rural Hospital,FBO,-20.42389,32.7030601501,GPS,-20.42389,32.7030601501,True,True
+97684,Zimbabwe,Manicaland,Mt. Zuma Rural Health Clinic,Rural Health Clinic,MoH,-19.106,32.135,GPS,-19.106,32.135,True,True
+97685,Zimbabwe,Manicaland,Mubvurungwa Clinic,Clinic,Local authority,-18.53472,31.9343605042,GPS,-18.53472,31.9343605042,True,True
+97686,Zimbabwe,Manicaland,Muchadziya Rural Health Clinic,Rural Health Clinic,MoH,-20.01139,32.9486083984,GPS,-20.01139,32.9486083984,True,True
+97687,Zimbabwe,Manicaland,Mudanda Clinic,Clinic,Local authority,-19.39111,31.7175598145,GPS,-19.39111,31.7175598145,True,True
+97688,Zimbabwe,Manicaland,Mudavose Clinic,Clinic,Local authority,-19.3283,31.4327,GPS,-19.3283,31.4327,True,True
+97689,Zimbabwe,Manicaland,Mukamba Clinic,Clinic,Local authority,-18.867,32.00271988,GPS,-18.867,32.00271988,True,True
+97690,Zimbabwe,Manicaland,Mukwanda Rural Health Clinic,Rural Health Clinic,Local authority,-19.5166,32.35,GPS,-19.5166,32.35,True,True
+97691,Zimbabwe,Manicaland,Munyanyi Clinic,Clinic,Local authority,-19.15669,31.7346096039,GPS,-19.15669,31.7346096039,True,True
+97692,Zimbabwe,Manicaland,Mupotedzi Rural Health Clinic,Rural Health Clinic,Local authority,-18.57139,32.8014717102,GPS,-18.57139,32.8014717102,True,True
+97693,Zimbabwe,Manicaland,Murambinda District Hospital,District Hospital,FBO,-19.26678,31.6555595398,GPS,-19.26678,31.6555595398,True,True
+97694,Zimbabwe,Manicaland,Muromo Rural Health Clinic,Rural Health Clinic,MoH,-19.38897,32.556388855,GPS,-19.38897,32.556388855,True,True
+97695,Zimbabwe,Manicaland,Murwira Rural Health Clinic,Rural Health Clinic,MoH,-19.5224,31.8113,GPS,-19.5224,31.8113,True,True
+97696,Zimbabwe,Manicaland,Musani Clinic,Clinic,Local authority,-20.08361,32.4033317566,GPS,-20.08361,32.4033317566,True,True
+97697,Zimbabwe,Manicaland,Mushunje Rural Health Clinic,Rural Health Clinic,Local authority,-19.16811,32.4408111572,GPS,-19.16811,32.4408111572,True,True
+97698,Zimbabwe,Manicaland,Mustvangwa Clinic,Clinic,Local authority,-19.8016,32.8755,GPS,-19.8016,32.8755,True,True
+97699,Zimbabwe,Manicaland,Mutambara District Hospital,District Hospital,FBO,-19.53492,32.6860313416,GPS,-19.53492,32.6860313416,True,True
+97700,Zimbabwe,Manicaland,Mutanda Rural Health Clinic,Rural Health Clinic,Local authority,-19.25,32.4,GPS,-19.25,32.4,True,True
+97701,Zimbabwe,Manicaland,Mutare Clinic,Clinic,Local authority,-18.9707,32.67086,GPS,-18.9707,32.67086,True,True
+97702,Zimbabwe,Manicaland,Mutare Provincial Hospital,Provincial Hospital,MoH,-18.97071,32.67086,GPS,-18.97071,32.67086,True,True
+97703,Zimbabwe,Manicaland,Mutasa Rural Health Clinic,Rural Health Clinic,Local authority,-18.6281,32.7573,GPS,-18.6281,32.7573,True,True
+97704,Zimbabwe,Manicaland,Mutema Clinic,Clinic,Local authority,-20.1306,32.3657,GPS,-20.1306,32.3657,True,True
+97705,Zimbabwe,Manicaland,Mutepfe Clinic,Clinic,Local authority,-19.76764,31.9686908722,GPS,-19.76764,31.9686908722,True,True
+97706,Zimbabwe,Manicaland,Mutiusinazita Clinic,Clinic,Local authority,-19.72489,32.0673103333,GPS,-19.72489,32.0673103333,True,True
+97707,Zimbabwe,Manicaland,Muzokomba Clinic,Clinic,Local authority,-19.58381,31.9716701508,GPS,-19.58381,31.9716701508,True,True
+97708,Zimbabwe,Manicaland,Nerutanga Clinic,Clinic,Local authority,-19.28703,31.3503894806,GPS,-19.28703,31.3503894806,True,True
+97709,Zimbabwe,Manicaland,Ngaone Clinic,Clinic,Local authority,-20.1778,32.6296,GPS,-20.1778,32.6296,True,True
+97710,Zimbabwe,Manicaland,Ngarura Rural Health Clinic,Rural Health Clinic,Local authority,-18.58803,32.8715286255,GPS,-18.58803,32.8715286255,True,True
+97711,Zimbabwe,Manicaland,Ngorima Clinic,Clinic,Local authority,-20.036,32.8476,GPS,-20.036,32.8476,True,True
+97712,Zimbabwe,Manicaland,Nyadowa Rural Health Clinic,Rural Health Clinic,Local authority,-17.75789,32.9217185974,GPS,-17.75789,32.9217185974,True,True
+97713,Zimbabwe,Manicaland,Nyafaru Rural Health Clinic,Rural Health Clinic,Local authority,-18.18917,32.9311103821,GPS,-18.18917,32.9311103821,True,True
+97714,Zimbabwe,Manicaland,Nyagundi Rural Health Clinic,Rural Health Clinic,MoH,-19.11756,32.3687210083,GPS,-19.11756,32.3687210083,True,True
+97715,Zimbabwe,Manicaland,Nyahode Clinic,Clinic,MoH,-19.94106,32.822719574,GPS,-19.94106,32.822719574,True,True
+97716,Zimbabwe,Manicaland,Nyahove Rural Health Clinic,Rural Health Clinic,MoH,-18.2856,32.0391,GPS,-18.2856,32.0391,True,True
+97717,Zimbabwe,Manicaland,Nyahukwe Rural Health Clinic,Rural Health Clinic,MoH,-18.46983,32.3223114014,GPS,-18.46983,32.3223114014,True,True
+97718,Zimbabwe,Manicaland,Nyamaropa Rural Health Clinic,Rural Health Clinic,Local authority,-18.5094,32.6858,GPS,-18.5094,32.6858,True,True
+97719,Zimbabwe,Manicaland,Nyamazura Rural Health Clinic,Rural Health Clinic,MoH,-18.88764,32.4168586731,GPS,-18.88764,32.4168586731,True,True
+97720,Zimbabwe,Manicaland,Nyamidzi Clinic,Clinic,Local authority,-18.93989,32.0872192383,GPS,-18.93989,32.0872192383,True,True
+97721,Zimbabwe,Manicaland,Nyamombe Clinic,Clinic,FBO,-17.75681,32.5583305359,GPS,-17.75681,32.5583305359,True,True
+97722,Zimbabwe,Manicaland,Nyamukamani Rural Health Clinic,Rural Health Clinic,MoH,-18.09111,32.1720314026,GPS,-18.09111,32.1720314026,True,True
+97723,Zimbabwe,Manicaland,Nyanga District Hospital,District Hospital,MoH,-18.22828,32.7575302124,GPS,-18.22828,32.7575302124,True,True
+97724,Zimbabwe,Manicaland,Nyanyadzi Rural Hospital,Rural Hospital,MoH,-19.78694,32.4219207764,GPS,-19.78694,32.4219207764,True,True
+97725,Zimbabwe,Manicaland,Nyarumvurwe Rural Health Clinic,Rural Health Clinic,MoH,-18.2235,32.6575012207,GPS,-18.2235,32.6575012207,True,True
+97726,Zimbabwe,Manicaland,Nyashanu Clinic,Clinic,Local authority,-19.28339,31.5382804871,GPS,-19.28339,31.5382804871,True,True
+97727,Zimbabwe,Manicaland,Nyatate Rural Health Clinic,Rural Health Clinic,Local authority,-18.01797,32.6720314026,GPS,-18.01797,32.6720314026,True,True
+97728,Zimbabwe,Manicaland,Nyautare Rural Health Clinic,Rural Health Clinic,MoH,-17.3186,32.845,Geonames,-17.3186,32.845,True,True
+97729,Zimbabwe,Manicaland,Nyazura Clinic,Clinic,Local authority,-18.7059,32.168,GPS,-18.7059,32.168,True,True
+97730,Zimbabwe,Manicaland,Nzvenga Rural Health Clinic,Rural Health Clinic,Local authority,-19.35089,32.3712501526,GPS,-19.35089,32.3712501526,True,True
+97731,Zimbabwe,Manicaland,Odzi Rural Hospital,Rural Hospital,Local authority,-18.8667,32.4,GPS,-18.8667,32.4,True,True
+97732,Zimbabwe,Manicaland,Old Mutare Rural Hospital,Rural Hospital,FBO,-18.90747,32.5880317688,GPS,-18.90747,32.5880317688,True,True
+97733,Zimbabwe,Manicaland,Paidamoyo Rural Health Clinic,Rural Health Clinic,MoH,-20.11056,32.8058280945,GPS,-20.11056,32.8058280945,True,True
+97734,Zimbabwe,Manicaland,PSZ Clinic,Clinic,NGO,-19.799881,32.867091,GPS,-19.799881,32.867091,True,True
+97735,Zimbabwe,Manicaland,Rambanapasi Clinic,Clinic,Local authority,-19.13994,31.654499054,GPS,-19.13994,31.654499054,True,True
+97736,Zimbabwe,Manicaland,Regina Coeli Rural Hospital,Rural Hospital,FBO,-17.86889,32.8849983215,GPS,-17.86889,32.8849983215,True,True
+97737,Zimbabwe,Manicaland,Rimbi Clinic,Clinic,Local authority,-20.5475,32.3930587769,GPS,-20.5475,32.3930587769,True,True
+97738,Zimbabwe,Manicaland,Ringanai Clinic,Clinic,Local authority,-18.5,32.4333,Geonames,-18.5,32.4333,True,True
+97739,Zimbabwe,Manicaland,Rowa Rural Health Clinic,Rural Health Clinic,Local authority,-19.16856,32.6243591309,GPS,-19.16856,32.6243591309,True,True
+97740,Zimbabwe,Manicaland,Ruchera Rural Health Clinic,Rural Health Clinic,MoH,-18.11878,32.5539703369,GPS,-18.11878,32.5539703369,True,True
+97741,Zimbabwe,Manicaland,Rukweza Clinic,Clinic,Local authority,-18.8045,32.0837783813,GPS,-18.8045,32.0837783813,True,True
+97742,Zimbabwe,Manicaland,Rumbidzai Rural Health Clinic,Rural Health Clinic,Local authority,,,,,,False,False
+97743,Zimbabwe,Manicaland,Rupinda Rural Health Clinic,Rural Health Clinic,MoH,-18.63775,32.8565597534,GPS,-18.63775,32.8565597534,True,True
+97744,Zimbabwe,Manicaland,Rusape District Hospital,District Hospital,MoH,-18.53892,32.1363601685,GPS,-18.53892,32.1363601685,True,True
+97745,Zimbabwe,Manicaland,Rusitu Rural Hospital,Rural Hospital,FBO,-20.03361,32.8647193909,GPS,-20.03361,32.8647193909,True,True
+97746,Zimbabwe,Manicaland,Sabvura Rural Health Clinic,Rural Health Clinic,Local authority,-18.933041,32.177238,GPS,-18.933041,32.177238,True,True
+97747,Zimbabwe,Manicaland,Sachisuko Rural Health Clinic,Rural Health Clinic,Local authority,-18.6832,32.6324,GPS,-18.6832,32.6324,True,True
+97748,Zimbabwe,Manicaland,Sadziwa Rural Health Clinic,Rural Health Clinic,Local authority,-18.50056,32.5582809448,GPS,-18.50056,32.5582809448,True,True
+97749,Zimbabwe,Manicaland,Sagambe Rural Health Clinic,Rural Health Clinic,Local authority,-18.32481,33.0028610229,GPS,-18.32481,33.0028610229,True,True
+97750,Zimbabwe,Manicaland,Sahumani Rural Health Clinic,Rural Health Clinic,Local authority,-18.55569,32.8202781677,GPS,-18.55569,32.8202781677,True,True
+97751,Zimbabwe,Manicaland,Sakubva District Hospital,District Hospital,MoH,-18.98944,32.6515617371,GPS,-18.98944,32.6515617371,True,True
+97752,Zimbabwe,Manicaland,Sakupwanya Rural Health Clinic,Rural Health Clinic,Local authority,-18.60747,32.6556091309,GPS,-18.60747,32.6556091309,True,True
+97753,Zimbabwe,Manicaland,Samanga Rural Health Clinic,Rural Health Clinic,Local authority,-18.53369,32.755279541,GPS,-18.53369,32.755279541,True,True
+97754,Zimbabwe,Manicaland,Sherukuru Rural Health Clinic,Rural Health Clinic,MoH,-18.64078,32.5363616943,GPS,-18.64078,32.5363616943,True,True
+97755,Zimbabwe,Manicaland,Shinje Clinic,Clinic,Local authority,-19.7167,32.65,GPS,-19.7167,32.65,True,True
+97756,Zimbabwe,Manicaland,Smaldale Clinic,Clinic,Local authority,-20.4833,32.65,GPS,-20.4833,32.65,True,True
+97757,Zimbabwe,Manicaland,St. Andrews Rural Hospital,Rural Hospital,FBO,-18.944944,32.187154,GPS,-18.944944,32.187154,True,True
+97758,Zimbabwe,Manicaland,St. Augustines Clinic,Clinic,FBO,-18.849,32.659,GPS,-18.849,32.659,True,True
+97759,Zimbabwe,Manicaland,St. Barbaras Rural Hospital,Rural Hospital,FBO,-18.504,32.473,GPS,-18.504,32.473,True,True
+97760,Zimbabwe,Manicaland,St. Micheals Rural Hospital,Rural Hospital,FBO,-18.569,32.021,GPS,-18.569,32.021,True,True
+97761,Zimbabwe,Manicaland,St. Peters Clinic,Clinic,FBO,,,,,,False,False
+97762,Zimbabwe,Manicaland,St. Peters Rural Hospital,Rural Hospital,FBO,-20.788362,32.220426,GPS,-20.788362,32.220426,True,True
+97763,Zimbabwe,Manicaland,St. Theresa Rural Hospital,Rural Hospital,FBO,-18.589,31.918,GPS,-18.589,31.918,True,True
+97764,Zimbabwe,Manicaland,Tandi Clinic,Clinic,Local authority,-18.56839,32.0208892822,GPS,-18.56839,32.0208892822,True,True
+97765,Zimbabwe,Manicaland,Tanganda Rural Health Clinic,Rural Health Clinic,MoH,-20.11056,32.3505592346,GPS,-20.11056,32.3505592346,True,True
+97766,Zimbabwe,Manicaland,Tombo Rural Health Clinic,Rural Health Clinic,Local authority,-18.0175,32.8838882446,GPS,-18.0175,32.8838882446,True,True
+97767,Zimbabwe,Manicaland,Tongogara Rural Health Clinic,Rural Health Clinic,Local authority,-20.34806,32.306388855,GPS,-20.34806,32.306388855,True,True
+97768,Zimbabwe,Manicaland,Toriro Clinic,Clinic,Local authority,-18.7597,32.0791,Geonames,-18.7597,32.0791,True,True
+97769,Zimbabwe,Manicaland,Triashill Rural Hospital,Rural Hospital,FBO,-18.43531,32.4730300903,GPS,-18.43531,32.4730300903,True,True
+97770,Zimbabwe,Manicaland,Tsanzaguru Clinic,Clinic,Local authority,-18.61947,32.1067810059,GPS,-18.61947,32.1067810059,True,True
+97771,Zimbabwe,Manicaland,Tsonzo Rural Hospital,Rural Hospital,MoH,-18.68836,32.6032485962,GPS,-18.68836,32.6032485962,True,True
+97772,Zimbabwe,Manicaland,Tuzuka Clinic,Clinic,Local authority,-20.522,32.4566,Geonames,-20.522,32.4566,True,True
+97773,Zimbabwe,Manicaland,Vengere Clinic,Clinic,Local authority,-18.55675,32.1187782288,GPS,-18.55675,32.1187782288,True,True
+97774,Zimbabwe,Manicaland,Vheneka Clinic,Clinic,Local authority,-20.93722,32.1538887024,GPS,-20.93722,32.1538887024,True,True
+97775,Zimbabwe,Manicaland,Weya Rural Hospital,Rural Hospital,MoH,-18.04158,32.1519699097,GPS,-18.04158,32.1519699097,True,True
+97776,Zimbabwe,Manicaland,Zagama Rural Health Clinic,Rural Health Clinic,MoH,-19.55,32.1,GPS,-19.55,32.1,True,True
+97777,Zimbabwe,Manicaland,Zamuchiya Clinic,Clinic,Local authority,-20.1928,32.64,GPS,-20.1928,32.64,True,True
+97778,Zimbabwe,Manicaland,Zimunya Rural Health Clinic,Rural Health Clinic,Local authority,-19.10036,32.6234207153,GPS,-19.10036,32.6234207153,True,True
+97779,Zimbabwe,Manicaland,Zongororo Rural Health Clinic,Rural Health Clinic,Local authority,-18.615,32.7739,GPS,-18.615,32.7739,True,True
+97780,Zimbabwe,Manicaland,Zumbare Rural Health Clinic,Rural Health Clinic,Local authority,-19.22053,32.1525802612,GPS,-19.22053,32.1525802612,True,True
+97781,Zimbabwe,Manicaland,Zvipiripiri Rural Health Clinic,Rural Health Clinic,Local authority,-19.33794,32.191028595,GPS,-19.33794,32.191028595,True,True
+97782,Zimbabwe,Mashonaland Central,Angwa Rural Health Clinic,Rural Health Clinic,Local authority,-16.10195,30.3080596924,GPS,-16.10195,30.3080596924,True,True
+97783,Zimbabwe,Mashonaland Central,Bakasa Rural Health Clinic,Rural Health Clinic,Local authority,-16.52667,30.692779541,GPS,-16.52667,30.692779541,True,True
+97784,Zimbabwe,Mashonaland Central,Bandimba Clinic,Clinic,Local authority,-16.36914,31.85968,GPS,-16.36914,31.85968,True,True
+97785,Zimbabwe,Mashonaland Central,Bare Rural Health Clinic,Rural Health Clinic,Local authority,-16.87747,31.1262302399,GPS,-16.87747,31.1262302399,True,True
+97786,Zimbabwe,Mashonaland Central,Begownie Clinic,Clinic,Local authority,-17.3333,30.9166,GPS,-17.3333,30.9166,True,True
+97787,Zimbabwe,Mashonaland Central,Bepura Rural Health Clinic,Rural Health Clinic,Local authority,-16.85667,30.6725006104,GPS,-16.85667,30.6725006104,True,True
+97788,Zimbabwe,Mashonaland Central,Bickdale Rural Health Clinic,Rural Health Clinic,Local authority,-16.9533,30.7111,Geonames,-16.9533,30.7111,True,True
+97789,Zimbabwe,Mashonaland Central,Bindura Provincial Hospital,Provincial Hospital,MoH,-17.29005,31.3287696838,GPS,-17.29005,31.3287696838,True,True
+97790,Zimbabwe,Mashonaland Central,Bindura University Clinic,Clinic,MoH,-17.32484,31.33306,GPS,-17.32484,31.33306,True,True
+97791,Zimbabwe,Mashonaland Central,Brandon Rural Health Clinic,Rural Health Clinic,Local authority,-16.9585,30.5952,Geonames,-16.9585,30.5952,True,True
+97792,Zimbabwe,Mashonaland Central,Bungwe Rural Health Clinic,Rural Health Clinic,Local authority,-16.56635,32.0678215027,GPS,-16.56635,32.0678215027,True,True
+97793,Zimbabwe,Mashonaland Central,Bushu Clinic,Clinic,Local authority,-17.2065,31.5743,Geonames,-17.2065,31.5743,True,True
+97794,Zimbabwe,Mashonaland Central,Bveka Rural Health Clinic,Rural Health Clinic,Local authority,-16.56939,31.7872505188,GPS,-16.56939,31.7872505188,True,True
+97795,Zimbabwe,Mashonaland Central,Bvokochora Rural Health Clinic,Rural Health Clinic,MoH,-16.57822,30.5855197906,GPS,-16.57822,30.5855197906,True,True
+97796,Zimbabwe,Mashonaland Central,Chadereka Rural Health Clinic,Rural Health Clinic,MoH,-16.167,31.2021694183,GPS,-16.167,31.2021694183,True,True
+97797,Zimbabwe,Mashonaland Central,Chapoto Rural Health Clinic,Rural Health Clinic,Local authority,-15.70058,30.3976306915,GPS,-15.70058,30.3976306915,True,True
+97798,Zimbabwe,Mashonaland Central,Chawanda Rural Health Clinic,Rural Health Clinic,Local authority,-16.61703,31.6701507568,GPS,-16.61703,31.6701507568,True,True
+97799,Zimbabwe,Mashonaland Central,Chawarura Rural Health Clinic,Rural Health Clinic,MoH,-16.5185,31.1101703644,GPS,-16.5185,31.1101703644,True,True
+97800,Zimbabwe,Mashonaland Central,Chidakamwedzi Clinic,Clinic,Local authority,-16.7489,31.1294,GPS,-16.7489,31.1294,True,True
+97801,Zimbabwe,Mashonaland Central,Chidembo Clinic,Clinic,Local authority,-17.08352,31.566860199,GPS,-17.08352,31.566860199,True,True
+97802,Zimbabwe,Mashonaland Central,Chidodo Rural Health Clinic,Rural Health Clinic,Local authority,-16.02513,31.0561695099,GPS,-16.02513,31.0561695099,True,True
+97803,Zimbabwe,Mashonaland Central,Chihuri Clinic,Clinic,Local authority,-16.87733,31.5505199432,GPS,-16.87733,31.5505199432,True,True
+97804,Zimbabwe,Mashonaland Central,Chikafa Rural Health Clinic,Rural Health Clinic,Local authority,-16.00798,30.560880661,GPS,-16.00798,30.560880661,True,True
+97805,Zimbabwe,Mashonaland Central,Chimbu Clinic,Clinic,Local authority,-16.7333,31.35,GPS,-16.7333,31.35,True,True
+97806,Zimbabwe,Mashonaland Central,Chimhanda District Hospital,District Hospital,MoH,-16.6313,32.1292,GPS,-16.6313,32.1292,True,True
+97807,Zimbabwe,Mashonaland Central,Chimhanda Rural Health Clinic,Rural Health Clinic,Local authority,-16.6344,32.1363,GPS,-16.6344,32.1363,True,True
+97808,Zimbabwe,Mashonaland Central,Chinehasha Rural Health Clinic,Rural Health Clinic,MoH,-16.92892,31.1901798248,GPS,-16.92892,31.1901798248,True,True
+97809,Zimbabwe,Mashonaland Central,Chipadze Clinic,Clinic,Local authority,-17.31758,31.3551502228,GPS,-17.31758,31.3551502228,True,True
+97810,Zimbabwe,Mashonaland Central,Chipindura Clinic,Clinic,MoH,-17.3,31.334,GPS,-17.3,31.334,True,True
+97811,Zimbabwe,Mashonaland Central,Chipuriro Rural Health Clinic,Rural Health Clinic,Local authority,-16.77972,30.7257194519,GPS,-16.77972,30.7257194519,True,True
+97812,Zimbabwe,Mashonaland Central,Chiriseri Rural Health Clinic,Rural Health Clinic,Local authority,-17.45422,31.1613502502,GPS,-17.45422,31.1613502502,True,True
+97813,Zimbabwe,Mashonaland Central,Chirunya Rural Health Clinic,Rural Health Clinic,Local authority,-16.34884,30.61864,GPS,-16.34884,30.61864,True,True
+97814,Zimbabwe,Mashonaland Central,Chishape Rural Health Clinic,Rural Health Clinic,MoH,-17.0609,31.654,GPS,-17.0609,31.654,True,True
+97815,Zimbabwe,Mashonaland Central,Chitsungo Rural Hospital,Rural Hospital,FBO,-16.2799,30.4462,GPS,-16.2799,30.4462,True,True
+97816,Zimbabwe,Mashonaland Central,Chiveso Rural Health Clinic,Rural Health Clinic,MoH,-17.46283,31.3495693207,GPS,-17.46283,31.3495693207,True,True
+97817,Zimbabwe,Mashonaland Central,Chiwarira Clinic,Clinic,Local authority,-17.15781,31.5718593597,GPS,-17.15781,31.5718593597,True,True
+97818,Zimbabwe,Mashonaland Central,Chiwariro Clinic,Clinic,Local authority,-17.291,31.3251,GPS,-17.291,31.3251,True,True
+97819,Zimbabwe,Mashonaland Central,Christon Bank Rural Health Clinic,Rural Health Clinic,Local authority,-17.6095,31.0093708038,GPS,-17.6095,31.0093708038,True,True
+97820,Zimbabwe,Mashonaland Central,Concession District Hospital,District Hospital,MoH,-17.3833,30.95,Geonames,-17.3833,30.95,True,True
+97821,Zimbabwe,Mashonaland Central,Dambakurima Rural Health Clinic,Rural Health Clinic,MoH,-16.14613,31.08856,GPS,-16.14613,31.08856,True,True
+97822,Zimbabwe,Mashonaland Central,Dambo Rural Health Clinic,Rural Health Clinic,Local authority,-17.19515,31.0811195374,GPS,-17.19515,31.0811195374,True,True
+97823,Zimbabwe,Mashonaland Central,Danbary Clinic,Clinic,Local authority,-17.645,30.924,GPS,-17.645,30.924,True,True
+97824,Zimbabwe,Mashonaland Central,Davaer Clinic,Clinic,Local authority,-17.6166,31.0333,GPS,-17.6166,31.0333,True,True
+97825,Zimbabwe,Mashonaland Central,David Nelson Clinic,Clinic,Local authority,-16.7295,31.1166706085,GPS,-16.7295,31.1166706085,True,True
+97826,Zimbabwe,Mashonaland Central,Donje Clinic,Clinic,Local authority,-16.9492,30.95695,GPS,-16.9492,30.95695,True,True
+97827,Zimbabwe,Mashonaland Central,Dotito Rural Health Clinic,Rural Health Clinic,MoH,-16.56878,31.5902194977,GPS,-16.56878,31.5902194977,True,True
+97828,Zimbabwe,Mashonaland Central,Farm Health Scheme Clinic,Clinic,Local authority,-17.32,31.362,GPS,-17.32,31.362,True,True
+97829,Zimbabwe,Mashonaland Central,Farm Health Scheme Clinic,Clinic,Local authority,-16.76482,31.0795,GPS,-16.76482,31.0795,True,True
+97830,Zimbabwe,Mashonaland Central,Foothills Clinic,Clinic,Local authority,-17.2132,31.278049469,GPS,-17.2132,31.278049469,True,True
+97831,Zimbabwe,Mashonaland Central,Gonono Rural Health Clinic,Rural Health Clinic,Local authority,-16.08695,30.8333301544,GPS,-16.08695,30.8333301544,True,True
+97832,Zimbabwe,Mashonaland Central,Goora Rural Health Clinic,Rural Health Clinic,MoH,-16.91667,31.5166702271,GPS,-16.91667,31.5166702271,True,True
+97833,Zimbabwe,Mashonaland Central,Gota Rural Health Clinic,Rural Health Clinic,Local authority,-16.58639,30.6577796936,GPS,-16.58639,30.6577796936,True,True
+97834,Zimbabwe,Mashonaland Central,Guruve District Hospital,District Hospital,MoH,-16.67111,30.7022209167,GPS,-16.67111,30.7022209167,True,True
+97835,Zimbabwe,Mashonaland Central,Hatcliffe Rural Health Clinic,Rural Health Clinic,MoH,-17.3833,31.0,GPS,-17.3833,31.0,True,True
+97836,Zimbabwe,Mashonaland Central,Home Eden Clinic,Clinic,Local authority,-17.6347,31.0505,GPS,-17.6347,31.0505,True,True
+97837,Zimbabwe,Mashonaland Central,Howard Rural Hospital,Rural Hospital,FBO,-17.56592,30.9943008423,GPS,-17.56592,30.9943008423,True,True
+97838,Zimbabwe,Mashonaland Central,Hoya Rural Health Clinic,Rural Health Clinic,MoH,-16.357,31.3026695251,GPS,-16.357,31.3026695251,True,True
+97839,Zimbabwe,Mashonaland Central,Hwata Rural Health Clinic,Rural Health Clinic,Local authority,-16.32367,30.9599990845,GPS,-16.32367,30.9599990845,True,True
+97840,Zimbabwe,Mashonaland Central,Jingamvura Rural Health Clinic,Rural Health Clinic,Local authority,-16.83293,31.2014503479,GPS,-16.83293,31.2014503479,True,True
+97841,Zimbabwe,Mashonaland Central,Kachuta Rural Health Clinic,Rural Health Clinic,Local authority,-16.63361,30.5026493073,GPS,-16.63361,30.5026493073,True,True
+97842,Zimbabwe,Mashonaland Central,Kaitano Rural Health Clinic,Rural Health Clinic,Local authority,-16.31861,31.552520752,GPS,-16.31861,31.552520752,True,True
+97843,Zimbabwe,Mashonaland Central,Kamutsenzere Rural Health Clinic,Rural Health Clinic,MoH,-16.38361,31.785610199,GPS,-16.38361,31.785610199,True,True
+97844,Zimbabwe,Mashonaland Central,Karanda Rural Hospital,Rural Hospital,FBO,-16.65555,31.8395500183,GPS,-16.65555,31.8395500183,True,True
+97845,Zimbabwe,Mashonaland Central,Kemutamba Rural Health Clinic,Rural Health Clinic,Local authority,-16.63607,30.44222,GPS,-16.63607,30.44222,True,True
+97846,Zimbabwe,Mashonaland Central,Machaya Rural Health Clinic,Rural Health Clinic,MoH,-16.35067,31.1620006561,GPS,-16.35067,31.1620006561,True,True
+97847,Zimbabwe,Mashonaland Central,Madziwa Rural Hospital,Rural Hospital,MoH,-16.92558,31.5387802124,GPS,-16.92558,31.5387802124,True,True
+97848,Zimbabwe,Mashonaland Central,Mahuwe Rural Health Clinic,Rural Health Clinic,Local authority,-16.38389,30.7352790833,GPS,-16.38389,30.7352790833,True,True
+97849,Zimbabwe,Mashonaland Central,Makope Rural Health Clinic,Rural Health Clinic,Local authority,-17.02938,31.0606994629,GPS,-17.02938,31.0606994629,True,True
+97850,Zimbabwe,Mashonaland Central,Manga Rural Health Clinic,Rural Health Clinic,MoH,-16.889,31.25575,GPS,-16.889,31.25575,True,True
+97851,Zimbabwe,Mashonaland Central,Manhanga Rural Health Clinic,Rural Health Clinic,Local authority,-17.3874,31.3127,Geonames,-17.3874,31.3127,True,True
+97852,Zimbabwe,Mashonaland Central,Mary Mt Rural Hospital,Rural Hospital,FBO,-16.6667,32.4333,Geonames,-16.6667,32.4333,True,True
+97853,Zimbabwe,Mashonaland Central,Mashumbi Pools Rural Health Clinic,Rural Health Clinic,MoH,-16.1589,30.5727,Geonames,-16.1589,30.5727,True,True
+97854,Zimbabwe,Mashonaland Central,Masoka Rural Health Clinic,Rural Health Clinic,Local authority,-16.16667,30.1666698456,GPS,-16.16667,30.1666698456,True,True
+97855,Zimbabwe,Mashonaland Central,Masomo Rural Health Clinic,Rural Health Clinic,Local authority,-16.31323,30.8906707764,GPS,-16.31323,30.8906707764,True,True
+97856,Zimbabwe,Mashonaland Central,Mastvitsi Rural Health Clinic,Rural Health Clinic,Local authority,-16.671,30.618,GPS,-16.671,30.618,True,True
+97857,Zimbabwe,Mashonaland Central,Matope Clinic,Clinic,Local authority,-16.8,31.45,GPS,-16.8,31.45,True,True
+97858,Zimbabwe,Mashonaland Central,Mazowe Camp Clinic,Clinic,MoH,-16.741,32.281,GPS,-16.741,32.281,True,True
+97859,Zimbabwe,Mashonaland Central,Mazowe secondary Clinic,Clinic,FBO,-17.618,30.931,GPS,-17.618,30.931,True,True
+97860,Zimbabwe,Mashonaland Central,Mongomery Clinic,Clinic,Local authority,-17.0297,30.8486,GPS,-17.0297,30.8486,True,True
+97861,Zimbabwe,Mashonaland Central,Msengezi Rural Health Clinic,Rural Health Clinic,MoH,-16.11073,31.1182498932,GPS,-16.11073,31.1182498932,True,True
+97862,Zimbabwe,Mashonaland Central,Mt. Darwin District Hospital,District Hospital,MoH,-16.778,31.589,GPS,-16.778,31.589,True,True
+97863,Zimbabwe,Mashonaland Central,Mugarakamwe Rural Health Clinic,Rural Health Clinic,Local authority,-16.86427,30.57957,GPS,-16.86427,30.57957,True,True
+97864,Zimbabwe,Mashonaland Central,Mukodzongi Rural Health Clinic,Rural Health Clinic,Local authority,-16.986,31.1643199921,GPS,-16.986,31.1643199921,True,True
+97865,Zimbabwe,Mashonaland Central,Mukonde Rural Health Clinic,Rural Health Clinic,MoH,-16.61053,32.2987289429,GPS,-16.61053,32.2987289429,True,True
+97866,Zimbabwe,Mashonaland Central,Mukosa Rural Health Clinic,Rural Health Clinic,MoH,-16.65855,32.6561012268,GPS,-16.65855,32.6561012268,True,True
+97867,Zimbabwe,Mashonaland Central,Mukumbura Rural Health Clinic,Rural Health Clinic,MoH,-16.20028,31.6518993378,GPS,-16.20028,31.6518993378,True,True
+97868,Zimbabwe,Mashonaland Central,Mupandira Rural Health Clinic,Rural Health Clinic,Local authority,-17.459816,31.30719,GPS,-17.459816,31.30719,True,True
+97869,Zimbabwe,Mashonaland Central,Mupfurudzi Rural Health Clinic,Rural Health Clinic,MoH,-16.9191,31.5571,Geonames,-16.9191,31.5571,True,True
+97870,Zimbabwe,Mashonaland Central,Musengezi Rural Health Clinic,Rural Health Clinic,Local authority,-16.10246,31.1172,GPS,-16.10246,31.1172,True,True
+97871,Zimbabwe,Mashonaland Central,Mutungagore Rural Health Clinic,Rural Health Clinic,MoH,-16.60139,31.5227203369,GPS,-16.60139,31.5227203369,True,True
+97872,Zimbabwe,Mashonaland Central,Muzarabani Rural Health Clinic,Rural Health Clinic,MoH,-16.3925,30.8924999237,GPS,-16.3925,30.8924999237,True,True
+97873,Zimbabwe,Mashonaland Central,Mvurwi FHS Clinic,Clinic,Local authority,-17.031,30.855,GPS,-17.031,30.855,True,True
+97874,Zimbabwe,Mashonaland Central,Mvurwi Rural Hospital,Rural Hospital,MoH,-17.03112,30.855,GPS,-17.03112,30.855,True,True
+97875,Zimbabwe,Mashonaland Central,Negomo Rural Health Clinic,Rural Health Clinic,MoH,-16.51056,30.7591705322,GPS,-16.51056,30.7591705322,True,True
+97876,Zimbabwe,Mashonaland Central,Nembire Rural Health Clinic,Rural Health Clinic,Local authority,-16.58956,31.5001506805,GPS,-16.58956,31.5001506805,True,True
+97877,Zimbabwe,Mashonaland Central,Nhawa Rural Health Clinic,Rural Health Clinic,MoH,-16.57892,32.1656188965,GPS,-16.57892,32.1656188965,True,True
+97878,Zimbabwe,Mashonaland Central,Nyakapupu Rural Health Clinic,Rural Health Clinic,Local authority,-16.75167,30.6280593872,GPS,-16.75167,30.6280593872,True,True
+97879,Zimbabwe,Mashonaland Central,Nyakudya Rural Health Clinic,Rural Health Clinic,MoH,-17.02013,31.136800766,GPS,-17.02013,31.136800766,True,True
+97880,Zimbabwe,Mashonaland Central,Nyamahobgo Rural Health Clinic,Rural Health Clinic,MoH,-16.6484,31.8704,Geonames,-16.6484,31.8704,True,True
+97881,Zimbabwe,Mashonaland Central,Nyamaropa Clinic,Clinic,Local authority,-17.0248,31.5356,GPS,-17.0248,31.5356,True,True
+97882,Zimbabwe,Mashonaland Central,Nyamaruro Clinic,Clinic,Local authority,-16.9515,31.41414,GPS,-16.9515,31.41414,True,True
+97883,Zimbabwe,Mashonaland Central,Nyamatikiti Clinic,Clinic,MoH,-16.73908,32.1097297668,GPS,-16.73908,32.1097297668,True,True
+97884,Zimbabwe,Mashonaland Central,Nyambudzi Rural Health Clinic,Rural Health Clinic,Local authority,-16.08729,30.5915,GPS,-16.08729,30.5915,True,True
+97885,Zimbabwe,Mashonaland Central,Nyamhondoro Rural Health Clinic,Rural Health Clinic,MoH,-16.85139,30.7577800751,GPS,-16.85139,30.7577800751,True,True
+97886,Zimbabwe,Mashonaland Central,Nyava Rural Health Clinic,Rural Health Clinic,Local authority,-17.56392,31.3605194092,GPS,-17.56392,31.3605194092,True,True
+97887,Zimbabwe,Mashonaland Central,Nzvimbo Rural Health Clinic,Rural Health Clinic,Local authority,-17.0807,31.0526008606,GPS,-17.0807,31.0526008606,True,True
+97888,Zimbabwe,Mashonaland Central,Pachanza Rural Health Clinic,Rural Health Clinic,Local authority,-16.56711,31.7713603973,GPS,-16.56711,31.7713603973,True,True
+97889,Zimbabwe,Mashonaland Central,Pfunyanguo Rural Health Clinic,Rural Health Clinic,MoH,-16.4677,31.9031,Geonames,-16.4677,31.9031,True,True
+97890,Zimbabwe,Mashonaland Central,Rosa Rural Hospital,Rural Hospital,MoH,-17.134,31.0472507477,GPS,-17.134,31.0472507477,True,True
+97891,Zimbabwe,Mashonaland Central,Rusambo Rural Health Clinic,Rural Health Clinic,Local authority,-16.62985,32.182849884,GPS,-16.62985,32.182849884,True,True
+97892,Zimbabwe,Mashonaland Central,Rushinga Rural Health Clinic,Rural Health Clinic,MoH,-16.63225,32.0215301514,GPS,-16.63225,32.0215301514,True,True
+97893,Zimbabwe,Mashonaland Central,Rusununguko Rural Health Clinic,Rural Health Clinic,Local authority,-17.0614,31.28075027,GPS,-17.0614,31.28075027,True,True
+97894,Zimbabwe,Mashonaland Central,Ruyamuro Rural Health Clinic,Rural Health Clinic,Local authority,-16.71917,30.7952804565,GPS,-16.71917,30.7952804565,True,True
+97895,Zimbabwe,Mashonaland Central,Shamva District Hospital,District Hospital,MoH,-17.29208,31.5715293884,GPS,-17.29208,31.5715293884,True,True
+97896,Zimbabwe,Mashonaland Central,Shinje Rural Health Clinic,Rural Health Clinic,MoH,-16.6568,30.6886,GPS,-16.6568,30.6886,True,True
+97897,Zimbabwe,Mashonaland Central,Shopo Clinic,Clinic,Local authority,-17.02617,31.19999,GPS,-17.02617,31.19999,True,True
+97898,Zimbabwe,Mashonaland Central,Shutu Rural Health Clinic,Rural Health Clinic,MoH,-17.07427,31.1391296387,GPS,-17.07427,31.1391296387,True,True
+97899,Zimbabwe,Mashonaland Central,St. Alberts District Hospital,District Hospital,FBO,-16.441,31.331,GPS,-16.441,31.331,True,True
+97900,Zimbabwe,Mashonaland Central,Takawira Clinic,Clinic,Local authority,-17.02528,31.61624,GPS,-17.02528,31.61624,True,True
+97901,Zimbabwe,Mashonaland Central,Tsakare Rural Health Clinic,Rural Health Clinic,MoH,-16.82555,31.5561103821,GPS,-16.82555,31.5561103821,True,True
+97902,Zimbabwe,Mashonaland Central,Tsungubvi Rural Health Clinic,Rural Health Clinic,Local authority,-17.36563,31.056470871,GPS,-17.36563,31.056470871,True,True
+97903,Zimbabwe,Mashonaland Central,Vonabo Clinic,Clinic,Local authority,-17.376,31.122,GPS,-17.376,31.122,True,True
+97904,Zimbabwe,Mashonaland Central,Wadzanayi Clinic,Clinic,Local authority,-16.978,31.6476,GPS,-16.978,31.6476,True,True
+97905,Zimbabwe,Mashonaland East,Acton Reynods Rural Health Clinic,Rural Health Clinic,MoH,-18.35294,31.0385303497,GPS,-18.35294,31.0385303497,True,True
+97906,Zimbabwe,Mashonaland East,Beatrice Rural Hospital,Rural Hospital,MoH,-18.25661,30.8557796478,GPS,-18.25661,30.8557796478,True,True
+97907,Zimbabwe,Mashonaland East,Border Church Rural Health Clinic,Rural Health Clinic,MoH,-18.23686,31.3405609131,GPS,-18.23686,31.3405609131,True,True
+97908,Zimbabwe,Mashonaland East,Borera Clinic,Clinic,Local authority,-17.02083,31.9761104584,GPS,-17.02083,31.9761104584,True,True
+97909,Zimbabwe,Mashonaland East,Bosha Rural Health Clinic,Rural Health Clinic,MoH,-17.50075,31.5530605316,GPS,-17.50075,31.5530605316,True,True
+97910,Zimbabwe,Mashonaland East,Bromley Clinic,Clinic,Local authority,-17.5787,31.5138,GPS,-17.5787,31.5138,True,True
+97911,Zimbabwe,Mashonaland East,Bvumbura Clinic,Clinic,Local authority,-19.13572,31.2738895416,GPS,-19.13572,31.2738895416,True,True
+97912,Zimbabwe,Mashonaland East,Charakupa Clinic,Clinic,Local authority,-18.17086,31.3364391327,GPS,-18.17086,31.3364391327,True,True
+97913,Zimbabwe,Mashonaland East,Charehwa Clinic,Clinic,Local authority,-17.17356,32.1536102295,GPS,-17.17356,32.1536102295,True,True
+97914,Zimbabwe,Mashonaland East,Chigondo Clinic,Clinic,Local authority,-18.85983,31.7197208405,GPS,-18.85983,31.7197208405,True,True
+97915,Zimbabwe,Mashonaland East,Chihota Rural Hospital,Rural Hospital,MoH,-18.3896,31.365,GPS,-18.3896,31.365,True,True
+97916,Zimbabwe,Mashonaland East,Chikumaiwa Clinic,Clinic,MoH,-19.05,31.9166,GPS,-19.05,31.9166,True,True
+97917,Zimbabwe,Mashonaland East,Chikwaka Rural Hospital,Rural Hospital,MoH,-17.55206,31.4858608246,GPS,-17.55206,31.4858608246,True,True
+97918,Zimbabwe,Mashonaland East,Chikwizo Clinic,Clinic,Local authority,-17.20656,32.7895584106,GPS,-17.20656,32.7895584106,True,True
+97919,Zimbabwe,Mashonaland East,Chimbwanda Rural Health Clinic,Rural Health Clinic,MoH,-18.40128,31.1501903534,GPS,-18.40128,31.1501903534,True,True
+97920,Zimbabwe,Mashonaland East,Chimukoko Clinic,Clinic,Local authority,-16.96742,32.50730896,GPS,-16.96742,32.50730896,True,True
+97921,Zimbabwe,Mashonaland East,Chinamhora Clinic,Clinic,Local authority,-17.57161,31.1845607758,GPS,-17.57161,31.1845607758,True,True
+97922,Zimbabwe,Mashonaland East,Chindenga Clinic,Clinic,FBO,-17.23619,32.1051902771,GPS,-17.23619,32.1051902771,True,True
+97923,Zimbabwe,Mashonaland East,Chinyika Clinic,Clinic,Local authority,-17.8262,31.3385,GPS,-17.8262,31.3385,True,True
+97924,Zimbabwe,Mashonaland East,Chipfunde Clinic,Clinic,Local authority,-17.22472,31.9341697693,GPS,-17.22472,31.9341697693,True,True
+97925,Zimbabwe,Mashonaland East,Chisvo Clinic,Clinic,Local authority,-16.95819,32.3582496643,GPS,-16.95819,32.3582496643,True,True
+97926,Zimbabwe,Mashonaland East,Chitate Rural Health Clinic,Rural Health Clinic,MoH,-17.67478,31.8865299225,GPS,-17.67478,31.8865299225,True,True
+97927,Zimbabwe,Mashonaland East,Chitimbe Clinic,Clinic,Local authority,-17.45139,31.7836093903,GPS,-17.45139,31.7836093903,True,True
+97928,Zimbabwe,Mashonaland East,Chitowa I Clinic,Clinic,Local authority,-17.5476,31.89,Geonames,-17.5476,31.89,True,True
+97929,Zimbabwe,Mashonaland East,Chitowa II Clinic,Clinic,Local authority,-17.6073,31.9219,Geonames,-17.6073,31.9219,True,True
+97930,Zimbabwe,Mashonaland East,Chitsungo Clinic,Clinic,Local authority,-16.93,32.0674,GPS,-16.93,32.0674,True,True
+97931,Zimbabwe,Mashonaland East,Chiunye Rural Health Clinic,Rural Health Clinic,MoH,-17.00475,32.2871398926,GPS,-17.00475,32.2871398926,True,True
+97932,Zimbabwe,Mashonaland East,Chivhu Clinic,Clinic,Local authority,-19.01814,30.9027194977,GPS,-19.01814,30.9027194977,True,True
+97933,Zimbabwe,Mashonaland East,Chivu Rural Hospital,Rural Hospital,MoH,-19.0211,30.8922,Geonames,-19.0211,30.8922,True,True
+97934,Zimbabwe,Mashonaland East,Craiglea Clinic,Clinic,Local authority,-17.96305,31.82746,GPS,-17.96305,31.82746,True,True
+97935,Zimbabwe,Mashonaland East,Cranbone Clinic,Clinic,Local authority,-17.8946,31.2149,GPS,-17.8946,31.2149,True,True
+97936,Zimbabwe,Mashonaland East,Dandara Clinic,Clinic,Local authority,-17.50764,31.6860599518,GPS,-17.50764,31.6860599518,True,True
+97937,Zimbabwe,Mashonaland East,Dendera Clinic,Clinic,Local authority,-16.95756,32.7207489014,GPS,-16.95756,32.7207489014,True,True
+97938,Zimbabwe,Mashonaland East,Dindi Clinic,Clinic,FBO,-16.88,32.0877799988,GPS,-16.88,32.0877799988,True,True
+97939,Zimbabwe,Mashonaland East,Domboshava Clinic,Clinic,MoH,-17.60214,31.1387195587,GPS,-17.60214,31.1387195587,True,True
+97940,Zimbabwe,Mashonaland East,Dombotombo Clinic,Clinic,Local authority,-18.18722,31.5670604706,GPS,-18.18722,31.5670604706,True,True
+97941,Zimbabwe,Mashonaland East,Dombwe Clinic,Clinic,Local authority,-17.7674,31.9776,Geonames,-17.7674,31.9776,True,True
+97942,Zimbabwe,Mashonaland East,Gandachibvuwa Rural Hospital,Rural Hospital,FBO,-19.0881,31.426,GPS,-19.0881,31.426,True,True
+97943,Zimbabwe,Mashonaland East,Gandani Clinic,Clinic,Local authority,-19.072,31.161,GPS,-19.072,31.161,True,True
+97944,Zimbabwe,Mashonaland East,Garaba Clinic,Clinic,MoH,-18.7085,31.53463936,GPS,-18.7085,31.53463936,True,True
+97945,Zimbabwe,Mashonaland East,Garaba Rural Health Clinic,Rural Health Clinic,MoH,-18.7179,31.5384,GPS,-18.7179,31.5384,True,True
+97946,Zimbabwe,Mashonaland East,Gokomere Clinic,Clinic,Local authority,-19.0313,31.3493,GPS,-19.0313,31.3493,True,True
+97947,Zimbabwe,Mashonaland East,Goneso Rural Health Clinic,Rural Health Clinic,MoH,-18.89328,31.9012794495,GPS,-18.89328,31.9012794495,True,True
+97948,Zimbabwe,Mashonaland East,Goromonzi High Clinic,Clinic,MoH,-17.848,31.398,GPS,-17.848,31.398,True,True
+97949,Zimbabwe,Mashonaland East,Goso Clinic,Clinic,MoH,-17.55378,31.78155,GPS,-17.55378,31.78155,True,True
+97950,Zimbabwe,Mashonaland East,Goto Rural Health Clinic,Rural Health Clinic,MoH,-18.72842,31.8067207336,GPS,-18.72842,31.8067207336,True,True
+97951,Zimbabwe,Mashonaland East,Gotora Rural Health Clinic,Rural Health Clinic,MoH,-18.65151,31.45557,GPS,-18.65151,31.45557,True,True
+97952,Zimbabwe,Mashonaland East,Gozi Rural Health Clinic,Rural Health Clinic,MoH,-17.18619,32.8670005798,GPS,-17.18619,32.8670005798,True,True
+97953,Zimbabwe,Mashonaland East,Henry John Rheimer Clinic,Clinic,Local authority,-17.724,31.384,GPS,-17.724,31.384,True,True
+97954,Zimbabwe,Mashonaland East,Hoyuyu I Rural Health Clinic,Rural Health Clinic,MoH,-17.5911,32.0448,Geonames,-17.5911,32.0448,True,True
+97955,Zimbabwe,Mashonaland East,Hoyuyu II Rural Health Clinic,Rural Health Clinic,MoH,-17.6127,32.0211,Geonames,-17.6127,32.0211,True,True
+97956,Zimbabwe,Mashonaland East,Hwedza District Hospital,District Hospital,MoH,-18.6173,31.5736,Geonames,-18.6173,31.5736,True,True
+97957,Zimbabwe,Mashonaland East,Idube Clinic,Clinic,MoH,-18.50209,31.52172,GPS,-18.50209,31.52172,True,True
+97958,Zimbabwe,Mashonaland East,Igava Clinic,Clinic,Local authority,-18.46728,31.6241092682,GPS,-18.46728,31.6241092682,True,True
+97959,Zimbabwe,Mashonaland East,Jekwa Rural Health Clinic,Rural Health Clinic,MoH,-17.75797,32.0895614624,GPS,-17.75797,32.0895614624,True,True
+97960,Zimbabwe,Mashonaland East,John Rekin Clinic,Clinic,Local authority,-17.81078,31.354699,GPS,-17.81078,31.354699,True,True
+97961,Zimbabwe,Mashonaland East,Jonasi Clinic,Clinic,Local authority,-18.05411,31.1346702576,GPS,-18.05411,31.1346702576,True,True
+97962,Zimbabwe,Mashonaland East,Kadenge Rural Health Clinic,Rural Health Clinic,MoH,-17.8847,31.7796,Google Earth,-17.8847,31.7796,True,True
+97963,Zimbabwe,Mashonaland East,Kadzere Clinic,Clinic,Local authority,-17.78822,31.7369995117,GPS,-17.78822,31.7369995117,True,True
+97964,Zimbabwe,Mashonaland East,Kafura Rural Health Clinic,Rural Health Clinic,MoH,-16.84306,32.2527809143,GPS,-16.84306,32.2527809143,True,True
+97965,Zimbabwe,Mashonaland East,Kapondoro Rural Health Clinic,Rural Health Clinic,MoH,-17.3738,32.4908,GPS,-17.3738,32.4908,True,True
+97966,Zimbabwe,Mashonaland East,Kapotesa Clinic,Clinic,Local authority,-17.01956,32.7521896362,GPS,-17.01956,32.7521896362,True,True
+97967,Zimbabwe,Mashonaland East,Karimbika Rural Health Clinic,Rural Health Clinic,MoH,-17.31306,32.0147209167,GPS,-17.31306,32.0147209167,True,True
+97968,Zimbabwe,Mashonaland East,Katsukunya Rural Health Clinic,Rural Health Clinic,MoH,-17.40781,32.1546897888,GPS,-17.40781,32.1546897888,True,True
+97969,Zimbabwe,Mashonaland East,Kawaza Clinic,Clinic,Local authority,-17.1771,32.2924,Geonames,-17.1771,32.2924,True,True
+97970,Zimbabwe,Mashonaland East,Kawere Clinic,Clinic,Local authority,-17.2215,32.365,Geonames,-17.2215,32.365,True,True
+97971,Zimbabwe,Mashonaland East,Kondo Rural Health Clinic,Rural Health Clinic,MoH,-16.9021,32.6366,GPS,-16.9021,32.6366,True,True
+97972,Zimbabwe,Mashonaland East,Kotwa Clinic,Clinic,Local authority,-17.0081,32.67282867,GPS,-17.0081,32.67282867,True,True
+97973,Zimbabwe,Mashonaland East,Kotwa District Hospital,District Hospital,MoH,-16.9962,32.6674,GPS,-16.9962,32.6674,True,True
+97974,Zimbabwe,Mashonaland East,Kowo Clinic,Clinic,Local authority,-17.2166,32.2333,GPS,-17.2166,32.2333,True,True
+97975,Zimbabwe,Mashonaland East,Kowoyo Clinic,Clinic,Local authority,-17.67219,31.4892501831,GPS,-17.67219,31.4892501831,True,True
+97976,Zimbabwe,Mashonaland East,Kunaka Clinic,Clinic,Local authority,-18.07236,31.2219696045,GPS,-18.07236,31.2219696045,True,True
+97977,Zimbabwe,Mashonaland East,Kushinga Phikelela Clinic,Clinic,MoH,-18.127912,31.661774,Google Earth,-18.127912,31.661774,True,True
+97978,Zimbabwe,Mashonaland East,Kushinga Rural Health Clinic,Rural Health Clinic,MoH,-17.62114,32.0202789307,GPS,-17.62114,32.0202789307,True,True
+97979,Zimbabwe,Mashonaland East,Lanark Clinic,Clinic,Local authority,-18.06819,30.9002494812,GPS,-18.06819,30.9002494812,True,True
+97980,Zimbabwe,Mashonaland East,Lanchashire Clinic,Clinic,Local authority,-19.1978,31.1435,Geonames,-19.1978,31.1435,True,True
+97981,Zimbabwe,Mashonaland East,Luisa Guidotti Rural Hospital,Rural Hospital,FBO,-17.394,32.2786,GPS,-17.394,32.2786,True,True
+97982,Zimbabwe,Mashonaland East,Lustleigh Clinic,Clinic,Local authority,-18.4209,31.4043,Geonames,-18.4209,31.4043,True,True
+97983,Zimbabwe,Mashonaland East,Macheke Clinic,Clinic,Local authority,-18.15306,31.8556098938,GPS,-18.15306,31.8556098938,True,True
+97984,Zimbabwe,Mashonaland East,Madamombe Clinic,Clinic,Local authority,-19.05,31.2833,GPS,-19.05,31.2833,True,True
+97985,Zimbabwe,Mashonaland East,Madamombe Rural Health Clinic,Rural Health Clinic,MoH,-17.4576,31.6496,GPS,-17.4576,31.6496,True,True
+97986,Zimbabwe,Mashonaland East,Makaha Rural Health Clinic,Rural Health Clinic,MoH,-17.28722,32.6240310669,GPS,-17.28722,32.6240310669,True,True
+97987,Zimbabwe,Mashonaland East,Makanyazingwa Clinic,Clinic,Local authority,-18.20086,31.4016399384,GPS,-18.20086,31.4016399384,True,True
+97988,Zimbabwe,Mashonaland East,Makarara Clinic,Clinic,Local authority,-19.02697,31.834810257,GPS,-19.02697,31.834810257,True,True
+97989,Zimbabwe,Mashonaland East,Makosa Rural Hospital,Rural Hospital,MoH,-17.26753,32.4716110229,GPS,-17.26753,32.4716110229,True,True
+97990,Zimbabwe,Mashonaland East,Makumbe District Hospital,District Hospital,MoH,-17.54042,31.2731895447,GPS,-17.54042,31.2731895447,True,True
+97991,Zimbabwe,Mashonaland East,Manyene/Chambara Clinic,Clinic,Local authority,-18.8368,31.0249,Geonames,-18.8368,31.0249,True,True
+97992,Zimbabwe,Mashonaland East,Manyika Clinic,Clinic,Local authority,-17.36028,31.8961105347,GPS,-17.36028,31.8961105347,True,True
+97993,Zimbabwe,Mashonaland East,Maramba Clinic,Clinic,Local authority,-17.03667,31.9850006104,GPS,-17.03667,31.9850006104,True,True
+97994,Zimbabwe,Mashonaland East,Marembera Rural Health Clinic,Rural Health Clinic,MoH,-17.3993,32.0337,GPS,-17.3993,32.0337,True,True
+97995,Zimbabwe,Mashonaland East,Marirangwe Clinic,Clinic,Local authority,-18.0882,30.8071,Geonames,-18.0882,30.8071,True,True
+97996,Zimbabwe,Mashonaland East,Marondera Provincial Hospital,Provincial Hospital,MoH,-18.1853,31.5519,Geonames,-18.1853,31.5519,True,True
+97997,Zimbabwe,Mashonaland East,Masarakufa Rural Health Clinic,Rural Health Clinic,MoH,-17.03969,32.5702781677,GPS,-17.03969,32.5702781677,True,True
+97998,Zimbabwe,Mashonaland East,Masasa Clinic,Clinic,Local authority,-18.8845,31.244,GPS,-18.8845,31.244,True,True
+97999,Zimbabwe,Mashonaland East,Masasa Rural Health Clinic,Rural Health Clinic,MoH,-18.4375,31.1421,GPS,-18.4375,31.1421,True,True
+98000,Zimbabwe,Mashonaland East,Masenda Clinic,Clinic,Local authority,-17.10814,32.2544708252,GPS,-17.10814,32.2544708252,True,True
+98001,Zimbabwe,Mashonaland East,Mashambanhaka Clinic,Clinic,Local authority,-17.27,31.822,Geonames,-17.27,31.822,True,True
+98002,Zimbabwe,Mashonaland East,Masikana Clinic,Clinic,Local authority,-18.35392,31.6866092682,GPS,-18.35392,31.6866092682,True,True
+98003,Zimbabwe,Mashonaland East,Matedza Clinic,Clinic,Local authority,-17.55014,32.4370803833,GPS,-17.55014,32.4370803833,True,True
+98004,Zimbabwe,Mashonaland East,Matututu Clinic,Clinic,Local authority,-17.4742,31.7296,Geonames,-17.4742,31.7296,True,True
+98005,Zimbabwe,Mashonaland East,Mbiru Clinic,Clinic,Local authority,-18.95808,31.2015800476,GPS,-18.95808,31.2015800476,True,True
+98006,Zimbabwe,Mashonaland East,MRDC Clinic,Clinic,Local authority,-18.494,31.216,GPS,-18.494,31.216,True,True
+98007,Zimbabwe,Mashonaland East,Mt. St. Mary’s Rural Hospital,Rural Hospital,FBO,-18.689,31.686,GPS,-18.689,31.686,True,True
+98008,Zimbabwe,Mashonaland East,Muda Clinic,Clinic,Local authority,-18.29,31.019859314,GPS,-18.29,31.019859314,True,True
+98009,Zimbabwe,Mashonaland East,Mudzimurema Clinic,Clinic,Local authority,-18.3,31.0833,Geonames,-18.3,31.0833,True,True
+98010,Zimbabwe,Mashonaland East,Mufudziwakanaka Rural Health Clinic,Rural Health Clinic,MoH,-18.8415,31.6044406891,GPS,-18.8415,31.6044406891,True,True
+98011,Zimbabwe,Mashonaland East,Munamba Rural Health Clinic,Rural Health Clinic,MoH,-17.89122,31.5907802582,GPS,-17.89122,31.5907802582,True,True
+98012,Zimbabwe,Mashonaland East,Muonwe Rural Health Clinic,Rural Health Clinic,MoH,-17.52205,31.2535190582,GPS,-17.52205,31.2535190582,True,True
+98013,Zimbabwe,Mashonaland East,Murewa District Hospital,District Hospital,MoH,-17.65783,31.7876396179,GPS,-17.65783,31.7876396179,True,True
+98014,Zimbabwe,Mashonaland East,Murzi Clinic,Clinic,Local authority,-19.199,31.057,GPS,-19.199,31.057,True,True
+98015,Zimbabwe,Mashonaland East,Mushimbo Rural Health Clinic,Rural Health Clinic,MoH,-17.4323,32.3917,GPS,-17.4323,32.3917,True,True
+98016,Zimbabwe,Mashonaland East,Mushipe Clinic,Clinic,Local authority,-19.02072,31.6836395264,GPS,-19.02072,31.6836395264,True,True
+98017,Zimbabwe,Mashonaland East,Muskwe Clinic,Clinic,Local authority,-17.40333,31.9763908386,GPS,-17.40333,31.9763908386,True,True
+98018,Zimbabwe,Mashonaland East,Musumba Clinic,Clinic,Local authority,-19.1512,31.5193,Geonames,-19.1512,31.5193,True,True
+98019,Zimbabwe,Mashonaland East,Mutawatawa District Hospital,District Hospital,MoH,-17.12139,31.9738903046,GPS,-17.12139,31.9738903046,True,True
+98020,Zimbabwe,Mashonaland East,Mutoko District Hospital,District Hospital,MoH,-17.42342,32.238609314,GPS,-17.42342,32.238609314,True,True
+98021,Zimbabwe,Mashonaland East,Mutoro Clinic,Clinic,Local authority,-18.85592,31.0838298798,GPS,-18.85592,31.0838298798,True,True
+98022,Zimbabwe,Mashonaland East,Mutukwa Clinic,Clinic,Local authority,-18.0167,31.6333,Geonames,-18.0167,31.6333,True,True
+98023,Zimbabwe,Mashonaland East,Mwanza Rural Health Clinic,Rural Health Clinic,MoH,-17.76875,31.4868106842,GPS,-17.76875,31.4868106842,True,True
+98024,Zimbabwe,Mashonaland East,Mwerahari Clinic,Clinic,FBO,-19.05522,31.2366409302,GPS,-19.05522,31.2366409302,True,True
+98025,Zimbabwe,Mashonaland East,Ngwerume Rural Health Clinic,Rural Health Clinic,MoH,-17.58456,31.69831,GPS,-17.58456,31.69831,True,True
+98026,Zimbabwe,Mashonaland East,Nhakiwa Clinic,Clinic,Local authority,-17.37111,31.8008308411,GPS,-17.37111,31.8008308411,True,True
+98027,Zimbabwe,Mashonaland East,Nhangabvi Clinic,Clinic,Local authority,-18.8435,31.5136,Geonames,-18.8435,31.5136,True,True
+98028,Zimbabwe,Mashonaland East,Nharira Rural Hospital,Rural Hospital,MoH,-19.07433,31.1711902618,GPS,-19.07433,31.1711902618,True,True
+98029,Zimbabwe,Mashonaland East,Nhowe Clinic,Clinic,FBO,-17.87206,31.934469223,GPS,-17.87206,31.934469223,True,True
+98030,Zimbabwe,Mashonaland East,Nyadire Resettlement Rural Health Clinic,Rural Health Clinic,MoH,-17.49227,31.96282,GPS,-17.49227,31.96282,True,True
+98031,Zimbabwe,Mashonaland East,Nyadire Rural Hospital,Rural Hospital,FBO,-17.2242,32.2025,Geonames,-17.2242,32.2025,True,True
+98032,Zimbabwe,Mashonaland East,Nyahuku Clinic,Clinic,Local authority,-16.81739,32.888168335,GPS,-16.81739,32.888168335,True,True
+98033,Zimbabwe,Mashonaland East,Nyakasoro Clinic,Clinic,Local authority,-16.9025,32.1919403076,GPS,-16.9025,32.1919403076,True,True
+98034,Zimbabwe,Mashonaland East,Nyamanyoro Rural Health Clinic,Rural Health Clinic,MoH,-17.1166,32.2,GPS,-17.1166,32.2,True,True
+98035,Zimbabwe,Mashonaland East,Nyamapanda Clinic,Clinic,Local authority,-16.96828,32.8657188416,GPS,-16.96828,32.8657188416,True,True
+98036,Zimbabwe,Mashonaland East,Nyamatawa Clinic,Clinic,Local authority,-17.20389,32.6553115845,GPS,-17.20389,32.6553115845,True,True
+98037,Zimbabwe,Mashonaland East,Nyameni Clinic,Clinic,Local authority,-18.20611,31.5414390564,GPS,-18.20611,31.5414390564,True,True
+98038,Zimbabwe,Mashonaland East,Nyamhere Rural Health Clinic,Rural Health Clinic,MoH,-18.81919,31.0037498474,GPS,-18.81919,31.0037498474,True,True
+98039,Zimbabwe,Mashonaland East,Nyamukoho Clinic,Clinic,Local authority,-17.07097,32.3185005188,GPS,-17.07097,32.3185005188,True,True
+98040,Zimbabwe,Mashonaland East,Nyamutumbu Clinic,Clinic,Local authority,-17.62108,31.61743927,GPS,-17.62108,31.61743927,True,True
+98041,Zimbabwe,Mashonaland East,Nyamuzizi Rural Health Clinic,Rural Health Clinic,MoH,-17.63819,32.3560295105,GPS,-17.63819,32.3560295105,True,True
+98042,Zimbabwe,Mashonaland East,Nyamuzuwe Rural Hospital,Rural Hospital,MoH,-17.25403,32.2541885376,GPS,-17.25403,32.2541885376,True,True
+98043,Zimbabwe,Mashonaland East,Nyanzou Clinic,Clinic,Local authority,-16.78028,32.3047218323,GPS,-16.78028,32.3047218323,True,True
+98044,Zimbabwe,Mashonaland East,Nyembanzvere Clinic,Clinic,Local authority,-18.21594,31.13047,GPS,-18.21594,31.13047,True,True
+98045,Zimbabwe,Mashonaland East,Nzira Clinic,Clinic,Local authority,-17.66817,32.1371116638,GPS,-17.66817,32.1371116638,True,True
+98046,Zimbabwe,Mashonaland East,Pokoteke Clinic,Clinic,Local authority,-19.1006,31.1194,GPS,-19.1006,31.1194,True,True
+98047,Zimbabwe,Mashonaland East,Range Clinic,Clinic,MoH,-19.02097,31.0006408691,GPS,-19.02097,31.0006408691,True,True
+98048,Zimbabwe,Mashonaland East,Ringa Rural Health Clinic,Rural Health Clinic,MoH,-18.48839,30.9504394531,GPS,-18.48839,30.9504394531,True,True
+98049,Zimbabwe,Mashonaland East,Rusike Clinic,Clinic,MoH,-17.87261,31.5182209015,GPS,-17.87261,31.5182209015,True,True
+98050,Zimbabwe,Mashonaland East,Rusununguko Clinic,Clinic,MoH,-17.8982,31.2411,GPS,-17.8982,31.2411,True,True
+98051,Zimbabwe,Mashonaland East,Rutanhire Clinic,Clinic,Local authority,-18.8,31.4166,GPS,-18.8,31.4166,True,True
+98052,Zimbabwe,Mashonaland East,Rutope Rural Health Clinic,Rural Health Clinic,Local authority,-17.55588,31.5655498505,GPS,-17.55588,31.5655498505,True,True
+98053,Zimbabwe,Mashonaland East,Sadza District Hospital,District Hospital,MoH,-18.83706,31.4079704285,GPS,-18.83706,31.4079704285,True,True
+98054,Zimbabwe,Mashonaland East,Sengezi Rural Health Clinic,Rural Health Clinic,MoH,-18.74408,31.4871101379,GPS,-18.74408,31.4871101379,True,True
+98055,Zimbabwe,Mashonaland East,Shambamuto Clinic,Clinic,Local authority,-17.87231,31.6393108368,GPS,-17.87231,31.6393108368,True,True
+98056,Zimbabwe,Mashonaland East,Shinga Clinic,Clinic,Local authority,-17.00806,32.4394989014,GPS,-17.00806,32.4394989014,True,True
+98057,Zimbabwe,Mashonaland East,Shumba Clinic,Clinic,Local authority,-18.9215,31.5771,GPS,-18.9215,31.5771,True,True
+98058,Zimbabwe,Mashonaland East,Skimpton Clinic,Clinic,MoH,-18.6635,31.4362,Geonames,-18.6635,31.4362,True,True
+98059,Zimbabwe,Mashonaland East,Sowa Rural Health Clinic,Rural Health Clinic,MoH,-16.999,32.1385,Geonames,-16.999,32.1385,True,True
+98060,Zimbabwe,Mashonaland East,St. Paul’s Rural Hospital,Rural Hospital,FBO,-17.746,31.59,GPS,-17.746,31.59,True,True
+98061,Zimbabwe,Mashonaland East,St. Pius Clinic,Clinic,Local authority,-16.75703,32.8059692383,GPS,-16.75703,32.8059692383,True,True
+98062,Zimbabwe,Mashonaland East,Suswe Clinic,Clinic,Local authority,-17.17456,32.4053916931,GPS,-17.17456,32.4053916931,True,True
+98063,Zimbabwe,Mashonaland East,Unyetu Clinic,Clinic,Local authority,-18.97331,31.3009700775,GPS,-18.97331,31.3009700775,True,True
+98064,Zimbabwe,Mashonaland East,Virginia Clinic,Clinic,Local authority,-17.8704,32.1062,Geonames,-17.8704,32.1062,True,True
+98065,Zimbabwe,Mashonaland East,Waddilove Clinic,Clinic,FBO,-18.2601,31.3824,Google Earth,-18.2601,31.3824,True,True
+98066,Zimbabwe,Mashonaland East,Waterloo Clinic,Clinic,Local authority,-17.88836,31.9340000153,GPS,-17.88836,31.9340000153,True,True
+98067,Zimbabwe,Mashonaland East,Wazvaremhaka Clinic,Clinic,Local authority,-18.6904,30.9472,GPS,-18.6904,30.9472,True,True
+98068,Zimbabwe,Mashonaland East,Wenimbi Clinic,Clinic,MoH,-18.2667,31.6333,Geonames,-18.2667,31.6333,True,True
+98069,Zimbabwe,Mashonaland East,Wishire Clinic,Clinic,Local authority,-18.6667,31.1667,Geonames,-18.6667,31.1667,True,True
+98070,Zimbabwe,Mashonaland East,Zhakata Clinic,Clinic,Local authority,-18.3572,31.0845,GPS,-18.3572,31.0845,True,True
+98071,Zimbabwe,Mashonaland East,Zvamatohwe Rural Health Clinic,Rural Health Clinic,MoH,-18.8308,31.394,Geonames,-18.8308,31.394,True,True
+98072,Zimbabwe,Mashonaland East,Zvidhuri Clinic,Clinic,Local authority,-18.96144,31.7229404449,GPS,-18.96144,31.7229404449,True,True
+98073,Zimbabwe,Mashonaland West,Ada Sisi Rural Health Clinic,Rural Health Clinic,Local authority,-16.89056,30.4202804565,GPS,-16.89056,30.4202804565,True,True
+98074,Zimbabwe,Mashonaland West,Alaska Clinic,Clinic,MoH,-17.37389,30.0674991608,GPS,-17.37389,30.0674991608,True,True
+98075,Zimbabwe,Mashonaland West,Aryshire Clinic,Clinic,Local authority,-17.03944,30.4386100769,GPS,-17.03944,30.4386100769,True,True
+98076,Zimbabwe,Mashonaland West,Banket District Hospital,District Hospital,MoH,-17.38333,30.3958301544,GPS,-17.38333,30.3958301544,True,True
+98077,Zimbabwe,Mashonaland West,Blackmovel Clinic,Clinic,Local authority,-17.9487,29.8952,GPS,-17.9487,29.8952,True,True
+98078,Zimbabwe,Mashonaland West,Brunswick Clinic,Clinic,Local authority,-18.22281,30.04442,GPS,-18.22281,30.04442,True,True
+98079,Zimbabwe,Mashonaland West,Bururu Clinic,Clinic,Local authority,-18.69722,30.4905605316,GPS,-18.69722,30.4905605316,True,True
+98080,Zimbabwe,Mashonaland West,Chalala Rural Health Clinic,Rural Health Clinic,Local authority,-16.84167,28.3002796173,GPS,-16.84167,28.3002796173,True,True
+98081,Zimbabwe,Mashonaland West,Chegutu Clinic,Clinic,Local authority,-18.1286,30.14944077,GPS,-18.1286,30.14944077,True,True
+98082,Zimbabwe,Mashonaland West,Chegutu District Hospital,District Hospital,MoH,-18.12083,30.14194,GPS,-18.12083,30.14194,True,True
+98083,Zimbabwe,Mashonaland West,Chemukute Clinic,Clinic,Local authority,-18.3524,29.9112,GPS,-18.3524,29.9112,True,True
+98084,Zimbabwe,Mashonaland West,Chenjiri Clinic,Clinic,Local authority,-17.86083,29.4094390869,GPS,-17.86083,29.4094390869,True,True
+98085,Zimbabwe,Mashonaland West,Chidamoyo Rural Hospital,Rural Hospital,FBO,-17.14833,29.1919403076,GPS,-17.14833,29.1919403076,True,True
+98086,Zimbabwe,Mashonaland West,Chikangwe Clinic,Clinic,Local authority,-16.7904,29.7247,Geonames,-16.7904,29.7247,True,True
+98087,Zimbabwe,Mashonaland West,Chikara Clinic,Clinic,Local authority,-18.47028,30.7000007629,GPS,-18.47028,30.7000007629,True,True
+98088,Zimbabwe,Mashonaland West,Chikonohono Clinic,Clinic,Local authority,-17.39,30.1944408417,GPS,-17.39,30.1944408417,True,True
+98089,Zimbabwe,Mashonaland West,Chinengundu Clinic,Clinic,Local authority,-18.2887,30.5725,Google Earth,-18.2887,30.5725,True,True
+98090,Zimbabwe,Mashonaland West,Chingondo Clinic,Clinic,Local authority,-18.44847,30.35557,GPS,-18.44847,30.35557,True,True
+98091,Zimbabwe,Mashonaland West,Chinhere Clinic,Clinic,Local authority,-17.21556,29.4369392395,GPS,-17.21556,29.4369392395,True,True
+98092,Zimbabwe,Mashonaland West,Chinhoyi Clinic,Clinic,Local authority,-17.3856,30.1818,GPS,-17.3856,30.1818,True,True
+98093,Zimbabwe,Mashonaland West,Chinhoyi Provincial Hospital,Provincial Hospital,MoH,-17.36222,30.20889,GPS,-17.36222,30.20889,True,True
+98094,Zimbabwe,Mashonaland West,Chirau Clinic,Clinic,Local authority,-17.68167,30.1241703033,GPS,-17.68167,30.1241703033,True,True
+98095,Zimbabwe,Mashonaland West,Chirikiti Clinic,Clinic,Local authority,-17.97611,29.4205608368,GPS,-17.97611,29.4205608368,True,True
+98096,Zimbabwe,Mashonaland West,Chirundu Rural Health Clinic,Rural Health Clinic,MoH,-16.04389,28.8605594635,GPS,-16.04389,28.8605594635,True,True
+98097,Zimbabwe,Mashonaland West,Chivende Rural Health Clinic,Rural Health Clinic,MoH,-17.31583,29.349439621,GPS,-17.31583,29.349439621,True,True
+98098,Zimbabwe,Mashonaland West,Chivero Clinic,Clinic,Local authority,-18.17944,30.6041698456,GPS,-18.17944,30.6041698456,True,True
+98099,Zimbabwe,Mashonaland West,Chivhere Rural Health Clinic,Rural Health Clinic,MoH,-17.66528,30.0305595398,GPS,-17.66528,30.0305595398,True,True
+98100,Zimbabwe,Mashonaland West,Chundu Clinic,Clinic,Local authority,-16.39278,29.6424999237,GPS,-16.39278,29.6424999237,True,True
+98101,Zimbabwe,Mashonaland West,Darwedale Rural Hospital,Rural Hospital,MoH,-17.7167,30.55,Geonames,-17.7167,30.55,True,True
+98102,Zimbabwe,Mashonaland West,Dete Rural Health Clinic,Rural Health Clinic,Local authority,-16.501,29.942,GPS,-16.501,29.942,True,True
+98103,Zimbabwe,Mashonaland West,Doma Clinic,Clinic,Local authority,-16.75889,30.2422199249,GPS,-16.75889,30.2422199249,True,True
+98104,Zimbabwe,Mashonaland West,Donaine Rural Health Clinic,Rural Health Clinic,MoH,-18.5184,29.6368,Geonames,-18.5184,29.6368,True,True
+98105,Zimbabwe,Mashonaland West,Dondoshava Rural Health Clinic,Rural Health Clinic,MoH,-18.68278,30.5969390869,GPS,-18.68278,30.5969390869,True,True
+98106,Zimbabwe,Mashonaland West,Father O’Hea Rural Hospital,Rural Hospital,FBO,-17.801,30.386,GPS,-17.801,30.386,True,True
+98107,Zimbabwe,Mashonaland West,Gache Gache Rural Health Clinic,Rural Health Clinic,MoH,-16.6703,28.9518,Geonames,-16.6703,28.9518,True,True
+98108,Zimbabwe,Mashonaland West,Gavhunga Rural Health Clinic,Rural Health Clinic,Local authority,-18.72362,30.5599,GPS,-18.72362,30.5599,True,True
+98109,Zimbabwe,Mashonaland West,Geja Rural Health Clinic,Rural Health Clinic,MoH,-17.9656,29.9001,GPS,-17.9656,29.9001,True,True
+98110,Zimbabwe,Mashonaland West,Godzi Clinic,Clinic,Local authority,-17.61778,29.5222206116,GPS,-17.61778,29.5222206116,True,True
+98111,Zimbabwe,Mashonaland West,Gora Rural Health Clinic,Rural Health Clinic,MoH,-18.42417,30.7299995422,GPS,-18.42417,30.7299995422,True,True
+98112,Zimbabwe,Mashonaland West,Green Valley Clinic,Clinic,MoH,-16.68228,30.15505,GPS,-16.68228,30.15505,True,True
+98113,Zimbabwe,Mashonaland West,Gudubu Rural Health Clinic,Rural Health Clinic,MoH,-16.9668,30.0807,Geonames,-16.9668,30.0807,True,True
+98114,Zimbabwe,Mashonaland West,Gwebi Rural Health Clinic,Rural Health Clinic,MoH,-17.67694,30.8583297729,GPS,-17.67694,30.8583297729,True,True
+98115,Zimbabwe,Mashonaland West,Hesketh Clinic,Clinic,Local authority,-16.86944,29.5377807617,GPS,-16.86944,29.5377807617,True,True
+98116,Zimbabwe,Mashonaland West,Hombwe Clinic,Clinic,Local authority,-17.69417,29.7791690826,GPS,-17.69417,29.7791690826,True,True
+98117,Zimbabwe,Mashonaland West,Hurungwe Rural Hospital,Rural Hospital,MoH,-16.5,29.5,Geonames,-16.5,29.5,True,True
+98118,Zimbabwe,Mashonaland West,Ingezi Clinic,Clinic,Local authority,-18.3764,29.864,GPS,-18.3764,29.864,True,True
+98119,Zimbabwe,Mashonaland West,Jari Clinic,Clinic,Local authority,-17.73194,30.0336093903,GPS,-17.73194,30.0336093903,True,True
+98120,Zimbabwe,Mashonaland West,Jompani Rural Health Clinic,Rural Health Clinic,MoH,-18.06917,29.4486103058,GPS,-18.06917,29.4486103058,True,True
+98121,Zimbabwe,Mashonaland West,Jondale Rural Health Clinic,Rural Health Clinic,MoH,-18.55,30.4333,Geonames,-18.55,30.4333,True,True
+98122,Zimbabwe,Mashonaland West,Kadoma District Hospital,District Hospital,MoH,-18.3333,29.9153,Geonames,-18.3333,29.9153,True,True
+98123,Zimbabwe,Mashonaland West,Kanyati Rural Health Clinic,Rural Health Clinic,MoH,-16.91528,28.9952793121,GPS,-16.91528,28.9952793121,True,True
+98124,Zimbabwe,Mashonaland West,Kapfunde Clinic,Clinic,Local authority,-17.06583,29.4083309174,GPS,-17.06583,29.4083309174,True,True
+98125,Zimbabwe,Mashonaland West,Kariba District Hospital,District Hospital,MoH,-16.52028,28.7916698456,GPS,-16.52028,28.7916698456,True,True
+98126,Zimbabwe,Mashonaland West,Karoi District Hospital,District Hospital,MoH,-16.81528,29.6877803802,GPS,-16.81528,29.6877803802,True,True
+98127,Zimbabwe,Mashonaland West,Karoi Static Clinic,Clinic,Local authority,-16.826,29.6163,Geonames,-16.826,29.6163,True,True
+98128,Zimbabwe,Mashonaland West,Kasimure Rural Health Clinic,Rural Health Clinic,MoH,-17.0333,29.8833,Geonames,-17.0333,29.8833,True,True
+98129,Zimbabwe,Mashonaland West,Katanga Utano Rural Health Clinic,Rural Health Clinic,Local authority,-17.874,30.676,GPS,-17.874,30.676,True,True
+98130,Zimbabwe,Mashonaland West,Kazangarare Clinic,Clinic,Local authority,-16.55917,29.835559845,GPS,-16.55917,29.835559845,True,True
+98131,Zimbabwe,Mashonaland West,Kenzamba Clinic,Clinic,MoH,-17.47306,29.6049995422,GPS,-17.47306,29.6049995422,True,True
+98132,Zimbabwe,Mashonaland West,Kosana Clinic,Clinic,Local authority,-16.66722,30.2138900757,GPS,-16.66722,30.2138900757,True,True
+98133,Zimbabwe,Mashonaland West,Kutama Clinic,Clinic,Local authority,-17.73944,30.4200000763,GPS,-17.73944,30.4200000763,True,True
+98134,Zimbabwe,Mashonaland West,Kuwadzana Clinic,Clinic,Local authority,-17.37639,30.3947200775,GPS,-17.37639,30.3947200775,True,True
+98135,Zimbabwe,Mashonaland West,Lanroy Clinic,Clinic,MoH,-16.7591,29.4725,Geonames,-16.7591,29.4725,True,True
+98136,Zimbabwe,Mashonaland West,Lismore Clinic,Clinic,Local authority,-18.0126,29.9874,Geonames,-18.0126,29.9874,True,True
+98137,Zimbabwe,Mashonaland West,Madzorera Clinic,Clinic,Local authority,-17.8204,30.2206,GPS,-17.8204,30.2206,True,True
+98138,Zimbabwe,Mashonaland West,Mafindifindi Clinic,Clinic,Local authority,-18.74611,30.514169693,GPS,-18.74611,30.514169693,True,True
+98139,Zimbabwe,Mashonaland West,Mafuti Clinic,Clinic,Local authority,-18.1276,30.1823,GPS,-18.1276,30.1823,True,True
+98140,Zimbabwe,Mashonaland West,Manyewe Clinic,Clinic,Local authority,-18.60722,30.523059845,GPS,-18.60722,30.523059845,True,True
+98141,Zimbabwe,Mashonaland West,Manyoni Rural Health Clinic,Rural Health Clinic,MoH,-18.8,30.5167,GPS,-18.8,30.5167,True,True
+98142,Zimbabwe,Mashonaland West,Mapinga Clinic,Clinic,MoH,-17.3609,30.1701,GPS,-17.3609,30.1701,True,True
+98143,Zimbabwe,Mashonaland West,Marongora Clinic,Clinic,MoH,-16.22889,29.1625003815,GPS,-16.22889,29.1625003815,True,True
+98144,Zimbabwe,Mashonaland West,Masanga Rural Health Clinic,Rural Health Clinic,MoH,-16.73611,29.2299995422,GPS,-16.73611,29.2299995422,True,True
+98145,Zimbabwe,Mashonaland West,Mashongwe Clinic,Clinic,Local authority,-16.44056,29.5416698456,GPS,-16.44056,29.5416698456,True,True
+98146,Zimbabwe,Mashonaland West,Masiyarwa Clinic,Clinic,Local authority,-17.81111,30.3299999237,GPS,-17.81111,30.3299999237,True,True
+98147,Zimbabwe,Mashonaland West,Matorangera Clinic,Clinic,Local authority,-17.56833,30.1119403839,GPS,-17.56833,30.1119403839,True,True
+98148,Zimbabwe,Mashonaland West,Mbuyanehanda Rural Health Clinic,Rural Health Clinic,MoH,-17.92139,30.2158298492,GPS,-17.92139,30.2158298492,True,True
+98149,Zimbabwe,Mashonaland West,Mhangura Christian Rural Hospital,Rural Hospital,FBO,-17.3796,30.0649,GPS,-17.3796,30.0649,True,True
+98150,Zimbabwe,Mashonaland West,Mhondoro North Clinic,Clinic,Local authority,-18.16944,30.6938896179,GPS,-18.16944,30.6938896179,True,True
+98151,Zimbabwe,Mashonaland West,Mhondoro Rural Hospital,Rural Hospital,MoH,-18.31833,30.5886096954,GPS,-18.31833,30.5886096954,True,True
+98152,Zimbabwe,Mashonaland West,Mola Clinic,Clinic,MoH,-16.92611,28.2986106873,GPS,-16.92611,28.2986106873,True,True
+98153,Zimbabwe,Mashonaland West,Monera Rural Health Clinic,Rural Health Clinic,MoH,-18.11389,30.7319393158,GPS,-18.11389,30.7319393158,True,True
+98154,Zimbabwe,Mashonaland West,Mpumbu Clinic,Clinic,Local authority,-17.7093,30.5499,GPS,-17.7093,30.5499,True,True
+98155,Zimbabwe,Mashonaland West,Msapakaruma Clinic,Clinic,Local authority,-16.5408,28.873,GPS,-16.5408,28.873,True,True
+98156,Zimbabwe,Mashonaland West,Mt. Hampden Clinic,Clinic,Local authority,-17.704,30.897,GPS,-17.704,30.897,True,True
+98157,Zimbabwe,Mashonaland West,Mukarati Clinic,Clinic,Local authority,-18.55667,30.4891700745,GPS,-18.55667,30.4891700745,True,True
+98158,Zimbabwe,Mashonaland West,Mukohwe Clinic,Clinic,Local authority,-17.81028,29.8108291626,GPS,-17.81028,29.8108291626,True,True
+98159,Zimbabwe,Mashonaland West,Mupawose Clinic,Clinic,Local authority,-18.48056,30.5025005341,GPS,-18.48056,30.5025005341,True,True
+98160,Zimbabwe,Mashonaland West,Murambwa Clinic,Clinic,Local authority,-18.58333,30.7216701508,GPS,-18.58333,30.7216701508,True,True
+98161,Zimbabwe,Mashonaland West,Murereka Rural Health Clinic,Rural Health Clinic,MoH,-17.27556,30.0263900757,GPS,-17.27556,30.0263900757,True,True
+98162,Zimbabwe,Mashonaland West,Musinami Rural Health Clinic,Rural Health Clinic,MoH,-18.30306,30.4988899231,GPS,-18.30306,30.4988899231,True,True
+98163,Zimbabwe,Mashonaland West,Mutorashanga Rural Hospital,Rural Hospital,Local authority,-17.14667,30.6763896942,GPS,-17.14667,30.6763896942,True,True
+98164,Zimbabwe,Mashonaland West,Muuyu Clinic,Clinic,Local authority,-17.94722,29.4919395447,GPS,-17.94722,29.4919395447,True,True
+98165,Zimbabwe,Mashonaland West,Muzvezve Rural Health Clinic,Rural Health Clinic,MoH,-18.54444,30.5825004578,GPS,-18.54444,30.5825004578,True,True
+98166,Zimbabwe,Mashonaland West,Mwami Rural Hospital,Rural Hospital,MoH,-16.67167,29.7761096954,GPS,-16.67167,29.7761096954,True,True
+98167,Zimbabwe,Mashonaland West,Negande Clinic,Clinic,MoH,-17.19278,28.241109848,GPS,-17.19278,28.241109848,True,True
+98168,Zimbabwe,Mashonaland West,Ngezi Rural Hospital,Rural Hospital,MoH,-18.65417,30.6324996948,GPS,-18.65417,30.6324996948,True,True
+98169,Zimbabwe,Mashonaland West,Norton Selous Rural Hospital,Rural Hospital,Local authority,-17.8833,30.7,Geonames,-17.8833,30.7,True,True
+98170,Zimbabwe,Mashonaland West,Nyabango Rural Health Clinic,Rural Health Clinic,MoH,-17.85306,29.5272197723,GPS,-17.85306,29.5272197723,True,True
+98171,Zimbabwe,Mashonaland West,Nyabira Clinic,Clinic,Local authority,-17.6667,30.8,Geonames,-17.6667,30.8,True,True
+98172,Zimbabwe,Mashonaland West,Nyama Rural Health Clinic,Rural Health Clinic,Local authority,-16.40694,29.7672195435,GPS,-16.40694,29.7672195435,True,True
+98173,Zimbabwe,Mashonaland West,Nyamakate Clinic,Clinic,Local authority,-16.3552,29.4542,Geonames,-16.3552,29.4542,True,True
+98174,Zimbabwe,Mashonaland West,Nyamatani Rural Health Clinic,Rural Health Clinic,MoH,-18.19917,29.5347194672,GPS,-18.19917,29.5347194672,True,True
+98175,Zimbabwe,Mashonaland West,Nyamhunga Clinic,Clinic,Local authority,-16.8333,29.7666,GPS,-16.8333,29.7666,True,True
+98176,Zimbabwe,Mashonaland West,Nyamugomba Clinic,Clinic,MoH,-17.327,30.1422,GPS,-17.327,30.1422,True,True
+98177,Zimbabwe,Mashonaland West,Nyangoma Clinic,Clinic,Local authority,-16.86639,29.9266700745,GPS,-16.86639,29.9266700745,True,True
+98178,Zimbabwe,Mashonaland West,Nyaunde Clinic,Clinic,MoH,-17.732,29.435,GPS,-17.732,29.435,True,True
+98179,Zimbabwe,Mashonaland West,Obva Clinic,Clinic,Local authority,-17.53444,29.5063896179,GPS,-17.53444,29.5063896179,True,True
+98180,Zimbabwe,Mashonaland West,Ordof Clinic,Clinic,Local authority,-18.2741,29.8632,Geonames,-18.2741,29.8632,True,True
+98181,Zimbabwe,Mashonaland West,Patchway Clinic,Clinic,Local authority,-18.2333,29.8,Geonames,-18.2333,29.8,True,True
+98182,Zimbabwe,Mashonaland West,Pfupajena Rural Health Clinic,Rural Health Clinic,Local authority,-18.12444,30.1358299255,GPS,-18.12444,30.1358299255,True,True
+98183,Zimbabwe,Mashonaland West,Raffingora Rural Hospital,Rural Hospital,MoH,-17.03694,30.4305591583,GPS,-17.03694,30.4305591583,True,True
+98184,Zimbabwe,Mashonaland West,Rimuka Clinic,Clinic,Local authority,-18.35,29.8833,Geonames,-18.35,29.8833,True,True
+98185,Zimbabwe,Mashonaland West,River Ranch Clinic,Clinic,MoH,-16.99737,29.99041,GPS,-16.99737,29.99041,True,True
+98186,Zimbabwe,Mashonaland West,Runene Clinic,Clinic,Local authority,-16.889,30.1618,GPS,-16.889,30.1618,True,True
+98187,Zimbabwe,Mashonaland West,Rwizi Clinic,Clinic,Local authority,-18.44833,30.6305599213,GPS,-18.44833,30.6305599213,True,True
+98188,Zimbabwe,Mashonaland West,Sandringham Clinic,Clinic,Local authority,-18.08361,30.6616706848,GPS,-18.08361,30.6616706848,True,True
+98189,Zimbabwe,Mashonaland West,Sanyati Clinic,Clinic,Local authority,-17.95,29.3,GPS,-17.95,29.3,True,True
+98190,Zimbabwe,Mashonaland West,Sanyati Rural Hospital,Rural Hospital,FBO,-18.0131,29.2907,GPS,-18.0131,29.2907,True,True
+98191,Zimbabwe,Mashonaland West,Selous Clinic,Clinic,Local authority,-18.06861,30.4486103058,GPS,-18.06861,30.4486103058,True,True
+98192,Zimbabwe,Mashonaland West,Shackelton Clinic,Clinic,Local authority,-17.1734,29.9771,GPS,-17.1734,29.9771,True,True
+98193,Zimbabwe,Mashonaland West,Siakobvu Rural Hospital,Rural Hospital,MoH,-17.13111,28.3641700745,GPS,-17.13111,28.3641700745,True,True
+98194,Zimbabwe,Mashonaland West,St Michaels Rural Hospital,Rural Hospital,FBO,-18.5597,30.6847,Geonames,-18.5597,30.6847,True,True
+98195,Zimbabwe,Mashonaland West,Tengwe Clinic,Clinic,Local authority,-17.1667,29.45,Geonames,-17.1667,29.45,True,True
+98196,Zimbabwe,Mashonaland West,Trelawney Clinic,Clinic,Local authority,-17.54139,30.4588909149,GPS,-17.54139,30.4588909149,True,True
+98197,Zimbabwe,Mashonaland West,Turf Estate Clinic,Clinic,Local authority,-18.678,30.277,GPS,-18.678,30.277,True,True
+98198,Zimbabwe,Mashonaland West,Twintops Clinic,Clinic,Local authority,-18.3963,29.9525,Geonames,-18.3963,29.9525,True,True
+98199,Zimbabwe,Mashonaland West,Umboe Clinic,Clinic,Local authority,-17.0475,30.1833305359,GPS,-17.0475,30.1833305359,True,True
+98200,Zimbabwe,Mashonaland West,Vere Clinic,Clinic,MoH,-18.0896,29.8451,GPS,-18.0896,29.8451,True,True
+98201,Zimbabwe,Mashonaland West,Warverly Clinic,Clinic,Local authority,-18.7814,30.5356,Geonames,-18.7814,30.5356,True,True
+98202,Zimbabwe,Mashonaland West,Watyoka Clinic,Clinic,Local authority,-18.32444,30.6863899231,GPS,-18.32444,30.6863899231,True,True
+98203,Zimbabwe,Mashonaland West,Zebra Downs Clinic,Clinic,MoH,-16.85,29.8333,Geonames,-16.85,29.8333,True,True
+98204,Zimbabwe,Mashonaland West,Ziam Clinic,Clinic,MoH,-17.6476,30.4891,GPS,-17.6476,30.4891,True,True
+98205,Zimbabwe,Mashonaland West,Zowa Clinic,Clinic,Local authority,-17.805,30.0497207642,GPS,-17.805,30.0497207642,True,True
+98206,Zimbabwe,Mashonaland West,Zumbara Rural Health Clinic,Rural Health Clinic,MoH,-17.67361,29.8813896179,GPS,-17.67361,29.8813896179,True,True
+98207,Zimbabwe,Mashonaland West,Zvimba Rural Hospital,Rural Hospital,MoH,-17.69917,30.198890686,GPS,-17.69917,30.198890686,True,True
+98208,Zimbabwe,Mashonaland West,Zvipani Rural Health Clinic,Rural Health Clinic,MoH,-16.98306,29.2102794647,GPS,-16.98306,29.2102794647,True,True
+98209,Zimbabwe,Mashonaland East,Dewe Clinic,Clinic,Local authority,,,,,,False,False
+98210,Zimbabwe,Mashonaland East,Epworth Clinic,Clinic,FBO,,,,,,False,False
+98211,Zimbabwe,Mashonaland East,Port Health Clinic,Clinic,MoH,,,,,,False,False
+98212,Zimbabwe,Mashonaland West,Dzivarasekwa Extension Clinic,Clinic,Local authority,,,,,,False,False
+98213,Zimbabwe,Mashonaland West,Helwin Clinic,Clinic,Local authority,,,,,,False,False
+98214,Zimbabwe,Mashonaland West,Mahombekombe Clinic,Clinic,Local authority,-16.52611,28.7580604553,GPS,-16.52611,28.7580604553,True,True
+98215,Zimbabwe,Mashonaland West,Tobacco Research B Clinic,Clinic,Local authority,,,,,,False,False
+98216,Zimbabwe,Mashonaland West,ZPS Clinic,Clinic,MoH,,,,,,False,False
+98217,Zimbabwe,Masvingo,Alvord Clinic,Clinic,MoH,-20.0793,30.8189,GPS,-20.0793,30.8189,True,True
+98218,Zimbabwe,Masvingo,Bere Clinic,Clinic,Local authority,-20.0337,30.47186089,GPS,-20.0337,30.47186089,True,True
+98219,Zimbabwe,Masvingo,Berejena Clinic,Clinic,FBO,-20.63389,30.5896091461,GPS,-20.63389,30.5896091461,True,True
+98220,Zimbabwe,Masvingo,Bikita Rural Hospital,Rural Hospital,MoH,-20.06703,31.606470108,GPS,-20.06703,31.606470108,True,True
+98221,Zimbabwe,Masvingo,Bondolfi Clinic,Clinic,FBO,-20.28386,30.7505607605,GPS,-20.28386,30.7505607605,True,True
+98222,Zimbabwe,Masvingo,Bota Rural Health Clinic,Rural Health Clinic,Local authority,-20.62272,31.4073104858,GPS,-20.62272,31.4073104858,True,True
+98223,Zimbabwe,Masvingo,Boterere Clinic,Clinic,Local authority,-21.23095,30.26423,GPS,-21.23095,30.26423,True,True
+98224,Zimbabwe,Masvingo,Bvukururu Rural Health Clinic,Rural Health Clinic,Local authority,-20.10544,31.4387207031,GPS,-20.10544,31.4387207031,True,True
+98225,Zimbabwe,Masvingo,Chambuta Rural Health Clinic,Rural Health Clinic,MoH,-21.25369,31.804889679,GPS,-21.25369,31.804889679,True,True
+98226,Zimbabwe,Masvingo,Charumbira Rural Health Clinic,Rural Health Clinic,Local authority,-20.29011,30.8563899994,GPS,-20.29011,30.8563899994,True,True
+98227,Zimbabwe,Masvingo,Chatikobo Clinic,Clinic,Local authority,-20.43461,31.1541404724,GPS,-20.43461,31.1541404724,True,True
+98228,Zimbabwe,Masvingo,Cheshuro Rural Health Clinic,Rural Health Clinic,Local authority,-19.6455,31.1462,GPS,-19.6455,31.1462,True,True
+98229,Zimbabwe,Masvingo,Chibwedziva Clinic,Clinic,Local authority,-21.3452,31.778,GPS,-21.3452,31.778,True,True
+98230,Zimbabwe,Masvingo,Chifedza Rural Health Clinic,Rural Health Clinic,Local authority,-20.45081,30.5581092834,GPS,-20.45081,30.5581092834,True,True
+98231,Zimbabwe,Masvingo,Chigwikwi Rural Health Clinic,Rural Health Clinic,MoH,-20.15394,30.2004699707,GPS,-20.15394,30.2004699707,True,True
+98232,Zimbabwe,Masvingo,Chikombedzi Rural Hospital,Rural Hospital,FBO,-21.67494,31.3393096924,GPS,-21.67494,31.3393096924,True,True
+98233,Zimbabwe,Masvingo,Chikuku Rural Health Clinic,Rural Health Clinic,MoH,-20.0005,31.868560791,GPS,-20.0005,31.868560791,True,True
+98234,Zimbabwe,Masvingo,Chilonga Rural Health Clinic,Rural Health Clinic,MoH,-21.22336,31.6558609009,GPS,-21.22336,31.6558609009,True,True
+98235,Zimbabwe,Masvingo,Chimbudzi Rural Health Clinic,Rural Health Clinic,MoH,-20.8824,30.5076,GPS,-20.8824,30.5076,True,True
+98236,Zimbabwe,Masvingo,Chimombe Rural Health Clinic,Rural Health Clinic,MoH,-19.67189,31.6061401367,GPS,-19.67189,31.6061401367,True,True
+98237,Zimbabwe,Masvingo,Chingele Clinic,Clinic,FBO,-21.41761,31.6189403534,GPS,-21.41761,31.6189403534,True,True
+98238,Zimbabwe,Masvingo,Chinyabako Clinic,Clinic,Local authority,-20.30689,31.5558300018,GPS,-20.30689,31.5558300018,True,True
+98239,Zimbabwe,Masvingo,Chinyika Rural Hospital,Rural Hospital,MoH,-19.6673,31.5452,GPS,-19.6673,31.5452,True,True
+98240,Zimbabwe,Masvingo,Chipinda Rural Health Clinic,Rural Health Clinic,MoH,-20.06892,31.340719223,GPS,-20.06892,31.340719223,True,True
+98241,Zimbabwe,Masvingo,Chipiwa Clinic,Clinic,Local authority,-20.836,31.7912807465,GPS,-20.836,31.7912807465,True,True
+98242,Zimbabwe,Masvingo,Chiredzana Clinic,Clinic,Local authority,-20.56889,31.6708908081,GPS,-20.56889,31.6708908081,True,True
+98243,Zimbabwe,Masvingo,Chiredzi District Hospital,District Hospital,MoH,-21.036,31.6732196808,GPS,-21.036,31.6732196808,True,True
+98244,Zimbabwe,Masvingo,Chirindi Rural Health Clinic,Rural Health Clinic,MoH,-21.11611,30.1800003052,GPS,-21.11611,30.1800003052,True,True
+98245,Zimbabwe,Masvingo,Chirorwe Clinic,Clinic,MoH,-19.88528,31.9180297852,GPS,-19.88528,31.9180297852,True,True
+98246,Zimbabwe,Masvingo,Chitando Rural Hospital,Rural Hospital,MoH,-19.90722,31.202419281,GPS,-19.90722,31.202419281,True,True
+98247,Zimbabwe,Masvingo,Chitasa Clinic,Clinic,Local authority,-20.20817,31.8545303345,GPS,-20.20817,31.8545303345,True,True
+98248,Zimbabwe,Masvingo,Chitsa Clinic,Clinic,Local authority,-21.1333,32.1167,GPS,-21.1333,32.1167,True,True
+98249,Zimbabwe,Masvingo,Chitsa Rural Health Clinic,Rural Health Clinic,Local authority,-19.5197,31.5388,GPS,-19.5197,31.5388,True,True
+98250,Zimbabwe,Masvingo,Chivi Clinic,Clinic,FBO,-20.3368,30.5603,GPS,-20.3368,30.5603,True,True
+98251,Zimbabwe,Masvingo,Chivi District Hospital,District Hospital,MoH,-20.3073,30.5102,GPS,-20.3073,30.5102,True,True
+98252,Zimbabwe,Masvingo,Chivi Rural Hospital,Rural Hospital,MoH,-20.5654,30.5463,GPS,-20.5654,30.5463,True,True
+98253,Zimbabwe,Masvingo,Chiwore Rural Health Clinic,Rural Health Clinic,Local authority,-19.63397,30.8393096924,GPS,-19.63397,30.8393096924,True,True
+98254,Zimbabwe,Masvingo,Chizumba Rural Health Clinic,Rural Health Clinic,MoH,-21.13972,30.5725002289,GPS,-21.13972,30.5725002289,True,True
+98255,Zimbabwe,Masvingo,Chizvirizvi Rural Health Clinic,Rural Health Clinic,MoH,-20.98369,32.0193901062,GPS,-20.98369,32.0193901062,True,True
+98256,Zimbabwe,Masvingo,Damarakanaka Clinic,Clinic,FBO,-21.33969,31.4732494354,GPS,-21.33969,31.4732494354,True,True
+98257,Zimbabwe,Masvingo,Davata Rural Health Clinic,Rural Health Clinic,MoH,-22.26981,31.233499527,GPS,-22.26981,31.233499527,True,True
+98258,Zimbabwe,Masvingo,Davira Rural Health Clinic,Rural Health Clinic,Local authority,-20.47203,30.4356403351,GPS,-20.47203,30.4356403351,True,True
+98259,Zimbabwe,Masvingo,Denhere Rural Health Clinic,Rural Health Clinic,Local authority,-19.2617,31.1873,GPS,-19.2617,31.1873,True,True
+98260,Zimbabwe,Masvingo,Dewure I Rural Health Clinic,Rural Health Clinic,MoH,-20.0,32.3333,GPS,-20.0,32.3333,True,True
+98261,Zimbabwe,Masvingo,Dewure II Rural Health Clinic,Rural Health Clinic,MoH,-20.002,32.3322,GPS,-20.002,32.3322,True,True
+98262,Zimbabwe,Masvingo,Dewure Rural Health Clinic,Rural Health Clinic,Local authority,-19.7501,31.2626,Geonames,-19.7501,31.2626,True,True
+98263,Zimbabwe,Masvingo,Dunisa Clinic,Clinic,Local authority,-21.0209,31.4571,GPS,-21.0209,31.4571,True,True
+98264,Zimbabwe,Masvingo,Fube Clinic,Clinic,Local authority,-20.3341,31.6772,Geonames,-20.3341,31.6772,True,True
+98265,Zimbabwe,Masvingo,Gangare Clinic,Clinic,Local authority,-19.9153,31.81698,GPS,-19.9153,31.81698,True,True
+98266,Zimbabwe,Masvingo,Gava Clinic,Clinic,Local authority,-20.53792,31.80962,GPS,-20.53792,31.80962,True,True
+98267,Zimbabwe,Masvingo,Gezani Rural Health Clinic,Rural Health Clinic,MoH,-22.10286,31.1555309296,GPS,-22.10286,31.1555309296,True,True
+98268,Zimbabwe,Masvingo,Gundura Clinic,Clinic,Local authority,-19.8731,30.52416992,GPS,-19.8731,30.52416992,True,True
+98269,Zimbabwe,Masvingo,Gurajena Rural Hospital,Rural Hospital,MoH,-19.77056,30.9031391144,GPS,-19.77056,30.9031391144,True,True
+98270,Zimbabwe,Masvingo,Gutu Rural Hospital,Rural Hospital,MoH,-19.5532,31.1622,GPS,-19.5532,31.1622,True,True
+98271,Zimbabwe,Masvingo,Guwa Clinic,Clinic,Local authority,-20.62497,31.0547504425,GPS,-20.62497,31.0547504425,True,True
+98272,Zimbabwe,Masvingo,Harava Rural Health Clinic,Rural Health Clinic,MoH,-20.40028,31.27368927,GPS,-20.40028,31.27368927,True,True
+98273,Zimbabwe,Masvingo,Hozvi Clinic,Clinic,Local authority,-20.05172,31.5372505188,GPS,-20.05172,31.5372505188,True,True
+98274,Zimbabwe,Masvingo,Jerera Clinic,Clinic,Local authority,-20.42467,31.4513893127,GPS,-20.42467,31.4513893127,True,True
+98275,Zimbabwe,Masvingo,Jichidza Clinic,Clinic,Local authority,-20.2667,31.2401,GPS,-20.2667,31.2401,True,True
+98276,Zimbabwe,Masvingo,Lundi Clinic,Clinic,FBO,-20.9,30.7833,GPS,-20.9,30.7833,True,True
+98277,Zimbabwe,Masvingo,Mageza Clinic,Clinic,Local authority,-20.3274,31.16789,GPS,-20.3274,31.16789,True,True
+98278,Zimbabwe,Masvingo,Magombedze Rural Health Clinic,Rural Health Clinic,Local authority,-19.75803,31.3502197266,GPS,-19.75803,31.3502197266,True,True
+98279,Zimbabwe,Masvingo,Majada Rural Health Clinic,Rural Health Clinic,MoH,-19.8418,31.3922,Geonames,-19.8418,31.3922,True,True
+98280,Zimbabwe,Masvingo,Makande Clinic,Clinic,Local authority,-21.45,31.3666,GPS,-21.45,31.3666,True,True
+98281,Zimbabwe,Masvingo,Malipati Rural Health Clinic,Rural Health Clinic,MoH,-22.07142,31.4201908112,GPS,-22.07142,31.4201908112,True,True
+98282,Zimbabwe,Masvingo,Mapanzure Clinic,Clinic,Local authority,-20.4051,30.8651,GPS,-20.4051,30.8651,True,True
+98283,Zimbabwe,Masvingo,Maranda Clinic,Clinic,MoH,-21.1543,30.2508,GPS,-21.1543,30.2508,True,True
+98284,Zimbabwe,Masvingo,Maranda Rural Hospital,Rural Hospital,FBO,-21.1458,30.31583023,GPS,-21.1458,30.31583023,True,True
+98285,Zimbabwe,Masvingo,Marozva Rural Health Clinic,Rural Health Clinic,Local authority,-20.00053,31.5209999084,GPS,-20.00053,31.5209999084,True,True
+98286,Zimbabwe,Masvingo,Mashoko Rural Hospital,Rural Hospital,FBO,-20.50519,31.750579834,GPS,-20.50519,31.750579834,True,True
+98287,Zimbabwe,Masvingo,Masvingo Provincial Hospital,Provincial Hospital,MoH,-20.07272,30.8391399384,GPS,-20.07272,30.8391399384,True,True
+98288,Zimbabwe,Masvingo,Masvingo Teachers Clinic,Clinic,MoH,-20.044,30.821,GPS,-20.044,30.821,True,True
+98289,Zimbabwe,Masvingo,Masvingo Tech Clinic,Clinic,MoH,-20.073,30.827,GPS,-20.073,30.827,True,True
+98290,Zimbabwe,Masvingo,Matizha Rural Health Clinic,Rural Health Clinic,MoH,-19.47356,30.96875,GPS,-19.47356,30.96875,True,True
+98291,Zimbabwe,Masvingo,Mazetese Clinic,Clinic,Local authority,-21.04639,30.3052806854,GPS,-21.04639,30.3052806854,True,True
+98292,Zimbabwe,Masvingo,Mazuru Rural Health Clinic,Rural Health Clinic,Local authority,-19.5916,31.6491,Geonames,-19.5916,31.6491,True,True
+98293,Zimbabwe,Masvingo,Mhandamabwe Rural Health Clinic,Rural Health Clinic,MoH,-20.11747,30.3716106415,GPS,-20.11747,30.3716106415,True,True
+98294,Zimbabwe,Masvingo,Mhlanguleni Rural Health Clinic,Rural Health Clinic,MoH,-21.5,31.4667,Geonames,-21.5,31.4667,True,True
+98295,Zimbabwe,Masvingo,Mkanga Rural Health Clinic,Rural Health Clinic,MoH,-20.43703,31.7211399078,GPS,-20.43703,31.7211399078,True,True
+98296,Zimbabwe,Masvingo,Mlelezi Clinic,Clinic,Local authority,-21.4012,30.0498,Geonames,-21.4012,30.0498,True,True
+98297,Zimbabwe,Masvingo,Morgenister District Hospital,District Hospital,FBO,-20.3072,30.9312,Geonames,-20.3072,30.9312,True,True
+98298,Zimbabwe,Masvingo,Mucheke Clinic,Clinic,Local authority,-20.08344,30.819360733,GPS,-20.08344,30.819360733,True,True
+98299,Zimbabwe,Masvingo,Mukaro Clinic,Clinic,FBO,-19.75686,31.1578903198,GPS,-19.75686,31.1578903198,True,True
+98300,Zimbabwe,Masvingo,Mukore Rural Health Clinic,Rural Health Clinic,MoH,-20.14081,31.84224,GPS,-20.14081,31.84224,True,True
+98301,Zimbabwe,Masvingo,Mukosi Clinic,Clinic,MoH,-20.53867,30.8897800446,GPS,-20.53867,30.8897800446,True,True
+98302,Zimbabwe,Masvingo,Mungezi Rural Health Clinic,Rural Health Clinic,Local authority,-19.91393,31.52096,GPS,-19.91393,31.52096,True,True
+98303,Zimbabwe,Masvingo,Munyikwa Rural Health Clinic,Rural Health Clinic,Local authority,-19.72236,31.8052196503,GPS,-19.72236,31.8052196503,True,True
+98304,Zimbabwe,Masvingo,Murinye Clinic,Clinic,Local authority,-20.37325,31.0537796021,GPS,-20.37325,31.0537796021,True,True
+98305,Zimbabwe,Masvingo,Murove Clinic,Clinic,Local authority,-21.05917,30.4244403839,GPS,-21.05917,30.4244403839,True,True
+98306,Zimbabwe,Masvingo,Mushandike Clinic,Clinic,MoH,-20.20614,30.7186393738,GPS,-20.20614,30.7186393738,True,True
+98307,Zimbabwe,Masvingo,Mushava Clinic,Clinic,Local authority,-21.07639,30.5838909149,GPS,-21.07639,30.5838909149,True,True
+98308,Zimbabwe,Masvingo,Mushaviri Rural Health Clinic,Rural Health Clinic,MoH,-19.72333,31.1009197235,GPS,-19.72333,31.1009197235,True,True
+98309,Zimbabwe,Masvingo,Mushaya Clinic,Clinic,Local authority,-20.60228,31.2859706879,GPS,-20.60228,31.2859706879,True,True
+98310,Zimbabwe,Masvingo,Musiso Rural Hospital,Rural Hospital,FBO,-20.43994,31.4399394989,GPS,-20.43994,31.4399394989,True,True
+98311,Zimbabwe,Masvingo,Musvosvi Clinic,Clinic,MoH,-20.7027,31.0721,Geonames,-20.7027,31.0721,True,True
+98312,Zimbabwe,Masvingo,Mutema Rural Health Clinic,Rural Health Clinic,MoH,-19.8819,30.9885,GPS,-19.8819,30.9885,True,True
+98313,Zimbabwe,Masvingo,Mutero Clinic,Clinic,FBO,-19.63433,31.4380302429,GPS,-19.63433,31.4380302429,True,True
+98314,Zimbabwe,Masvingo,Muteyo Rural Health Clinic,Rural Health Clinic,MoH,-20.93611,32.1204414368,GPS,-20.93611,32.1204414368,True,True
+98315,Zimbabwe,Masvingo,Mutikizizi Clinic,Clinic,Local authority,-20.20992,31.71084,GPS,-20.20992,31.71084,True,True
+98316,Zimbabwe,Masvingo,Mutimurefu Clinic,Clinic,MoH,,,,,,False,False
+98317,Zimbabwe,Masvingo,Mwenezi Clinic,Clinic,Local authority,-21.41417,30.7000007629,GPS,-21.41417,30.7000007629,True,True
+98318,Zimbabwe,Masvingo,Ndanga Clinic,Clinic,Local authority,-20.4068,31.3404,GPS,-20.4068,31.3404,True,True
+98319,Zimbabwe,Masvingo,Ndanga District Hospital,District Hospital,MoH,-20.1773,31.325,GPS,-20.1773,31.325,True,True
+98320,Zimbabwe,Masvingo,Negovano Rural Health Clinic,Rural Health Clinic,Local authority,-20.12917,31.72709,GPS,-20.12917,31.72709,True,True
+98321,Zimbabwe,Masvingo,Nehanda Clinic,Clinic,MoH,-20.82833,30.6027793884,GPS,-20.82833,30.6027793884,True,True
+98322,Zimbabwe,Masvingo,Nemamwa Rural Health Clinic,Rural Health Clinic,MoH,-20.3,30.8666,GPS,-20.3,30.8666,True,True
+98323,Zimbabwe,Masvingo,Nemashakwe Clinic,Clinic,Local authority,-19.83439,31.6840591431,GPS,-19.83439,31.6840591431,True,True
+98324,Zimbabwe,Masvingo,Nemauku Rural Health Clinic,Rural Health Clinic,MoH,-20.2775,31.3627,Geonames,-20.2775,31.3627,True,True
+98325,Zimbabwe,Masvingo,Neshuro District Hospital,District Hospital,MoH,-20.94083,30.6466693878,GPS,-20.94083,30.6466693878,True,True
+98326,Zimbabwe,Masvingo,Ngundu Rural Health Clinic,Rural Health Clinic,MoH,-20.80253,30.8026409149,GPS,-20.80253,30.8026409149,True,True
+98327,Zimbabwe,Masvingo,Nhema Clinic,Clinic,Local authority,-20.2539,31.5899,GPS,-20.2539,31.5899,True,True
+98328,Zimbabwe,Masvingo,Nyahombe Rural Health Clinic,Rural Health Clinic,MoH,-20.82406,30.9888896942,GPS,-20.82406,30.9888896942,True,True
+98329,Zimbabwe,Masvingo,Nyajena Rural Hospital,Rural Hospital,MoH,-20.60147,31.1673297882,GPS,-20.60147,31.1673297882,True,True
+98330,Zimbabwe,Masvingo,Nyakunhuwa Clinic,Clinic,Local authority,-20.3693,31.2269,Geonames,-20.3693,31.2269,True,True
+98331,Zimbabwe,Masvingo,Nyangambe Rural Health Clinic,Rural Health Clinic,MoH,-20.68347,31.7523097992,GPS,-20.68347,31.7523097992,True,True
+98332,Zimbabwe,Masvingo,Nyazvidzi Rural Health Clinic,Rural Health Clinic,Local authority,-19.40494,31.3673591614,GPS,-19.40494,31.3673591614,True,True
+98333,Zimbabwe,Masvingo,Nyika Rural Health Clinic,Rural Health Clinic,MoH,-20.00586,31.5888595581,GPS,-20.00586,31.5888595581,True,True
+98334,Zimbabwe,Masvingo,Nyikavanhu Rural Health Clinic,Rural Health Clinic,MoH,-20.8442,31.2223,GPS,-20.8442,31.2223,True,True
+98335,Zimbabwe,Masvingo,Odzi Rural Health Clinic,Rural Health Clinic,Local authority,-20.4186,31.8836,GPS,-20.4186,31.8836,True,True
+98336,Zimbabwe,Masvingo,Old Boli Rural Health Clinic,Rural Health Clinic,MoH,-21.42189,31.4508895874,GPS,-21.42189,31.4508895874,True,True
+98337,Zimbabwe,Masvingo,Pore-pore Clinic,Clinic,Local authority,-21.0221,31.4461,GPS,-21.0221,31.4461,True,True
+98338,Zimbabwe,Masvingo,Razi Rural Health Clinic,Rural Health Clinic,MoH,-20.71986,30.6542205811,GPS,-20.71986,30.6542205811,True,True
+98339,Zimbabwe,Masvingo,Rujeko Clinic,Clinic,Local authority,-20.08433,30.837469101,GPS,-20.08433,30.837469101,True,True
+98340,Zimbabwe,Masvingo,Rukowo Clinic,Clinic,Local authority,-20.5166,30.75,GPS,-20.5166,30.75,True,True
+98341,Zimbabwe,Masvingo,Runyararo Clinic,Clinic,Local authority,-20.10292,30.8233604431,GPS,-20.10292,30.8233604431,True,True
+98342,Zimbabwe,Masvingo,Rupangwana Clinic,Clinic,Local authority,-20.7634,31.8851,Geonames,-20.7634,31.8851,True,True
+98343,Zimbabwe,Masvingo,Rutandare Clinic,Clinic,Local authority,-22.10658,31.3044395447,GPS,-22.10658,31.3044395447,True,True
+98344,Zimbabwe,Masvingo,Rutenga Clinic,Clinic,MoH,-21.23778,30.7294406891,GPS,-21.23778,30.7294406891,True,True
+98345,Zimbabwe,Masvingo,Samu Rural Health Clinic,Rural Health Clinic,MoH,-22.23522,31.3744392395,GPS,-22.23522,31.3744392395,True,True
+98346,Zimbabwe,Masvingo,Serima Clinic,Clinic,FBO,-19.51861,30.8836898804,GPS,-19.51861,30.8836898804,True,True
+98347,Zimbabwe,Masvingo,Shindi Rural Health Clinic,Rural Health Clinic,Local authority,-20.87186,30.8503608704,GPS,-20.87186,30.8503608704,True,True
+98348,Zimbabwe,Masvingo,Shonganiso Clinic,Clinic,FBO,-20.43675,31.0854701996,GPS,-20.43675,31.0854701996,True,True
+98349,Zimbabwe,Masvingo,Silveira Rural Hospital,Rural Hospital,FBO,-20.02347,31.6867809296,GPS,-20.02347,31.6867809296,True,True
+98350,Zimbabwe,Masvingo,Siyawareva Clinic,Clinic,Local authority,-20.43864,31.4861907959,GPS,-20.43864,31.4861907959,True,True
+98351,Zimbabwe,Masvingo,Soli Source Clinic,Clinic,MoH,-19.4687,31.2222,Geonames,-19.4687,31.2222,True,True
+98352,Zimbabwe,Masvingo,St Joseph Clinic,Clinic,FBO,-20.82314,32.1207809448,GPS,-20.82314,32.1207809448,True,True
+98353,Zimbabwe,Masvingo,St. Jospeth Clinic,Clinic,Local authority,-20.818,32.12,GPS,-20.818,32.12,True,True
+98354,Zimbabwe,Masvingo,Stanmore Clinic,Clinic,MoH,-20.0236,31.0277,GPS,-20.0236,31.0277,True,True
+98355,Zimbabwe,Masvingo,Summerton Rural Health Clinic,Rural Health Clinic,MoH,-19.97103,30.7031898499,GPS,-19.97103,30.7031898499,True,True
+98356,Zimbabwe,Masvingo,Svuure Rural Health Clinic,Rural Health Clinic,MoH,-20.5568,31.5446,Geonames,-20.5568,31.5446,True,True
+98357,Zimbabwe,Masvingo,Takavarasha Rural Health Clinic,Rural Health Clinic,MoH,-20.33397,30.3073101044,GPS,-20.33397,30.3073101044,True,True
+98358,Zimbabwe,Masvingo,Tirizi Clinic,Clinic,Local authority,-19.75394,31.4502792358,GPS,-19.75394,31.4502792358,True,True
+98359,Zimbabwe,Masvingo,Utete Clinic,Clinic,Local authority,-20.03928,30.2065792084,GPS,-20.03928,30.2065792084,True,True
+98360,Zimbabwe,Masvingo,Veza Clinic,Clinic,Local authority,-20.38519,31.3171100616,GPS,-20.38519,31.3171100616,True,True
+98361,Zimbabwe,Masvingo,Vuranda Rural Health Clinic,Rural Health Clinic,Local authority,-20.0436,30.251,GPS,-20.0436,30.251,True,True
+98362,Zimbabwe,Masvingo,Zano Clinic,Clinic,Local authority,-20.2025,31.1218891144,GPS,-20.2025,31.1218891144,True,True
+98363,Zimbabwe,Masvingo,Zibwowa Rural Health Clinic,Rural Health Clinic,MoH,-20.45111,31.5537204742,GPS,-20.45111,31.5537204742,True,True
+98364,Zimbabwe,Masvingo,Zimuti BC Clinic,Clinic,Local authority,-19.8555,30.8586,Geonames,-19.8555,30.8586,True,True
+98365,Zimbabwe,Masvingo,Zimuto Clinic,Clinic,FBO,-20.06789,30.8543300629,GPS,-20.06789,30.8543300629,True,True
+98366,Zimbabwe,Masvingo,Zinhata Clinic,Clinic,Local authority,-19.81789,31.5864696503,GPS,-19.81789,31.5864696503,True,True
+98367,Zimbabwe,Masvingo,Zvavahera Rural Health Clinic,Rural Health Clinic,MoH,-19.57472,31.3556098938,GPS,-19.57472,31.3556098938,True,True
+98368,Zimbabwe,Matabeleland North,Balanda Rural Health Clinic,Rural Health Clinic,Local authority,-19.493033,28.58072,GPS,-19.493033,28.58072,True,True
+98369,Zimbabwe,Matabeleland North,Binga District Hospital,District Hospital,MoH,-17.63944,27.326669693,GPS,-17.63944,27.326669693,True,True
+98370,Zimbabwe,Matabeleland North,Bubude Rural Health Clinic,Rural Health Clinic,Local authority,-20.1,27.8119392395,GPS,-20.1,27.8119392395,True,True
+98371,Zimbabwe,Matabeleland North,Casyman (Turk) Rural Health Clinic,Rural Health Clinic,MoH,-17.1153,27.9937,GPS,-17.1153,27.9937,True,True
+98372,Zimbabwe,Matabeleland North,Chinengo Rural Health Clinic,Rural Health Clinic,MoH,-17.19472,28.0750007629,GPS,-17.19472,28.0750007629,True,True
+98373,Zimbabwe,Matabeleland North,Chinotimba Clinic,Clinic,Local authority,-17.94528,25.8258304596,GPS,-17.94528,25.8258304596,True,True
+98374,Zimbabwe,Matabeleland North,Chisuma Rural Health Clinic,Rural Health Clinic,MoH,-18.017,25.962,GPS,-18.017,25.962,True,True
+98375,Zimbabwe,Matabeleland North,Chunga Rural Health Clinic,Rural Health Clinic,MoH,-17.1465,28.1034,Geonames,-17.1465,28.1034,True,True
+98376,Zimbabwe,Matabeleland North,Dakamela Rural Hospital,Rural Hospital,MoH,-18.79722,28.6666698456,GPS,-18.79722,28.6666698456,True,True
+98377,Zimbabwe,Matabeleland North,Dandanda Rural Health Clinic,Rural Health Clinic,MoH,-18.44889,27.8691692352,GPS,-18.44889,27.8691692352,True,True
+98378,Zimbabwe,Matabeleland North,Dete Clinic,Clinic,Local authority,-18.6167,26.8667,GPS,-18.6167,26.8667,True,True
+98379,Zimbabwe,Matabeleland North,Dinde Clinic,Clinic,Local authority,-18.38,26.7374992371,GPS,-18.38,26.7374992371,True,True
+98380,Zimbabwe,Matabeleland North,Dlamini Rural Health Clinic,Rural Health Clinic,Local authority,-19.4938,27.399,Geonames,-19.4938,27.399,True,True
+98381,Zimbabwe,Matabeleland North,Empumalanga Clinic,Clinic,Local authority,-18.34972,26.5008296967,GPS,-18.34972,26.5008296967,True,True
+98382,Zimbabwe,Matabeleland North,Fanisoni Rural Health Clinic,Rural Health Clinic,Local authority,-18.633,28.8549,GPS,-18.633,28.8549,True,True
+98383,Zimbabwe,Matabeleland North,Fatima Rural Health Clinic,Rural Health Clinic,Local authority,-18.74072,27.414,GPS,-18.74072,27.414,True,True
+98384,Zimbabwe,Matabeleland North,Fingo Clinic,Clinic,Local authority,-19.9675,28.8941707611,GPS,-19.9675,28.8941707611,True,True
+98385,Zimbabwe,Matabeleland North,Gomoza Rural Health Clinic,Rural Health Clinic,Local authority,-18.84139,28.2236099243,GPS,-18.84139,28.2236099243,True,True
+98386,Zimbabwe,Matabeleland North,Guwe Rural Health Clinic,Rural Health Clinic,Local authority,-19.21444,28.9677791595,GPS,-19.21444,28.9677791595,True,True
+98387,Zimbabwe,Matabeleland North,Gwayi Clinic,Clinic,Local authority,-18.61111,27.1863899231,GPS,-18.61111,27.1863899231,True,True
+98388,Zimbabwe,Matabeleland North,Gwelutshena Rural Health Clinic,Rural Health Clinic,MoH,-18.66306,28.7088909149,GPS,-18.66306,28.7088909149,True,True
+98389,Zimbabwe,Matabeleland North,Igusi Clinic,Clinic,MoH,-19.66111,28.0741691589,GPS,-19.66111,28.0741691589,True,True
+98390,Zimbabwe,Matabeleland North,Inyathi District Hospital,District Hospital,MoH,-19.685,28.8561096191,GPS,-19.685,28.8561096191,True,True
+98391,Zimbabwe,Matabeleland North,Jambezi Rural Health Clinic,Rural Health Clinic,MoH,-18.05222,26.2275009155,GPS,-18.05222,26.2275009155,True,True
+98392,Zimbabwe,Matabeleland North,Jimila Rural Health Clinic,Rural Health Clinic,Local authority,-19.49333,27.738609314,GPS,-19.49333,27.738609314,True,True
+98393,Zimbabwe,Matabeleland North,Jotsholo Rural Health Clinic,Rural Health Clinic,MoH,-18.73056,27.5583305359,GPS,-18.73056,27.5583305359,True,True
+98394,Zimbabwe,Matabeleland North,Kamativi Rural Health Clinic,Rural Health Clinic,FBO,-18.3242,27.0516,Geonames,-18.3242,27.0516,True,True
+98395,Zimbabwe,Matabeleland North,Kanyambizi Rural Health Clinic,Rural Health Clinic,MoH,-18.0167,26.3,Geonames,-18.0167,26.3,True,True
+98396,Zimbabwe,Matabeleland North,Kanyandavu Clinic,Clinic,MoH,-18.30444,27.9777793884,GPS,-18.30444,27.9777793884,True,True
+98397,Zimbabwe,Matabeleland North,Kapane Rural Health Clinic,Rural Health Clinic,Local authority,-19.26056,27.5174999237,GPS,-19.26056,27.5174999237,True,True
+98398,Zimbabwe,Matabeleland North,Kariangwe Rural Hospital,Rural Hospital,FBO,-17.96972,27.5349998474,GPS,-17.96972,27.5349998474,True,True
+98399,Zimbabwe,Matabeleland North,Lubimbi Rural Health Clinic,Rural Health Clinic,MoH,-18.4867,27.3043,GPS,-18.4867,27.3043,True,True
+98400,Zimbabwe,Matabeleland North,Lukala Rural Health Clinic,Rural Health Clinic,MoH,-19.26389,28.4122200012,GPS,-19.26389,28.4122200012,True,True
+98401,Zimbabwe,Matabeleland North,Lukosi Rural Hospital,Rural Hospital,MoH,-18.36056,26.6277809143,GPS,-18.36056,26.6277809143,True,True
+98402,Zimbabwe,Matabeleland North,Lukunguni Rural Hospital,Rural Hospital,FBO,-18.04444,26.2283306122,GPS,-18.04444,26.2283306122,True,True
+98403,Zimbabwe,Matabeleland North,Lupaka Rural Health Clinic,Rural Health Clinic,MoH,-18.78333,27.9036102295,GPS,-18.78333,27.9036102295,True,True
+98404,Zimbabwe,Matabeleland North,Lupane Rural Health Clinic,Rural Health Clinic,MoH,-18.93528,27.7719402313,GPS,-18.93528,27.7719402313,True,True
+98405,Zimbabwe,Matabeleland North,Lupote Clinic,Clinic,Local authority,-18.51278,26.9641704559,GPS,-18.51278,26.9641704559,True,True
+98406,Zimbabwe,Matabeleland North,Lusuli Rural Health Clinic,Rural Health Clinic,MoH,-18.0683,27.86222076,GPS,-18.0683,27.86222076,True,True
+98407,Zimbabwe,Matabeleland North,Mabale Clinic,Clinic,Local authority,-18.5606,27.138764,Geonames,-18.5606,27.138764,True,True
+98408,Zimbabwe,Matabeleland North,Madlangombe Rural Health Clinic,Rural Health Clinic,Local authority,-19.777,27.511,GPS,-19.777,27.511,True,True
+98409,Zimbabwe,Matabeleland North,Makaza Rural Health Clinic,Rural Health Clinic,MoH,-19.9333,27.65,GPS,-19.9333,27.65,True,True
+98410,Zimbabwe,Matabeleland North,Makwandara Rural Health Clinic,Rural Health Clinic,MoH,-18.31722,27.2005596161,GPS,-18.31722,27.2005596161,True,True
+98411,Zimbabwe,Matabeleland North,Mateme Rural Health Clinic,Rural Health Clinic,FBO,-18.665,28.9351,GPS,-18.665,28.9351,True,True
+98412,Zimbabwe,Matabeleland North,Mbembesi Clinic,Clinic,MoH,-19.9891,28.9267,Geonames,-19.9891,28.9267,True,True
+98413,Zimbabwe,Matabeleland North,Mbembeswana Rural Health Clinic,Rural Health Clinic,Local authority,-18.1108,27.6093,GPS,-18.1108,27.6093,True,True
+98414,Zimbabwe,Matabeleland North,Mbuma Rural Hospital,Rural Hospital,FBO,-18.94889,28.4416694641,GPS,-18.94889,28.4416694641,True,True
+98415,Zimbabwe,Matabeleland North,Mdlankunzi Clinic,Clinic,Local authority,-18.49389,27.7519397736,GPS,-18.49389,27.7519397736,True,True
+98416,Zimbabwe,Matabeleland North,Mdutshana Rural Health Clinic,Rural Health Clinic,MoH,-18.1116,27.8901,GPS,-18.1116,27.8901,True,True
+98417,Zimbabwe,Matabeleland North,Mlagisa Rural Health Clinic,Rural Health Clinic,MoH,-19.15111,27.6674995422,GPS,-19.15111,27.6674995422,True,True
+98418,Zimbabwe,Matabeleland North,Mpanedziba Rural Health Clinic,Rural Health Clinic,Local authority,-19.462,27.5731,Geonames,-19.462,27.5731,True,True
+98419,Zimbabwe,Matabeleland North,Mtshayeli Rural Health Clinic,Rural Health Clinic,MoH,-18.35889,27.0886096954,GPS,-18.35889,27.0886096954,True,True
+98420,Zimbabwe,Matabeleland North,Muchesu Rural Health Clinic,Rural Health Clinic,MoH,-17.94778,27.6891708374,GPS,-17.94778,27.6891708374,True,True
+98421,Zimbabwe,Matabeleland North,Mwemba Rural Health Clinic,Rural Health Clinic,MoH,-18.18333,26.5605602264,GPS,-18.18333,26.5605602264,True,True
+98422,Zimbabwe,Matabeleland North,Ndlovu Clinic,Clinic,Local authority,-18.10083,25.9838905334,GPS,-18.10083,25.9838905334,True,True
+98423,Zimbabwe,Matabeleland North,Nesinwe Rural Health Clinic,Rural Health Clinic,Local authority,-18.6946,28.3943,GPS,-18.6946,28.3943,True,True
+98424,Zimbabwe,Matabeleland North,Ngwaladi Rural Health Clinic,Rural Health Clinic,MoH,-18.57667,28.3797206879,GPS,-18.57667,28.3797206879,True,True
+98425,Zimbabwe,Matabeleland North,Nkayi District Hospital,District Hospital,MoH,-19.00056,28.8913898468,GPS,-19.00056,28.8913898468,True,True
+98426,Zimbabwe,Matabeleland North,Nkunzi Rural Health Clinic,Rural Health Clinic,Local authority,-20.10056,27.8886108398,GPS,-20.10056,27.8886108398,True,True
+98427,Zimbabwe,Matabeleland North,Ntabazinduna Clinic,Clinic,Local authority,-19.97944,28.8455600739,GPS,-19.97944,28.8455600739,True,True
+98428,Zimbabwe,Matabeleland North,Nyamandlovu District Hospital,District Hospital,MoH,-19.85889,28.2655601501,GPS,-19.85889,28.2655601501,True,True
+98429,Zimbabwe,Matabeleland North,Pashu Rural Health Clinic,Rural Health Clinic,Local authority,-18.20806,27.400560379,GPS,-18.20806,27.400560379,True,True
+98430,Zimbabwe,Matabeleland North,Phimula Rural Hospital,Rural Hospital,FBO,-19.5886,27.0949,Geonames,-19.5886,27.0949,True,True
+98431,Zimbabwe,Matabeleland North,Pumula Clinic,Clinic,Local authority,-19.59306,27.0913906097,GPS,-19.59306,27.0913906097,True,True
+98432,Zimbabwe,Matabeleland North,Sebhumane Rural Health Clinic,Rural Health Clinic,Local authority,-18.7035,28.4705,Geonames,-18.7035,28.4705,True,True
+98433,Zimbabwe,Matabeleland North,Sesemba Rural Health Clinic,Rural Health Clinic,Local authority,-18.9558,28.7456,Geonames,-18.9558,28.7456,True,True
+98434,Zimbabwe,Matabeleland North,Siabuwa Rural Hospital,Rural Hospital,MoH,-17.47472,28.0438899994,GPS,-17.47472,28.0438899994,True,True
+98435,Zimbabwe,Matabeleland North,Siasumbu Rural Health Clinic,Rural Health Clinic,MoH,-17.990927,27.204575,GPS,-17.990927,27.204575,True,True
+98436,Zimbabwe,Matabeleland North,Siganda Rural Health Clinic,Rural Health Clinic,Local authority,-17.6083,27.6743,Geonames,-17.6083,27.6743,True,True
+98437,Zimbabwe,Matabeleland North,Siketnte Rural Health Clinic,Rural Health Clinic,Local authority,-19.797,27.357,GPS,-19.797,27.357,True,True
+98438,Zimbabwe,Matabeleland North,Sikhobokobo Rural Health Clinic,Rural Health Clinic,Local authority,-18.7953,28.4585,Geonames,-18.7953,28.4585,True,True
+98439,Zimbabwe,Matabeleland North,Simangani Clinic,Clinic,Local authority,-18.11028,26.7241706848,GPS,-18.11028,26.7241706848,True,True
+98440,Zimbabwe,Matabeleland North,Simatelele Rural Health Clinic,Rural Health Clinic,MoH,-17.78883,27.25738,GPS,-17.78883,27.25738,True,True
+98441,Zimbabwe,Matabeleland North,Sinangonde Rural Health Clinic,Rural Health Clinic,MoH,-18.366,27.8201,GPS,-18.366,27.8201,True,True
+98442,Zimbabwe,Matabeleland North,Sinasengue Rural Health Clinic,Rural Health Clinic,MoH,-17.5335,27.8989,Google Earth,-17.5335,27.8989,True,True
+98443,Zimbabwe,Matabeleland North,Sipepa Rural Hospital,Rural Hospital,MoH,-19.28667,27.6550006866,GPS,-19.28667,27.6550006866,True,True
+98444,Zimbabwe,Matabeleland North,Sivalo Rural Health Clinic,Rural Health Clinic,MoH,-18.74306,28.3513908386,GPS,-18.74306,28.3513908386,True,True
+98445,Zimbabwe,Matabeleland North,Sodaka Rural Health Clinic,Rural Health Clinic,MoH,-19.39889,27.0841693878,GPS,-19.39889,27.0841693878,True,True
+98446,Zimbabwe,Matabeleland North,St. Lukes Lupane (Designated) District/Provincial Hospital,District/Provincial Hospital,FBO,-19.10972,27.9686107635,GPS,-19.10972,27.9686107635,True,True
+98447,Zimbabwe,Matabeleland North,St. Pauls Rural Hospital,Rural Hospital,Local authority,-19.02028,28.1138896942,GPS,-19.02028,28.1138896942,True,True
+98448,Zimbabwe,Matabeleland North,Tinde Rural Health Clinic,Rural Health Clinic,FBO,-18.26125,27.18206,GPS,-18.26125,27.18206,True,True
+98449,Zimbabwe,Matabeleland North,Tsholotsho District Hospital,District Hospital,MoH,-19.77278,27.755279541,GPS,-19.77278,27.755279541,True,True
+98450,Zimbabwe,Matabeleland North,Tsholotsho Urban Clinic,Clinic,Local authority,-19.7556,27.7651,Geonames,-19.7556,27.7651,True,True
+98451,Zimbabwe,Matabeleland North,Umuntu Rural Health Clinic,Rural Health Clinic,MoH,-20.0059,28.4359,GPS,-20.0059,28.4359,True,True
+98452,Zimbabwe,Matabeleland North,Victoria Falls District Hospital,District Hospital,MoH,-17.94389,25.8261108398,GPS,-17.94389,25.8261108398,True,True
+98453,Zimbabwe,Matabeleland North,Zenka Rural Health Clinic,Rural Health Clinic,MoH,-19.07,28.773059845,GPS,-19.07,28.773059845,True,True
+98454,Zimbabwe,Matabeleland North,Zinyangeni Rural Health Clinic,Rural Health Clinic,Local authority,-19.07778,28.9880599976,GPS,-19.07778,28.9880599976,True,True
+98455,Zimbabwe,Matabeleland South,Avoca Rural Hospital,Rural Hospital,MoH,-20.83492,29.5055599213,GPS,-20.83492,29.5055599213,True,True
+98456,Zimbabwe,Matabeleland South,Bango Clinic,Clinic,MoH,-21.25769,28.13474,GPS,-21.25769,28.13474,True,True
+98457,Zimbabwe,Matabeleland South,Bazha Clinic,Clinic,FBO,-20.60611,28.3350601196,GPS,-20.60611,28.3350601196,True,True
+98458,Zimbabwe,Matabeleland South,Beitbridge District Hospital,District Hospital,MoH,-22.20458,29.9876098633,GPS,-22.20458,29.9876098633,True,True
+98459,Zimbabwe,Matabeleland South,Beula-Seula Rural Health Clinic,Rural Health Clinic,MoH,-21.48506,28.4061393738,GPS,-21.48506,28.4061393738,True,True
+98460,Zimbabwe,Matabeleland South,Buvuma Clinic,Clinic,Local authority,-21.46747,29.2044696808,GPS,-21.46747,29.2044696808,True,True
+98461,Zimbabwe,Matabeleland South,Chamunangana Clinic,Clinic,Local authority,-21.60719,29.601940155,GPS,-21.60719,29.601940155,True,True
+98462,Zimbabwe,Matabeleland South,Chikwarakwara Rural Health Clinic,Rural Health Clinic,MoH,-22.31725,31.0912494659,GPS,-22.31725,31.0912494659,True,True
+98463,Zimbabwe,Matabeleland South,Chisvingo Clinic,Clinic,Local authority,-22.1743,30.0051,GPS,-22.1743,30.0051,True,True
+98464,Zimbabwe,Matabeleland South,Chituripasi Rural Health Clinic,Rural Health Clinic,MoH,-22.20064,30.787530899,GPS,-22.20064,30.787530899,True,True
+98465,Zimbabwe,Matabeleland South,Dingamuzi Clinic,Clinic,Local authority,-20.499,27.811,GPS,-20.499,27.811,True,True
+98466,Zimbabwe,Matabeleland South,Dite Rural Health Clinic,Rural Health Clinic,MoH,-22.22214,30.3900299072,GPS,-22.22214,30.3900299072,True,True
+98467,Zimbabwe,Matabeleland South,Dombodema Rural Health Clinic,Rural Health Clinic,Local authority,-20.40417,27.6222190857,GPS,-20.40417,27.6222190857,True,True
+98468,Zimbabwe,Matabeleland South,Dulilavadzimu Clinic,Clinic,Local authority,-22.211,29.976,GPS,-22.211,29.976,True,True
+98469,Zimbabwe,Matabeleland South,Dwala Clinic,Clinic,MoH,-21.08346,29.71504,GPS,-21.08346,29.71504,True,True
+98470,Zimbabwe,Matabeleland South,Embakwe Rural Hospital,Rural Hospital,FBO,-20.77917,27.8211097717,GPS,-20.77917,27.8211097717,True,True
+98471,Zimbabwe,Matabeleland South,Epandeni Clinic,Clinic,FBO,-20.71,27.905,GPS,-20.71,27.905,True,True
+98472,Zimbabwe,Matabeleland South,Esibomvu Clinic,Clinic,Local authority,-20.3971,28.8917,Geonames,-20.3971,28.8917,True,True
+98473,Zimbabwe,Matabeleland South,Esigodini District Hospital,District Hospital,MoH,-20.28347,28.9367809296,GPS,-20.28347,28.9367809296,True,True
+98474,Zimbabwe,Matabeleland South,Filabusi District Hospital,District Hospital,MoH,-20.54033,29.2866706848,GPS,-20.54033,29.2866706848,True,True
+98475,Zimbabwe,Matabeleland South,Gulathi Rural Health Clinic,Rural Health Clinic,MoH,-20.4487,28.6247,Geonames,-20.4487,28.6247,True,True
+98476,Zimbabwe,Matabeleland South,Gungwe Rural Health Clinic,Rural Health Clinic,MoH,-21.45617,28.8873100281,GPS,-21.45617,28.8873100281,True,True
+98477,Zimbabwe,Matabeleland South,Gwanda Provincial Hospital,Provincial Hospital,MoH,-20.9333,29.0,Geonames,-20.9333,29.0,True,True
+98478,Zimbabwe,Matabeleland South,Gwatemba Rural Health Clinic,Rural Health Clinic,MoH,-20.40542,29.6905002594,GPS,-20.40542,29.6905002594,True,True
+98479,Zimbabwe,Matabeleland South,Habane Clinic,Clinic,Local authority,-20.2922,28.9392,Google Earth,-20.2922,28.9392,True,True
+98480,Zimbabwe,Matabeleland South,Hlekweni Clinic,Clinic,Local authority,-20.25333,28.49899,GPS,-20.25333,28.49899,True,True
+98481,Zimbabwe,Matabeleland South,Homestead Rural Health Clinic,Rural Health Clinic,MoH,-21.25589,28.5538597107,GPS,-21.25589,28.5538597107,True,True
+98482,Zimbabwe,Matabeleland South,Huwana Rural Health Clinic,Rural Health Clinic,MoH,-19.89528,27.4655609131,GPS,-19.89528,27.4655609131,True,True
+98483,Zimbabwe,Matabeleland South,Ingwizi Clinic,Clinic,MoH,-21.11917,27.8708305359,GPS,-21.11917,27.8708305359,True,True
+98484,Zimbabwe,Matabeleland South,Insiza Rural Health Clinic,Rural Health Clinic,MoH,-20.9277,29.3488,Geonames,-20.9277,29.3488,True,True
+98485,Zimbabwe,Matabeleland South,Irisvale Clinic,Clinic,MoH,-20.52311,29.0853099823,GPS,-20.52311,29.0853099823,True,True
+98486,Zimbabwe,Matabeleland South,Kafusi Clinic,Clinic,Local authority,-21.60386,28.7722206116,GPS,-21.60386,28.7722206116,True,True
+98487,Zimbabwe,Matabeleland South,Kezi Rural Hospital,Rural Hospital,MoH,-20.91947,28.4580307007,GPS,-20.91947,28.4580307007,True,True
+98488,Zimbabwe,Matabeleland South,Kombo Clinic,Clinic,MoH,-19.85475,29.04724,GPS,-19.85475,29.04724,True,True
+98489,Zimbabwe,Matabeleland South,Kumbudzi Rural Health Clinic,Rural Health Clinic,MoH,-20.6333,28.9,GPS,-20.6333,28.9,True,True
+98490,Zimbabwe,Matabeleland South,Lady Barring Rural Hospital,Rural Hospital,MoH,-20.3998,28.1437,GPS,-20.3998,28.1437,True,True
+98491,Zimbabwe,Matabeleland South,Lady stanely Rural Hospital,Rural Hospital,MoH,-20.2598,28.2755,GPS,-20.2598,28.2755,True,True
+98492,Zimbabwe,Matabeleland South,Lushongwe Clinic,Clinic,MoH,-21.01852,28.78025,GPS,-21.01852,28.78025,True,True
+98493,Zimbabwe,Matabeleland South,Mabuze Rural Health Clinic,Rural Health Clinic,MoH,-20.93906,29.4529209137,GPS,-20.93906,29.4529209137,True,True
+98494,Zimbabwe,Matabeleland South,Madabe Clinic,Clinic,Local authority,-20.81444,27.7533302307,GPS,-20.81444,27.7533302307,True,True
+98495,Zimbabwe,Matabeleland South,Majini Rural Health Clinic,Rural Health Clinic,MoH,-21.50331,29.6906700134,GPS,-21.50331,29.6906700134,True,True
+98496,Zimbabwe,Matabeleland South,Makakabule Clinic,Clinic,Local authority,-22.13792,29.9368095398,GPS,-22.13792,29.9368095398,True,True
+98497,Zimbabwe,Matabeleland South,Makulela Rural Health Clinic,Rural Health Clinic,MoH,-19.9333,27.2333,Geonames,-19.9333,27.2333,True,True
+98498,Zimbabwe,Matabeleland South,Makwe Rural Health Clinic,Rural Health Clinic,MoH,-20.96919,28.7563896179,GPS,-20.96919,28.7563896179,True,True
+98499,Zimbabwe,Matabeleland South,Mambale Clinic,Clinic,Local authority,-21.47833,28.2847194672,GPS,-21.47833,28.2847194672,True,True
+98500,Zimbabwe,Matabeleland South,Manama Rural Hospital,Rural Hospital,FBO,-21.57014,28.9911403656,GPS,-21.57014,28.9911403656,True,True
+98501,Zimbabwe,Matabeleland South,Maphisa District Hospital,District Hospital,MoH,-21.07378,28.4743595123,GPS,-21.07378,28.4743595123,True,True
+98502,Zimbabwe,Matabeleland South,Marula Clinic,Clinic,Local authority,-20.4725,28.0936107635,GPS,-20.4725,28.0936107635,True,True
+98503,Zimbabwe,Matabeleland South,Masendu Clinic,Clinic,Local authority,-20.1312,27.5343,GPS,-20.1312,27.5343,True,True
+98504,Zimbabwe,Matabeleland South,Masera Clinic,Clinic,Local authority,-21.93431,29.5865001678,GPS,-21.93431,29.5865001678,True,True
+98505,Zimbabwe,Matabeleland South,Mashaba Clinic,Clinic,Local authority,-21.66825,28.9503898621,GPS,-21.66825,28.9503898621,True,True
+98506,Zimbabwe,Matabeleland South,Matjinge Clinic,Clinic,MoH,-20.3264,27.7538,Google Earth,-20.3264,27.7538,True,True
+98507,Zimbabwe,Matabeleland South,Matopo Clinic,Clinic,Local authority,-20.47,28.722,GPS,-20.47,28.722,True,True
+98508,Zimbabwe,Matabeleland South,Matopo Rural Hospital,Rural Hospital,MoH,-20.42,28.49,GPS,-20.42,28.49,True,True
+98509,Zimbabwe,Matabeleland South,Mawabeni Clinic,Clinic,Local authority,-20.40653,28.9851398468,GPS,-20.40653,28.9851398468,True,True
+98510,Zimbabwe,Matabeleland South,Mazunga Clinic,Clinic,Local authority,-21.7345,29.86923,GPS,-21.7345,29.86923,True,True
+98511,Zimbabwe,Matabeleland South,Mbembeswana Clinic,Clinic,Local authority,-21.0333,28.2667,GPS,-21.0333,28.2667,True,True
+98512,Zimbabwe,Matabeleland South,Mbizingwe Rural Health Clinic,Rural Health Clinic,MoH,-20.40375,28.818939209,GPS,-20.40375,28.818939209,True,True
+98513,Zimbabwe,Matabeleland South,Mhlamhlandlela Clinic,Clinic,Local authority,-20.4488,28.8966,Google Earth,-20.4488,28.8966,True,True
+98514,Zimbabwe,Matabeleland South,Montrose Clinic,Clinic,MoH,-20.1768,29.1537,Google Earth,-20.1768,29.1537,True,True
+98515,Zimbabwe,Matabeleland South,Mpalawani Clinic,Clinic,MoH,-20.491,29.4589,GPS,-20.491,29.4589,True,True
+98516,Zimbabwe,Matabeleland South,Mpisini Clinic,Clinic,Local authority,-20.20814,29.10956,GPS,-20.20814,29.10956,True,True
+98517,Zimbabwe,Matabeleland South,Mtshabezi Rural Hospital,Rural Hospital,FBO,-20.70111,28.9069194794,GPS,-20.70111,28.9069194794,True,True
+98518,Zimbabwe,Matabeleland South,Mzimuni Clinic,Clinic,Local authority,-20.65025,29.1355800629,GPS,-20.65025,29.1355800629,True,True
+98519,Zimbabwe,Matabeleland South,Natasi Rural Health Clinic,Rural Health Clinic,MoH,-20.7462,28.6389,Geonames,-20.7462,28.6389,True,True
+98520,Zimbabwe,Matabeleland South,Ndiweni Clinic,Clinic,Local authority,-20.36611,27.7508296967,GPS,-20.36611,27.7508296967,True,True
+98521,Zimbabwe,Matabeleland South,Nhawali Clinic,Clinic,MoH,-20.7736,29.1403,GPS,-20.7736,29.1403,True,True
+98522,Zimbabwe,Matabeleland South,Nhlangano Clinic,Clinic,Local authority,-20.20519,28.7724399567,GPS,-20.20519,28.7724399567,True,True
+98523,Zimbabwe,Matabeleland South,Nkankezi Rural Health Clinic,Rural Health Clinic,MoH,-20.48781,29.4237804413,GPS,-20.48781,29.4237804413,True,True
+98524,Zimbabwe,Matabeleland South,Nottingham Rural Health Clinic,Rural Health Clinic,MoH,-22.12217,29.63697052,GPS,-22.12217,29.63697052,True,True
+98525,Zimbabwe,Matabeleland South,Nswazi Clinic,Clinic,Local authority,-20.5667,28.9833,GPS,-20.5667,28.9833,True,True
+98526,Zimbabwe,Matabeleland South,Nswazi Rural Health Clinic,Rural Health Clinic,MoH,-20.3701,28.3183,GPS,-20.3701,28.3183,True,True
+98527,Zimbabwe,Matabeleland South,Ntalale Clinic,Clinic,Local authority,-21.35731,28.8860797882,GPS,-21.35731,28.8860797882,True,True
+98528,Zimbabwe,Matabeleland South,Ntshamate Clinic,Clinic,Local authority,-20.1878,28.887,GPS,-20.1878,28.887,True,True
+98529,Zimbabwe,Matabeleland South,Nyamime Rural Health Clinic,Rural Health Clinic,MoH,-20.90644,29.3043899536,GPS,-20.90644,29.3043899536,True,True
+98530,Zimbabwe,Matabeleland South,Phakama Clinic,Clinic,Local authority,-21.0018,29.2196,GPS,-21.0018,29.2196,True,True
+98531,Zimbabwe,Matabeleland South,Plumtree District Hospital,District Hospital,MoH,-20.49667,27.808889389,GPS,-20.49667,27.808889389,True,True
+98532,Zimbabwe,Matabeleland South,Sanale Rural Health Clinic,Rural Health Clinic,MoH,-20.68947,29.5551700592,GPS,-20.68947,29.5551700592,True,True
+98533,Zimbabwe,Matabeleland South,Sankonjana Rural Health Clinic,Rural Health Clinic,MoH,-21.40547,28.7002792358,GPS,-21.40547,28.7002792358,True,True
+98534,Zimbabwe,Matabeleland South,Selonga Clinic,Clinic,Local authority,-21.3277,28.8135,GPS,-21.3277,28.8135,True,True
+98535,Zimbabwe,Matabeleland South,Sengezane Clinic,Clinic,Local authority,-20.9466,28.9995,GPS,-20.9466,28.9995,True,True
+98536,Zimbabwe,Matabeleland South,Shabwe Rural Health Clinic,Rural Health Clinic,MoH,-22.10489,30.2227802277,GPS,-22.10489,30.2227802277,True,True
+98537,Zimbabwe,Matabeleland South,Shangani Rural Hospital,Rural Hospital,MoH,-19.68997,29.2248897552,GPS,-19.68997,29.2248897552,True,True
+98538,Zimbabwe,Matabeleland South,Shashe Clinic,Clinic,Local authority,-22.10292,29.3224391937,GPS,-22.10292,29.3224391937,True,True
+98539,Zimbabwe,Matabeleland South,Shashi Clinic,Clinic,Local authority,-22.2333,30.7167,Geonames,-22.2333,30.7167,True,True
+98540,Zimbabwe,Matabeleland South,Sikhathini Rural Health Clinic,Rural Health Clinic,Local authority,-20.3529,27.8994,Google Earth,-20.3529,27.8994,True,True
+98541,Zimbabwe,Matabeleland South,Simbumbumbu Rural Health Clinic,Rural Health Clinic,MoH,-20.75217,28.757610321,GPS,-20.75217,28.757610321,True,True
+98542,Zimbabwe,Matabeleland South,Singwambizi Clinic,Clinic,Local authority,-20.93315,29.54654,GPS,-20.93315,29.54654,True,True
+98543,Zimbabwe,Matabeleland South,Singwango Clinic,Clinic,Local authority,-20.78678,29.317609787,GPS,-20.78678,29.317609787,True,True
+98544,Zimbabwe,Matabeleland South,Sitezi Clinic,Clinic,Local authority,-20.8191,28.8037,Geonames,-20.8191,28.8037,True,True
+98545,Zimbabwe,Matabeleland South,Solusi Clinic,Clinic,FBO,-20.19278,28.1602802277,GPS,-20.19278,28.1602802277,True,True
+98546,Zimbabwe,Matabeleland South,St Annes Rural Hospital,Rural Hospital,FBO,-21.1706,28.0335,Google Earth,-21.1706,28.0335,True,True
+98547,Zimbabwe,Matabeleland South,St. Joseph Rural Hospital,Rural Hospital,FBO,-21.256,28.275,GPS,-21.256,28.275,True,True
+98548,Zimbabwe,Matabeleland South,Swereki Clinic,Clinic,Local authority,-21.87125,29.4038600922,GPS,-21.87125,29.4038600922,True,True
+98549,Zimbabwe,Matabeleland South,Tongwe Clinic,Clinic,Local authority,-21.9099,30.019,GPS,-21.9099,30.019,True,True
+98550,Zimbabwe,Matabeleland South,Tshelanyemba Rural Hospital,Rural Hospital,FBO,-21.35383,28.48802948,GPS,-21.35383,28.48802948,True,True
+98551,Zimbabwe,Matabeleland South,Tshitshi Clinic,Clinic,Local authority,-21.00333,27.7480602264,GPS,-21.00333,27.7480602264,True,True
+98552,Zimbabwe,Matabeleland South,Village 13 Rural Health Clinic,Rural Health Clinic,MoH,-20.39056,27.5238895416,GPS,-20.39056,27.5238895416,True,True
+98553,Zimbabwe,Matabeleland South,Wanezi Rural Hospital,Rural Hospital,FBO,-20.57447,29.5855293274,GPS,-20.57447,29.5855293274,True,True
+98554,Zimbabwe,Matabeleland South,Zezani Clinic,Clinic,Local authority,-21.6167,29.5,Geonames,-21.6167,29.5,True,True
+98555,Zimbabwe,Matabeleland South,Zhulube Clinic,Clinic,Local authority,-20.64019,29.2900600433,GPS,-20.64019,29.2900600433,True,True
+98556,Zimbabwe,Matabeleland South,Zimbili Clinic,Clinic,MoH,-20.0226,28.989,Geonames,-20.0226,28.989,True,True
+98557,Zimbabwe,Matabeleland North,Dongamuzi Rural Health Clinic,Rural Health Clinic,MoH,-18.40378,27.44719,GPS,-18.40378,27.44719,True,True
+98558,Zimbabwe,Matabeleland North,Imbizo Camp Clinic,Clinic,MoH,,,,,,False,False
+98559,Zimbabwe,Matabeleland North,Majiji Rural Health Clinic,Rural Health Clinic,Local authority,,,,,,False,False
+98560,Zimbabwe,Matabeleland North,Sikhumi Clinic,Clinic,MoH,,,,,,False,False
+98561,Zimbabwe,Matabeleland North,St. James Clinic,Clinic,FBO,,,,,,False,False
+98562,Zimbabwe,Matabeleland North,T. G.  Silundika (Edu) Clinic,Clinic,MoH,,,,,,False,False
+98563,Zimbabwe,Matabeleland South,Bhezu Clinic,Clinic,Local authority,,,,,,False,False
+98564,Zimbabwe,Matabeleland South,Ekukhanyeni Rural Health Clinic,Rural Health Clinic,MoH,,,,,,False,False
+98565,Zimbabwe,Matabeleland South,J. M. Nkomo Clinic,Clinic,MoH,,,,,,False,False
+98566,Zimbabwe,Matabeleland South,J. Ziyaphapha Clinic,Clinic,MoH,,,,,,False,False
+98567,Zimbabwe,Matabeleland South,Madlambu Rural Health Clinic,Rural Health Clinic,Local authority,,,,,,False,False
+98568,Zimbabwe,Matabeleland South,Mayobodo Clinic,Clinic,MoH,-21.3633,28.15155,GPS,-21.3633,28.15155,True,True
+98569,Zimbabwe,Matabeleland South,Ntabenende Clinic,Clinic,MoH,,,,,,False,False
+98570,Zimbabwe,Matabeleland South,Reps  (Educ) Clinic,Clinic,MoH,,,,,,False,False
+98571,Zimbabwe,Matabeleland South,Saphola Clinic,Clinic,MoH,,,,,,False,False
+98572,Zimbabwe,Matabeleland South,Sunzukwi Clinic,Clinic,MoH,,,,,,False,False
+98573,Zimbabwe,Midlands,Al Davies Clinic,Clinic,Local authority,,,,,,False,False
+98574,Zimbabwe,Midlands,Amaveni Clinic,Clinic,Local authority,-18.92453,29.78466,GPS,-18.92453,29.78466,True,True
+98575,Zimbabwe,Midlands,Banga Rural Health Clinic,Rural Health Clinic,MoH,-19.97475,30.2696895599,GPS,-19.97475,30.2696895599,True,True
+98576,Zimbabwe,Midlands,Bonda Rural Health Clinic,Rural Health Clinic,Local authority,-20.8516,30.4438,GPS,-20.8516,30.4438,True,True
+98577,Zimbabwe,Midlands,Chabwira Rural Health Clinic,Rural Health Clinic,Local authority,-20.67058,30.239440918,GPS,-20.67058,30.239440918,True,True
+98578,Zimbabwe,Midlands,Chaka Rural Health Clinic,Rural Health Clinic,MoH,-19.53636,30.6891403198,GPS,-19.53636,30.6891403198,True,True
+98579,Zimbabwe,Midlands,Chemahororo Rural Health Clinic,Rural Health Clinic,Local authority,-18.21611,29.1127796173,GPS,-18.21611,29.1127796173,True,True
+98580,Zimbabwe,Midlands,Chengwena Rural Health Clinic,Rural Health Clinic,Local authority,-19.80483,30.5532207489,GPS,-19.80483,30.5532207489,True,True
+98581,Zimbabwe,Midlands,Chenhunguru Rural Health Clinic,Rural Health Clinic,MoH,,,,,,False,False
+98582,Zimbabwe,Midlands,Cheziya Clinic,Clinic,Local authority,-17.9505,28.2114,GPS,-17.9505,28.2114,True,True
+98583,Zimbabwe,Midlands,Chidembeko Rural Health Clinic,Rural Health Clinic,MoH,-20.7249,29.8984,Geonames,-20.7249,29.8984,True,True
+98584,Zimbabwe,Midlands,Chikato Rural Health Clinic,Rural Health Clinic,MoH,-19.81733,30.3025302887,GPS,-19.81733,30.3025302887,True,True
+98585,Zimbabwe,Midlands,Chikwingwizha Rural Health Clinic,Rural Health Clinic,FBO,-19.5555,29.9564208984,GPS,-19.5555,29.9564208984,True,True
+98586,Zimbabwe,Midlands,Child Welfare Clinic,Clinic,Local authority,-19.46832,29.83183,GPS,-19.46832,29.83183,True,True
+98587,Zimbabwe,Midlands,Chingezi Rural Health Clinic,Rural Health Clinic,Local authority,-20.72236,29.7866096497,GPS,-20.72236,29.7866096497,True,True
+98588,Zimbabwe,Midlands,Chireya Rural Hospital,Rural Hospital,FBO,-17.54417,28.5988903046,GPS,-17.54417,28.5988903046,True,True
+98589,Zimbabwe,Midlands,Chitave Clinic,Clinic,Local authority,-18.19778,28.4511108398,GPS,-18.19778,28.4511108398,True,True
+98590,Zimbabwe,Midlands,Chiundura Rural Health Clinic,Rural Health Clinic,Local authority,-19.23689,29.9526100159,GPS,-19.23689,29.9526100159,True,True
+98591,Zimbabwe,Midlands,Chizhou Rural Health Clinic,Rural Health Clinic,MoH,-19.55183,30.5044708252,GPS,-19.55183,30.5044708252,True,True
+98592,Zimbabwe,Midlands,Connemara Clinic,Clinic,MoH,-19.20722,29.8199691772,GPS,-19.20722,29.8199691772,True,True
+98593,Zimbabwe,Midlands,Dambridge Clinic,Clinic,Local authority,-19.104,29.126,GPS,-19.104,29.126,True,True
+98594,Zimbabwe,Midlands,Denda Clinic,Clinic,FBO,-17.78917,28.8202800751,GPS,-17.78917,28.8202800751,True,True
+98595,Zimbabwe,Midlands,Denhere Clinic,Clinic,MoH,-18.706,29.1143,GPS,-18.706,29.1143,True,True
+98596,Zimbabwe,Midlands,Dinjane Rural Health Clinic,Rural Health Clinic,Local authority,,,,,,False,False
+98597,Zimbabwe,Midlands,Donjuan Clinic,Clinic,Local authority,-18.9207,29.8089,GPS,-18.9207,29.8089,True,True
+98598,Zimbabwe,Midlands,Donsa Rural Health Clinic,Rural Health Clinic,MoH,-18.76897,28.9063091278,GPS,-18.76897,28.9063091278,True,True
+98599,Zimbabwe,Midlands,Driefontein Rural Hospital,Rural Hospital,FBO,-19.41889,30.7071094513,GPS,-19.41889,30.7071094513,True,True
+98600,Zimbabwe,Midlands,Fletcher High School Clinic,Clinic,MoH,,,,,,False,False
+98601,Zimbabwe,Midlands,Gawa Clinic,Clinic,Local authority,-18.26167,28.7338905334,GPS,-18.26167,28.7338905334,True,True
+98602,Zimbabwe,Midlands,Gokwe South District Hospital,District Hospital,MoH,-18.21139,28.925,GPS,-18.21139,28.925,True,True
+98603,Zimbabwe,Midlands,Gomola Rural Health Clinic,Rural Health Clinic,Local authority,-18.76839,29.4524707794,GPS,-18.76839,29.4524707794,True,True
+98604,Zimbabwe,Midlands,Goredema Clinic,Clinic,Local authority,-17.85194,28.8969402313,GPS,-17.85194,28.8969402313,True,True
+98605,Zimbabwe,Midlands,Gudo Rural Health Clinic,Rural Health Clinic,Local authority,-20.39072,30.219329834,GPS,-20.39072,30.219329834,True,True
+98606,Zimbabwe,Midlands,Gumunyu Clinic,Clinic,Local authority,-17.40972,28.9052791595,GPS,-17.40972,28.9052791595,True,True
+98607,Zimbabwe,Midlands,Gunde Rural Health Clinic,Rural Health Clinic,MoH,-19.18781,30.0027809143,GPS,-19.18781,30.0027809143,True,True
+98608,Zimbabwe,Midlands,Gundura Rural Health Clinic,Rural Health Clinic,Local authority,-19.8667,30.0667,GPS,-19.8667,30.0667,True,True
+98609,Zimbabwe,Midlands,Guramatunhu Rural Health Clinic,Rural Health Clinic,Local authority,-19.63519,30.4875602722,GPS,-19.63519,30.4875602722,True,True
+98610,Zimbabwe,Midlands,Gwanyika Clinic,Clinic,MoH,-18.26278,29.2416706085,GPS,-18.26278,29.2416706085,True,True
+98611,Zimbabwe,Midlands,Gwanza Clinic,Clinic,MoH,-19.78753,30.3890304565,GPS,-19.78753,30.3890304565,True,True
+98612,Zimbabwe,Midlands,Gwarava Rural Health Clinic,Rural Health Clinic,Local authority,-20.95372,30.0684700012,GPS,-20.95372,30.0684700012,True,True
+98613,Zimbabwe,Midlands,Gweru Provincial Hospital,Provincial Hospital,MoH,-19.45,29.8167,Geonames,-19.45,29.8167,True,True
+98614,Zimbabwe,Midlands,Hama Rural Health Clinic,Rural Health Clinic,Local authority,-19.85431,30.6245002747,GPS,-19.85431,30.6245002747,True,True
+98615,Zimbabwe,Midlands,Hanke Clinic,Clinic,FBO,-19.65592,30.167640686,GPS,-19.65592,30.167640686,True,True
+98616,Zimbabwe,Midlands,Holy Cross Rural Health Clinic,Rural Health Clinic,FBO,-19.56742,30.5909404755,GPS,-19.56742,30.5909404755,True,True
+98617,Zimbabwe,Midlands,Huchu Rural Health Clinic,Rural Health Clinic,Local authority,-17.98611,28.5324993134,GPS,-17.98611,28.5324993134,True,True
+98618,Zimbabwe,Midlands,Imbahuru Rural Health Clinic,Rural Health Clinic,Local authority,-20.86708,30.1020793915,GPS,-20.86708,30.1020793915,True,True
+98619,Zimbabwe,Midlands,Ingezi Rural Health Clinic,Rural Health Clinic,Local authority,-20.5896,30.326,GPS,-20.5896,30.326,True,True
+98620,Zimbabwe,Midlands,Ivene Clinic,Clinic,Local authority,-19.49625,29.8007,GPS,-19.49625,29.8007,True,True
+98621,Zimbabwe,Midlands,Jackson Rural Health Clinic,Rural Health Clinic,Local authority,-19.10408,29.2500591278,GPS,-19.10408,29.2500591278,True,True
+98622,Zimbabwe,Midlands,Jeka Rural Hospital,Rural Hospital,MoH,-20.85536,29.9341392517,GPS,-20.85536,29.9341392517,True,True
+98623,Zimbabwe,Midlands,Jiri Rural Health Clinic,Rural Health Clinic,Local authority,-18.345,28.2574996948,GPS,-18.345,28.2574996948,True,True
+98624,Zimbabwe,Midlands,Jobolinko Rural Health Clinic,Rural Health Clinic,Local authority,-19.68503,30.287109375,GPS,-19.68503,30.287109375,True,True
+98625,Zimbabwe,Midlands,Kabanga Clinic,Clinic,Local authority,-19.1395,30.0734405518,GPS,-19.1395,30.0734405518,True,True
+98626,Zimbabwe,Midlands,Kadzidirire Rural Health Clinic,Rural Health Clinic,MoH,-17.50028,28.9383296967,GPS,-17.50028,28.9383296967,True,True
+98627,Zimbabwe,Midlands,Kahobo Rural Health Clinic,Rural Health Clinic,Local authority,-17.7375,28.7633304596,GPS,-17.7375,28.7633304596,True,True
+98628,Zimbabwe,Midlands,Kana Rural Hospital,Rural Hospital,FBO,-18.55583,28.5158290863,GPS,-18.55583,28.5158290863,True,True
+98629,Zimbabwe,Midlands,Kotokwe Rural Health Clinic,Rural Health Clinic,Local authority,-20.98397,29.5889701843,GPS,-20.98397,29.5889701843,True,True
+98630,Zimbabwe,Midlands,Krima Rural Health Clinic,Rural Health Clinic,Local authority,-18.45028,29.3719406128,GPS,-18.45028,29.3719406128,True,True
+98631,Zimbabwe,Midlands,Kuwirirana Rural Health Clinic,Rural Health Clinic,Local authority,-17.9075,29.0302791595,GPS,-17.9075,29.0302791595,True,True
+98632,Zimbabwe,Midlands,Kwekwe District Hospital,District Hospital,MoH,-18.93572,29.8237495422,GPS,-18.93572,29.8237495422,True,True
+98633,Zimbabwe,Midlands,Lalapanzi Rural Health Clinic,Rural Health Clinic,Local authority,-19.33514,30.1853103638,GPS,-19.33514,30.1853103638,True,True
+98634,Zimbabwe,Midlands,Lower Gweru Clinic,Clinic,FBO,-19.38747,29.5404205322,GPS,-19.38747,29.5404205322,True,True
+98635,Zimbabwe,Midlands,Lundi Rural Hospital,Rural Hospital,MoH,-20.2167,30.1667,GPS,-20.2167,30.1667,True,True
+98636,Zimbabwe,Midlands,Lybwood Rural Health Clinic,Rural Health Clinic,MoH,-19.4,30.5167,Geonames,-19.4,30.5167,True,True
+98637,Zimbabwe,Midlands,Mabasa Rural Health Clinic,Rural Health Clinic,Local authority,-20.15469,30.0866909027,GPS,-20.15469,30.0866909027,True,True
+98638,Zimbabwe,Midlands,Maboleni Rural Health Clinic,Rural Health Clinic,Local authority,-19.29136,29.43983078,GPS,-19.29136,29.43983078,True,True
+98639,Zimbabwe,Midlands,Madhikane Rural Health Clinic,Rural Health Clinic,Local authority,-19.272,29.308,GPS,-19.272,29.308,True,True
+98640,Zimbabwe,Midlands,Madzivazvido Rural Health Clinic,Rural Health Clinic,MoH,-17.6333,28.5167,Geonames,-17.6333,28.5167,True,True
+98641,Zimbabwe,Midlands,Magwande Rural Health Clinic,Rural Health Clinic,MoH,-19.373,29.427,GPS,-19.373,29.427,True,True
+98642,Zimbabwe,Midlands,Makepesi Rural Health Clinic,Rural Health Clinic,Local authority,-19.38919,29.5688304901,GPS,-19.38919,29.5688304901,True,True
+98643,Zimbabwe,Midlands,Maketo Rural Health Clinic,Rural Health Clinic,MoH,-20.20569,29.9344406128,GPS,-20.20569,29.9344406128,True,True
+98644,Zimbabwe,Midlands,Makuwerere Rural Health Clinic,Rural Health Clinic,Local authority,-20.98544,30.2363605499,GPS,-20.98544,30.2363605499,True,True
+98645,Zimbabwe,Midlands,Malisa Josepha Rural Health Clinic,Rural Health Clinic,Local authority,-18.9211,29.0015,Geonames,-18.9211,29.0015,True,True
+98646,Zimbabwe,Midlands,Malisa Zhombe Rural Health Clinic,Rural Health Clinic,Local authority,-18.9272,28.9953,Geonames,-18.9272,28.9953,True,True
+98647,Zimbabwe,Midlands,Mangidhi Rural Health Clinic,Rural Health Clinic,Local authority,-17.7212,29.0049,GPS,-17.7212,29.0049,True,True
+98648,Zimbabwe,Midlands,Manoti Rural Health Clinic,Rural Health Clinic,Local authority,-18.45833,28.3794403076,GPS,-18.45833,28.3794403076,True,True
+98649,Zimbabwe,Midlands,Mapanzure Rural Health Clinic,Rural Health Clinic,Local authority,-20.1161,29.9171,GPS,-20.1161,29.9171,True,True
+98650,Zimbabwe,Midlands,Marishongwe Rural Health Clinic,Rural Health Clinic,MoH,-19.87072,30.019329071,GPS,-19.87072,30.019329071,True,True
+98651,Zimbabwe,Midlands,Masase Rural Hospital,Rural Hospital,FBO,-20.98667,29.6669998169,GPS,-20.98667,29.6669998169,True,True
+98652,Zimbabwe,Midlands,Mashame Rural Health Clinic,Rural Health Clinic,Local authority,-17.2725,28.7975006104,GPS,-17.2725,28.7975006104,True,True
+98653,Zimbabwe,Midlands,Masuka Rural Health Clinic,Rural Health Clinic,Local authority,-18.00333,28.4025001526,GPS,-18.00333,28.4025001526,True,True
+98654,Zimbabwe,Midlands,Masvori Clinic,Clinic,MoH,-19.21278,30.0599994659,GPS,-19.21278,30.0599994659,True,True
+98655,Zimbabwe,Midlands,Mataga Rural Health Clinic,Rural Health Clinic,MoH,-20.84119,30.1904201508,GPS,-20.84119,30.1904201508,True,True
+98656,Zimbabwe,Midlands,Matenda Rural Health Clinic,Rural Health Clinic,MoH,-20.00344,30.0565299988,GPS,-20.00344,30.0565299988,True,True
+98657,Zimbabwe,Midlands,Mateta Rural Health Clinic,Rural Health Clinic,MoH,-18.3925,28.5330600739,GPS,-18.3925,28.5330600739,True,True
+98658,Zimbabwe,Midlands,Matibi Rural Hospital,Rural Hospital,FBO,-20.75028,30.4861106873,GPS,-20.75028,30.4861106873,True,True
+98659,Zimbabwe,Midlands,Mavorowondo Rural Health Clinic,Rural Health Clinic,MoH,-20.6955,29.9494,GPS,-20.6955,29.9494,True,True
+98660,Zimbabwe,Midlands,Mayoca Rural Health Clinic,Rural Health Clinic,Local authority,-18.7319,29.5608,Geonames,-18.7319,29.5608,True,True
+98661,Zimbabwe,Midlands,Mazebe Rural Health Clinic,Rural Health Clinic,MoH,-18.93542,29.0063,GPS,-18.93542,29.0063,True,True
+98662,Zimbabwe,Midlands,Mazibisa Rural Health Clinic,Rural Health Clinic,MoH,-19.8555,30.2564201355,GPS,-19.8555,30.2564201355,True,True
+98663,Zimbabwe,Midlands,Maziofa Rural Health Clinic,Rural Health Clinic,Local authority,-20.6906,29.9379,GPS,-20.6906,29.9379,True,True
+98664,Zimbabwe,Midlands,Mberengwa Rural Hospital,Rural Hospital,MoH,-20.48881,29.9198093414,GPS,-20.48881,29.9198093414,True,True
+98665,Zimbabwe,Midlands,Mbiza A Clinic,Clinic,Local authority,-19.0249,29.7706,GPS,-19.0249,29.7706,True,True
+98666,Zimbabwe,Midlands,Mbizo B Clinic,Clinic,Local authority,-18.9051,29.8498,Geonames,-18.9051,29.8498,True,True
+98667,Zimbabwe,Midlands,Mkoba 1 Clinic,Clinic,Local authority,-19.46726,29.76658,GPS,-19.46726,29.76658,True,True
+98668,Zimbabwe,Midlands,Mkoba Rural Health Clinic,Rural Health Clinic,Local authority,-17.7057,29.047,GPS,-17.7057,29.047,True,True
+98669,Zimbabwe,Midlands,Mkoba Teachers College Clinic,Clinic,MoH,,,,,,False,False
+98670,Zimbabwe,Midlands,Mlezu Clinic,Clinic,MoH,-19.1,29.8333,GPS,-19.1,29.8333,True,True
+98671,Zimbabwe,Midlands,Mlezu Rural Health Clinic,Rural Health Clinic,MoH,,,,,,False,False
+98672,Zimbabwe,Midlands,Mnene District Hospital,District Hospital,FBO,-20.62342,30.0538101196,GPS,-20.62342,30.0538101196,True,True
+98673,Zimbabwe,Midlands,Monomutapa Clinic,Clinic,Local authority,-19.44489,29.80173,GPS,-19.44489,29.80173,True,True
+98674,Zimbabwe,Midlands,Mpinda Clinic,Clinic,Local authority,-19.15281,29.2516098022,GPS,-19.15281,29.2516098022,True,True
+98675,Zimbabwe,Midlands,Mpongane Rural Health Clinic,Rural Health Clinic,Local authority,-20.7162,30.4067,Geonames,-20.7162,30.4067,True,True
+98676,Zimbabwe,Midlands,Mposi Rural Health Clinic,Rural Health Clinic,Local authority,-20.82161,30.0220603943,GPS,-20.82161,30.0220603943,True,True
+98677,Zimbabwe,Midlands,Msala Rural Health Clinic,Rural Health Clinic,Local authority,-18.465,28.0452804565,GPS,-18.465,28.0452804565,True,True
+98678,Zimbabwe,Midlands,Msilahobe Rural Health Clinic,Rural Health Clinic,MoH,-19.1903,29.1144,Geonames,-19.1903,29.1144,True,True
+98679,Zimbabwe,Midlands,MSU Clinic,Clinic,MoH,,,,,,False,False
+98680,Zimbabwe,Midlands,Mtange Rural Health Clinic,Rural Health Clinic,FBO,-17.6789,29.0399,GPS,-17.6789,29.0399,True,True
+98681,Zimbabwe,Midlands,Mtora Rural Hospital,Rural Hospital,FBO,-17.72083,29.0069408417,GPS,-17.72083,29.0069408417,True,True
+98682,Zimbabwe,Midlands,Muketi Rural Health Clinic,Rural Health Clinic,Local authority,-21.00736,30.1403102875,GPS,-21.00736,30.1403102875,True,True
+98683,Zimbabwe,Midlands,Murongwe Rural Health Clinic,Rural Health Clinic,MoH,-20.60161,30.25756073,GPS,-20.60161,30.25756073,True,True
+98684,Zimbabwe,Midlands,Murowa Rural Health Clinic,Rural Health Clinic,Local authority,-20.53392,30.3869400024,GPS,-20.53392,30.3869400024,True,True
+98685,Zimbabwe,Midlands,Musadzi Rural Health Clinic,Rural Health Clinic,MoH,-17.4833,29.0333,Geonames,-17.4833,29.0333,True,True
+98686,Zimbabwe,Midlands,Musita Rural Health Clinic,Rural Health Clinic,Local authority,-17.84361,28.5786094666,GPS,-17.84361,28.5786094666,True,True
+98687,Zimbabwe,Midlands,Musume Rural Hospital,Rural Hospital,FBO,-20.92289,30.2390594482,GPS,-20.92289,30.2390594482,True,True
+98688,Zimbabwe,Midlands,Mutambi Rural Health Clinic,Rural Health Clinic,Local authority,-20.468,30.286,GPS,-20.468,30.286,True,True
+98689,Zimbabwe,Midlands,Muvonde Rural Hospital,Rural Hospital,FBO,-19.417,30.71,GPS,-19.417,30.71,True,True
+98690,Zimbabwe,Midlands,Mvuma District Hospital,District Hospital,MoH,-19.29036,30.520860672,GPS,-19.29036,30.520860672,True,True
+98691,Zimbabwe,Midlands,Mwanezi Rural Health Clinic,Rural Health Clinic,MoH,-20.7533,29.6979,Geonames,-20.7533,29.6979,True,True
+98692,Zimbabwe,Midlands,Negobe Rural Health Clinic,Rural Health Clinic,Local authority,-20.68572,30.3549194336,GPS,-20.68572,30.3549194336,True,True
+98693,Zimbabwe,Midlands,Nenyunga Rural Health Clinic,Rural Health Clinic,FBO,-17.44139,28.2530593872,GPS,-17.44139,28.2530593872,True,True
+98694,Zimbabwe,Midlands,Ngungubane Rural Health Clinic,Rural Health Clinic,Local authority,-20.7715,30.444,Geonames,-20.7715,30.444,True,True
+98695,Zimbabwe,Midlands,Nhema Rural Health Clinic,Rural Health Clinic,Local authority,-19.6191,30.22019005,GPS,-19.6191,30.22019005,True,True
+98696,Zimbabwe,Midlands,Nkululeko Clinic,Clinic,MoH,-19.20103,29.6528091431,GPS,-19.20103,29.6528091431,True,True
+98697,Zimbabwe,Midlands,Norah Rural Health Clinic,Rural Health Clinic,MoH,-17.51306,29.1677799225,GPS,-17.51306,29.1677799225,True,True
+98698,Zimbabwe,Midlands,Ntabahlope Rural Health Clinic,Rural Health Clinic,Local authority,-19.15,29.4,Geonames,-19.15,29.4,True,True
+98699,Zimbabwe,Midlands,Ntabane Clinic,Clinic,Local authority,-18.8199,29.3373,Geonames,-18.8199,29.3373,True,True
+98700,Zimbabwe,Midlands,Nyamhunga Rural Health Clinic,Rural Health Clinic,MoH,-18.347,29.467,GPS,-18.347,29.467,True,True
+98701,Zimbabwe,Midlands,Nyanje Rural Health Clinic,Rural Health Clinic,Local authority,-18.554,28.802,GPS,-18.554,28.802,True,True
+98702,Zimbabwe,Midlands,Nyautonge Rural Health Clinic,Rural Health Clinic,MoH,-19.6908,30.6922,Geonames,-19.6908,30.6922,True,True
+98703,Zimbabwe,Midlands,Nyoni Rural Health Clinic,Rural Health Clinic,MoH,-18.96747,29.3375606537,GPS,-18.96747,29.3375606537,True,True
+98704,Zimbabwe,Midlands,Pakame Clinic,Clinic,FBO,-19.93808,30.0408306122,GPS,-19.93808,30.0408306122,True,True
+98705,Zimbabwe,Midlands,Princess Margaret Rose Clinic,Clinic,Local authority,-19.055081,29.603471,GPS,-19.055081,29.603471,True,True
+98706,Zimbabwe,Midlands,Rockford Clinic,Clinic,Local authority,-19.75194,30.3081092834,GPS,-19.75194,30.3081092834,True,True
+98707,Zimbabwe,Midlands,Rubatsiro Rural Health Clinic,Rural Health Clinic,Local authority,-17.77472,29.0938892365,GPS,-17.77472,29.0938892365,True,True
+98708,Zimbabwe,Midlands,Rutendo Clinic,Clinic,Local authority,-19.0084,29.77346,GPS,-19.0084,29.77346,True,True
+98709,Zimbabwe,Midlands,Sai Rural Health Clinic,Rural Health Clinic,Local authority,-18.25861,28.3286094666,GPS,-18.25861,28.3286094666,True,True
+98710,Zimbabwe,Midlands,Samambwa Clinic,Clinic,Local authority,-18.33406,29.4524707794,GPS,-18.33406,29.4524707794,True,True
+98711,Zimbabwe,Midlands,Sasane Rural Health Clinic,Rural Health Clinic,FBO,-17.4833,28.5167,Geonames,-17.4833,28.5167,True,True
+98712,Zimbabwe,Midlands,Sebakwe Clinic,Clinic,Local authority,-18.98881,30.1225605011,GPS,-18.98881,30.1225605011,True,True
+98713,Zimbabwe,Midlands,Senga Clinic,Clinic,Local authority,-19.5167,29.8333,Geonames,-19.5167,29.8333,True,True
+98714,Zimbabwe,Midlands,Sengwazi Clinic,Clinic,Local authority,-18.5833,29.4333,Geonames,-18.5833,29.4333,True,True
+98715,Zimbabwe,Midlands,Sherwood Clinic,Clinic,Local authority,-18.82453,29.806219101,GPS,-18.82453,29.806219101,True,True
+98716,Zimbabwe,Midlands,Shurugwi District Hospital,District Hospital,MoH,-19.67286,30.0011692047,GPS,-19.67286,30.0011692047,True,True
+98717,Zimbabwe,Midlands,Sidakeni Clinic,Clinic,Local authority,-18.43989,29.4683895111,GPS,-18.43989,29.4683895111,True,True
+98718,Zimbabwe,Midlands,Silobela Rural Hospital,Rural Hospital,MoH,-19.00511,29.3045806885,GPS,-19.00511,29.3045806885,True,True
+98719,Zimbabwe,Midlands,Simana Clinic,Clinic,Local authority,-18.92169,29.1192798615,GPS,-18.92169,29.1192798615,True,True
+98720,Zimbabwe,Midlands,Simshembo Rural Health Clinic,Rural Health Clinic,MoH,-17.6833,28.2167,Geonames,-17.6833,28.2167,True,True
+98721,Zimbabwe,Midlands,Siyahokwe Rural Health Clinic,Rural Health Clinic,Local authority,-19.68994,30.5043106079,GPS,-19.68994,30.5043106079,True,True
+98722,Zimbabwe,Midlands,Somabhula Rural Health Clinic,Rural Health Clinic,Local authority,-19.7,29.6667,Geonames,-19.7,29.6667,True,True
+98723,Zimbabwe,Midlands,St. Patricks Clinic,Clinic,FBO,-19.224,29.907,GPS,-19.224,29.907,True,True
+98724,Zimbabwe,Midlands,St. Theresa Rural Hospital,Rural Hospital,FBO,-19.716,30.638,GPS,-19.716,30.638,True,True
+98725,Zimbabwe,Midlands,Svisvi Rural Health Clinic,Rural Health Clinic,Local authority,-18.06028,28.7775001526,GPS,-18.06028,28.7775001526,True,True
+98726,Zimbabwe,Midlands,Svita Rural Health Clinic,Rural Health Clinic,Local authority,-20.58678,30.1359405518,GPS,-20.58678,30.1359405518,True,True
+98727,Zimbabwe,Midlands,Tana Rural Health Clinic,Rural Health Clinic,MoH,-19.88975,30.3057498932,GPS,-19.88975,30.3057498932,True,True
+98728,Zimbabwe,Midlands,Tanana Rural Health Clinic,Rural Health Clinic,Local authority,,,,,,False,False
+98729,Zimbabwe,Midlands,Tokwe Rural Health Clinic,Rural Health Clinic,MoH,-19.8914,30.372,Geonames,-19.8914,30.372,True,True
+98730,Zimbabwe,Midlands,Tongwe Rural Health Clinic,Rural Health Clinic,Local authority,-18.077,29.111,GPS,-18.077,29.111,True,True
+98731,Zimbabwe,Midlands,Totonga Clinic,Clinic,Local authority,-19.42968,29.82668,GPS,-19.42968,29.82668,True,True
+98732,Zimbabwe,Midlands,Tsungai Rural Health Clinic,Rural Health Clinic,MoH,-17.61306,29.1424999237,GPS,-17.61306,29.1424999237,True,True
+98733,Zimbabwe,Midlands,Vukuzenzele Rural Health Clinic,Rural Health Clinic,MoH,-20.26669,29.8721408844,GPS,-20.26669,29.8721408844,True,True
+98734,Zimbabwe,Midlands,Vumba Rural Health Clinic,Rural Health Clinic,Local authority,-17.76407,28.18426,GPS,-17.76407,28.18426,True,True
+98735,Zimbabwe,Midlands,Vungu Rural Health Clinic,Rural Health Clinic,Local authority,-19.40322,29.4722805023,GPS,-19.40322,29.4722805023,True,True
+98736,Zimbabwe,Midlands,Vungwi Rural Health Clinic,Rural Health Clinic,Local authority,-20.4696,30.1752,Geonames,-20.4696,30.1752,True,True
+98737,Zimbabwe,Midlands,Vurasha Rural Health Clinic,Rural Health Clinic,MoH,-20.93614,30.3840293884,GPS,-20.93614,30.3840293884,True,True
+98738,Zimbabwe,Midlands,Ward 1 Clinic,Clinic,Local authority,,,,,,False,False
+98739,Zimbabwe,Midlands,Whawha Clinic,Clinic,MoH,-19.3667,30.0167,Geonames,-19.3667,30.0167,True,True
+98740,Zimbabwe,Midlands,Zhamba Rural Health Clinic,Rural Health Clinic,Local authority,-18.225,28.0611095428,GPS,-18.225,28.0611095428,True,True
+98741,Zimbabwe,Midlands,Zhomba Rural Health Clinic,Rural Health Clinic,MoH,-17.44139,28.3130607605,GPS,-17.44139,28.3130607605,True,True
+98742,Zimbabwe,Midlands,Zhombe Rural Hospital,Rural Hospital,FBO,-18.70336,29.3849391937,GPS,-18.70336,29.3849391937,True,True
+98743,Zimbabwe,Midlands,Zvamabande Rural Health Clinic,Rural Health Clinic,MoH,-19.80181,30.1359405518,GPS,-19.80181,30.1359405518,True,True
+98744,Zimbabwe,Midlands,Zvarota Rural Health Clinic,Rural Health Clinic,MoH,-19.5565,30.2211704254,GPS,-19.5565,30.2211704254,True,True
+98745,Zimbabwe,Midlands,Zvishavane District Hospital,District Hospital,MoH,-20.30581,30.0523891449,GPS,-20.30581,30.0523891449,True,True
